@@ -1,0 +1,25 @@
+{
+  "tagIndex": {},
+  "refIndex": {},
+  "fileIndex": {
+    "ede457be7fa35": {
+      "T000001": {"level": "H1", "title": "A Seed, Once Sown", "layout": "DOCUMENT", "cCount": 27, "wCount": 7, "pCount": 1, "synopsis": ""}
+    },
+    "4a74ab1a502d8": {
+      "T000001": {"level": "H2", "title": "New Chapter", "layout": "DOCUMENT", "cCount": 11, "wCount": 2, "pCount": 0, "synopsis": ""}
+    },
+    "9a6ad89320d23": {
+      "T000001": {"level": "H3", "title": "New Scene", "layout": "DOCUMENT", "cCount": 9, "wCount": 2, "pCount": 0, "synopsis": ""}
+    },
+    "97e1378499cec": {
+      "T000001": {"level": "H1", "title": "Notes", "layout": "NOTE", "cCount": 5, "wCount": 1, "pCount": 0, "synopsis": ""},
+      "T000002": {"level": "H2", "title": "2023-10-02", "layout": "NOTE", "cCount": 947, "wCount": 146, "pCount": 12, "synopsis": ""}
+    }
+  },
+  "fileMeta": {
+    "ede457be7fa35": ["H1", 27, 7, 1],
+    "4a74ab1a502d8": ["H2", 11, 2, 0],
+    "9a6ad89320d23": ["H3", 9, 2, 0],
+    "97e1378499cec": ["H1", 952, 147, 12]
+  }
+}
