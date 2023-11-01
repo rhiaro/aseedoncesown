@@ -1,6 +1,7 @@
-%%~name: Witness the Dawn
-%%~path: e41308854709e/4a74ab1a502d8
-%%~kind: NOVEL/DOCUMENT
+# A Seed, Once Sown
+
+By Rhia Ro
+
 ## Witness the Dawn
 
 Elanqo was in the thicket of the Old Ones when the news came across the overstory that Saba was almost home. Finally!
@@ -61,7 +62,7 @@ The trio were bathed in the golden light of the setting sun. They came up here o
 
 The air was humid; typically so for this season. The succulent fronds that covered Elanqo's head, hanging down a little past their shoulders, were bulging healthily. Their genetic gifts, they were sure, meant that it was right and proper that they would follow Saba's route into the desert. They were _made_ for the desert. Their skin and fronds were even the same soft peachy shade as the sands which stretched on and on to foothills of the far southern mountain ranges.
 
-The final rays of sunlight dwindled and disappeared. Dimiti and Bianqo stopped arguing and turned to watch Farne rise above the horizon. Elanqo felt a surge of longing from Bianqo for the distant glowing disc. That was new. 
+The final rays of sunlight dwindled and disappeared. Dimiti and Bianqo stopped arguing and turned to watch Farne rise above the horizon. Elanqo felt a surge of longing from Bianqo for the distant glowing disc. That was new.
 
 "Will you go there?" Asked Dimiti. "When it's your turn?"
 
@@ -94,3 +95,8 @@ Dimiti's body chemistry depended heavily on the sunlight. They ran out of energy
 "It wouldn't be right," replied Dimiti wearily. "Not until after germination. Then I'll know if it's right."
 
 Elanqo shrugged, and fingered their fronds. "I want a 'duction to make these bigger. Or more down my back. So I can go a whole season in the desert without needing anything. I'm going to keep asking."
+
+* * *
+
+* * *
+

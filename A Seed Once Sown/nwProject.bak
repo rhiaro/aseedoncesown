@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<novelWriterXML appVersion="1.6.6" fileVersion="1.3" hexVersion="0x010606f0" timeStamp="2023-10-03 16:13:37">
+<novelWriterXML appVersion="1.6.6" fileVersion="1.3" hexVersion="0x010606f0" timeStamp="2023-10-29 18:23:04">
   <project>
     <name>A Seed, Once Sown</name>
     <title></title>
     <author>Rhia Ro</author>
-    <saveCount>1</saveCount>
-    <autoCount>2</autoCount>
-    <editTime>10</editTime>
+    <saveCount>3</saveCount>
+    <autoCount>7</autoCount>
+    <editTime>107306</editTime>
   </project>
   <settings>
     <doBackup>True</doBackup>
@@ -14,11 +14,11 @@
     <spellCheck>False</spellCheck>
     <spellLang>None</spellLang>
     <autoOutline>True</autoOutline>
-    <lastEdited>None</lastEdited>
+    <lastEdited>ede457be7fa35</lastEdited>
     <lastViewed>None</lastViewed>
-    <lastWordCount>11</lastWordCount>
-    <novelWordCount>11</novelWordCount>
-    <notesWordCount>0</notesWordCount>
+    <lastWordCount>167</lastWordCount>
+    <novelWordCount>14</novelWordCount>
+    <notesWordCount>153</notesWordCount>
     <autoReplace/>
     <titleFormat>
       <title>%title%</title>
@@ -40,7 +40,7 @@
       <entry blue="0" green="200" red="50">Main</entry>
     </importance>
   </settings>
-  <content count="8">
+  <content count="13">
     <item handle="c0c1a952c675b" order="0" parent="None">
       <name>Novel</name>
       <type>ROOT</type>
@@ -65,22 +65,34 @@
       <type>FOLDER</type>
       <class>NOVEL</class>
       <status>New</status>
-      <expanded>False</expanded>
+      <expanded>True</expanded>
     </item>
     <item handle="4a74ab1a502d8" order="0" parent="e41308854709e">
-      <name>New Chapter</name>
+      <name>Witness the Dawn</name>
       <type>FILE</type>
       <class>NOVEL</class>
       <status>New</status>
       <exported>True</exported>
       <layout>DOCUMENT</layout>
-      <charCount>11</charCount>
+      <charCount>16</charCount>
+      <wordCount>3</wordCount>
+      <paraCount>0</paraCount>
+      <cursorPos>19</cursorPos>
+    </item>
+    <item handle="4355e81313d39" order="1" parent="e41308854709e">
+      <name>Map of the Ages</name>
+      <type>FILE</type>
+      <class>NOVEL</class>
+      <status>New</status>
+      <exported>True</exported>
+      <layout>DOCUMENT</layout>
+      <charCount>8</charCount>
       <wordCount>2</wordCount>
       <paraCount>0</paraCount>
       <cursorPos>0</cursorPos>
     </item>
-    <item handle="9a6ad89320d23" order="1" parent="e41308854709e">
-      <name>New Scene</name>
+    <item handle="9a6ad89320d23" order="2" parent="e41308854709e">
+      <name>A Story, Retold</name>
       <type>FILE</type>
       <class>NOVEL</class>
       <status>New</status>
@@ -96,14 +108,62 @@
       <type>ROOT</type>
       <class>PLOT</class>
       <status>New</status>
-      <expanded>False</expanded>
+      <expanded>True</expanded>
+    </item>
+    <item handle="97e1378499cec" order="0" parent="21bf8fe10139c">
+      <name>Notes</name>
+      <type>FILE</type>
+      <class>PLOT</class>
+      <status>New</status>
+      <exported>True</exported>
+      <layout>NOTE</layout>
+      <charCount>952</charCount>
+      <wordCount>147</wordCount>
+      <paraCount>12</paraCount>
+      <cursorPos>21</cursorPos>
     </item>
     <item handle="ef4754f3e2e54" order="2" parent="None">
       <name>Characters</name>
       <type>ROOT</type>
       <class>CHARACTER</class>
       <status>New</status>
-      <expanded>False</expanded>
+      <expanded>True</expanded>
+    </item>
+    <item handle="46b2c67a6cb7b" order="0" parent="ef4754f3e2e54">
+      <name>Elanquo</name>
+      <type>FILE</type>
+      <class>CHARACTER</class>
+      <status>Main</status>
+      <exported>True</exported>
+      <layout>NOTE</layout>
+      <charCount>7</charCount>
+      <wordCount>1</wordCount>
+      <paraCount>0</paraCount>
+      <cursorPos>0</cursorPos>
+    </item>
+    <item handle="92c091c38f872" order="1" parent="ef4754f3e2e54">
+      <name>Urmra-Calscinthi</name>
+      <type>FILE</type>
+      <class>CHARACTER</class>
+      <status>Main</status>
+      <exported>True</exported>
+      <layout>NOTE</layout>
+      <charCount>16</charCount>
+      <wordCount>1</wordCount>
+      <paraCount>0</paraCount>
+      <cursorPos>0</cursorPos>
+    </item>
+    <item handle="834eda094800e" order="2" parent="ef4754f3e2e54">
+      <name>Cryptum Effingis Daracrin a-Nemta</name>
+      <type>FILE</type>
+      <class>CHARACTER</class>
+      <status>Main</status>
+      <exported>True</exported>
+      <layout>NOTE</layout>
+      <charCount>33</charCount>
+      <wordCount>4</wordCount>
+      <paraCount>0</paraCount>
+      <cursorPos>0</cursorPos>
     </item>
     <item handle="1dd617abd447a" order="3" parent="None">
       <name>World</name>
