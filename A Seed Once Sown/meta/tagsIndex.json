@@ -6,7 +6,7 @@
       "T000001": {"level": "H1", "title": "A Seed, Once Sown", "layout": "DOCUMENT", "cCount": 27, "wCount": 7, "pCount": 1, "synopsis": ""}
     },
     "4a74ab1a502d8": {
-      "T000001": {"level": "H2", "title": "New Chapter", "layout": "DOCUMENT", "cCount": 11, "wCount": 2, "pCount": 0, "synopsis": ""}
+      "T000001": {"level": "H2", "title": "Witness the Dawn", "layout": "DOCUMENT", "cCount": 9920, "wCount": 1714, "pCount": 46, "synopsis": ""}
     },
     "9a6ad89320d23": {
       "T000001": {"level": "H3", "title": "New Scene", "layout": "DOCUMENT", "cCount": 9, "wCount": 2, "pCount": 0, "synopsis": ""}
@@ -14,12 +14,28 @@
     "97e1378499cec": {
       "T000001": {"level": "H1", "title": "Notes", "layout": "NOTE", "cCount": 5, "wCount": 1, "pCount": 0, "synopsis": ""},
       "T000002": {"level": "H2", "title": "2023-10-02", "layout": "NOTE", "cCount": 947, "wCount": 146, "pCount": 12, "synopsis": ""}
+    },
+    "4355e81313d39": {
+      "T000001": {"level": "H3", "title": "New File", "layout": "DOCUMENT", "cCount": 8, "wCount": 2, "pCount": 0, "synopsis": ""}
+    },
+    "46b2c67a6cb7b": {
+      "T000001": {"level": "H1", "title": "Elanquo", "layout": "NOTE", "cCount": 7, "wCount": 1, "pCount": 0, "synopsis": ""}
+    },
+    "92c091c38f872": {
+      "T000001": {"level": "H1", "title": "Urmra-Calscinthi", "layout": "NOTE", "cCount": 16, "wCount": 1, "pCount": 0, "synopsis": ""}
+    },
+    "834eda094800e": {
+      "T000001": {"level": "H1", "title": "Cryptum Effingis Daracrin a-Nemta", "layout": "NOTE", "cCount": 33, "wCount": 4, "pCount": 0, "synopsis": ""}
     }
   },
   "fileMeta": {
     "ede457be7fa35": ["H1", 27, 7, 1],
-    "4a74ab1a502d8": ["H2", 11, 2, 0],
+    "4a74ab1a502d8": ["H2", 9920, 1714, 46],
     "9a6ad89320d23": ["H3", 9, 2, 0],
-    "97e1378499cec": ["H1", 952, 147, 12]
+    "97e1378499cec": ["H1", 952, 147, 12],
+    "4355e81313d39": ["H3", 8, 2, 0],
+    "46b2c67a6cb7b": ["H1", 7, 1, 0],
+    "92c091c38f872": ["H1", 16, 1, 0],
+    "834eda094800e": ["H1", 33, 4, 0]
   }
 }
