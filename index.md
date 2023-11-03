@@ -124,7 +124,19 @@ The sky overhead was a kind of bright grey, like the sun burned high just behind
 
 As they walked, always in the direction of the bird, which was sometimes close and sometimes distant, always diving and wheeling around, tendrils of water snaked up their legs and probed at parts of their body.
 
-One found a tightness in their left knee.
+One found a tightness in their left knee. The water pooled around the spot, bulging outwards and then soaking in, as if it had been suddenly sucked from inside. Elanqo felt their joint loosen and ease almost at once.
+
+Another tendril wove its way between their head fronds, coolly relieving tensions they hadn't even been aware of a moment before.
+
+They lifted their feet to walk in the usual manner, but the surface of the water rose with them, so they never lost contact with it. Elanqo experienced the enriching energy of the brytosphere entering their body as a thousand tiny prickles across the soles of their feet. They could follow each mote, each molecule as it travelled up their legs and through the internal network of their biology until it reached a place it was needed and was absorbed.
+
+As usual, Elanqo tried to focus the energy into growth, into maturation. To hasten the day they'd be ready to germinate.
+
+Elanqo walked ten thousand steps, growing stronger and more alert with each one. They scowled at the bird which still moved away in the distance, and hadn't stopped to circle an exit yet.
+
+The plan wasn't really to grind leaves for half of the day tomorrow; they had a plan that would let them automate that. If it worked. Once thatw as in place, they could commandeer a group of keen little plumules and set them to making decorations. Then there was the music; Elanqo had to catch up with a few different people to work out the options. They were pretty confident that Dimiti and Bianqo could take care of the rest of the food and drinks by themselves, but they'd check on them periodically of course. They'd have to remind them to get the fermented ambiboes out of storage. And they couldn't go without Saba's favourite toasted rokanuts to garnish everything. And of course no germination feast would be complete without a hot season fruit jelly tower, and Elanqo was determined to make sure Saba's was going to be the biggest and most colourful and most extravagent anyone could remember. People would be talking about it for seasons to come.
+
+Elanqo glanced impatiently at the bird again. The brytosphere would keep them as long as it determined they needed it, but surely it must be time to return to the herenow. They looked down at their feet and started. They almost stopped walking, but long habit kicked in; to lose momentum in the brytosphere was to become perilously lost.
 
 * * *
 
