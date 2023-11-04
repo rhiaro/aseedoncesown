@@ -134,9 +134,69 @@ As usual, Elanqo tried to focus the energy into growth, into maturation. To hast
 
 Elanqo walked ten thousand steps, growing stronger and more alert with each one. They scowled at the bird which still moved away in the distance, and hadn't stopped to circle an exit yet.
 
-The plan wasn't really to grind leaves for half of the day tomorrow; they had a plan that would let them automate that. If it worked. Once thatw as in place, they could commandeer a group of keen little plumules and set them to making decorations. Then there was the music; Elanqo had to catch up with a few different people to work out the options. They were pretty confident that Dimiti and Bianqo could take care of the rest of the food and drinks by themselves, but they'd check on them periodically of course. They'd have to remind them to get the fermented ambiboes out of storage. And they couldn't go without Saba's favourite toasted rokanuts to garnish everything. And of course no germination feast would be complete without a hot season fruit jelly tower, and Elanqo was determined to make sure Saba's was going to be the biggest and most colourful and most extravagent anyone could remember. People would be talking about it for seasons to come.
+The plan wasn't really to grind leaves for half of the day tomorrow; they had a plan that would let them automate that. If it worked. Once thatw as in place, they could commandeer a group of keen little plumules and set them to making decorations. Then there was the music; Elanqo had to catch up with a few different people to work out the options. They were pretty confident that Dimiti and Bianqo could take care of the rest of the food and drinks by themselves, but they'd check on them periodically of course. They'd have to remind them to get the fermented ambiboes out of storage. And they couldn't go without Saba's favourite toasted rokanuts to garnish everything. And of course no germination feast would be complete without a hot season fruit jelly tower, and Elanqo was determined to make sure Saba's was going to be the biggest and most colourful and most extravagent anyone could remember. People would be talking about it for seasons to come. But most importantly, there was Elanqo's gift to Saba.
 
 Elanqo glanced impatiently at the bird again. The brytosphere would keep them as long as it determined they needed it, but surely it must be time to return to the herenow. They looked down at their feet and started. They almost stopped walking, but long habit kicked in; to lose momentum in the brytosphere was to become perilously lost.
+
+The surface of the water around their wide flat feet had changed from deep rich green to the same shade of peach as Elanqo's own skin. It was like Elanqo was melting, merging with the sea, or whatever part of the brytosphere this sea represented. The patch of colour was spreading out in all directions, following Elanqo to keep them at the center even as it grew. Elanqo clenched their fists, kept their heart steady, and kept walking, one foot in front of the other.
+
+The bird was getting further away.
+
+Had anything like this happened before? Not to them. A change in the manifestation of the brytosphere _while someone was linked in_; they were sure they would have remembered coming across a mention of something like that.
+
+Elanqo tried to connect to the synctium but was immediately and sharply rebuffed.
+
+The sensation of the sea underfoot was no longer slick and smooth, but coarse. Grainy. Like sand.
+
+Suddenly it was the desert spreading out around them. The change had reached almost as far as Elanqo could see, the final vestiges of green water diminishing toward what passed for the horizon.
+
+There was never a sharp line marking the horizon in the brytosphere. It always hinted at a distinction between ground (or sea) and sky, but it was hard to look directly at it, it blurred into a hazy gradient, and often appeared unnervingly higher or lower in one's perspective than it did in the herenow. It was best to keep the horizon in one's peripheries.
+
+The surface was no longer completely flat, but gently rippled, wind-ruffled, arcing in small dunes that Elanqo had to mount and descend.
+
+The bird guide was a faraway speck.
+
+Elanqo tried various emergency exit strategies, to no avail. They even tried the patterns of thought that let them disconnect in haste from the synctium, but that _hurt_. A tendril of sand wound its way along Elanqo's spine and into the back of their neck to repair the damage.
+
+_I'm not panicking_, thought Elanqo, and pinged the overstory. They could see the traffic. Normal levels of high net activity, but slowed down relative to brytosphere time. But it was like a picture, flat and impenetrable. Normally the overstory was a multidimensional space that Elanqo could zoom into and ride along at any point, but now they could only see it, not touch, as if it was behind a pane of glass.
+
+They let go of the connection. For one instance they had switched focus completely away from the brytosphere and almost stopped their walk. They scanned the sky - still grey and featureless - frantically trying to relocate the bird.
+
+A rush of cold air overhead, and a croak that was the loudest sound Elanqo had ever heard emitted from a guide in the brytosphere. The bird was directly overhead, close, circling.
+
+Elanqo gripped their own shoulders in a tight hug, arms clenched across their chest, relief flooding them. They crouched, then jolted back upright in the herenow.
+
+They scrambled to a squat and peered out of the nook. It was still dark. The panic and conflusion faded quickly. The calm but energised feeling that usually followed a connection with the brytosphere resurfaced, and Elanqo stretched their limbs in satisfaction.
+
+_Weird glitch_, they thought, climbing back to the ground. _I wonder if anyone else felt it._
+
+From the position of Farne in the sky, the night was about half way through when Elanqo stepped out of the moss caves. It wouldn't be long before the pale light of second dawn started to bleed across the world.
+
+-------
+
+Elanqo had a special place; so far they had shared it with no-one. It was in a dense part of the jungle, a little way away from the main den, towards the big river called the Harshness that carved the jungle in two. They had found the entrance by chance, about twelve days after Saba had left on their germination journey. Elanqo had spent most of their time alone for quite some time after Saba left. The discovery had turned out to be the perfect place to continue their isolation. That is, until The Voice awoke.
+
+Elanqo nimbly traversed the undergrowth, twisting their limbs around tangled vines, slipping between the leaves of enormous ferns, deftly avoiding sinkholes, squeezing between moss-draped old branches.
+
+They reached the narrow suspension bridge over the gorge that marked the boundary of the main den, and raced across. The bridge swung from side to side and the panels clattered underfoot. Elanqo giggled. When they were much smaller, Saba had been afraid to cross this bridge; many plumules were. Saba would shriek and cling to one of the end posts while Elanqo raced up and down, seeing just how much they could make it sway. Elanqo never understood Saba's fear. There was no reason to believe they would fall. Even when there was no reason to hurry, Elanqo would rush across. They loved the feeling of motion; the horizon moving out of the corner of their eye; glimpses of the hundred foot drop to the colourful flower-filled canopy below. This must be what it's like to fly.
+
+On the other side of the bridge, Elanqo went more carefully. HIdden amongst the dense undergrowth here were tiny golden paradise flowers, whose shimmering petals concealed a single hooked claw. This latched easily onto skin and clothes, ripping the head off the flower and leaking a slowly working soporific toxin into its unwitting conveyance. It numbed the area it pierced, too, so you could have a lot of the venom in your bloodstream by the time you realised it had got you. And if you fell asleep before you managed to get to the brytosphere, you had better hope somebody knew where you'd gone.
+
+The ferns and palms and brambles gradually disappeared, replaced more and more by taller, wider trees with solid thick trunks. They were adorned with climbing plants whose aerial roots reached out and curled around branches, striving ever higher towards the gaps in the canopy.
+
+Before long the trees became so huge that Elanqo had had to work out the fastest route between them and avoid wrong turns or detours lest they end up doubling the distance to skirt a mile-round trunk.
+
+Beyond this, the trees became so huge that Elanqo was simply walking under the roots. They arched overhead forming enormous buttresses. Even in daytime, no light penetrated here.
+
+The hideaway entrance was beneath one such gargantuan growth. It was almost as if the tree had sprung from it, whatever the construct had been, some thousands of years ago.
+
+At first, Elanqo had thought they had found a new entrance to the moss caves. But the walls to this tunnel were not rocky and damp. Once past the mounds of decaying leaves and rotting branches and clumps upon clumps of grey fruiting fungi, the walls to the tunnel widened and smoothed out, becoming more like a corridor, something constructed. They were made of a material Elanqo had never felt anywhere else, cold and evenly ridged. The ground sloped gently downwards, and, beneath the silt that had drifted in from outside, was the same even texture as the walls. The walls met the floor at perfect right angles; nothing in the jungle or the main den did this. The ceiling curved overhead in a distinctively smooth arc.
+
+Elanqo had spent days exploring and mapping the place out when they had first found it, but by now they knew exactly where they were going.
+
+There were three doors at the end of the corridor. One in the final wall, where the route came to an abrupt end, and one in the walls each side facing one another. Elanqo took the left most one. it wasn't a door on hinge or a curtain of beads like most of those in the dens. There was a narrow crack down the center, which widened just enough when Elanqo forced it for them to squeeze through, then snapped back when they let it go from the other side.
+
+This room was where Elanqo was creating their gift for Saba.
 
 * * *
 
