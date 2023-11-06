@@ -362,7 +362,117 @@ Elanqo set the machine up on Rainer Corner. There was a small decorative fountai
 
 Rainer Corner was an out of the way spot in the main den. Not a high traffic area, but people often cut through that way on their way to or from the vineway to travel further afield. It was a short walk from the storehouse where the oacanout leaves were kept. Elanqo repurposed the barrow they had borrowed from Derria-Esto to fetch the first batch.
 
-First of all, Elanqo tested the machine.
+First of all, Elanqo tested the repaired machine.
+
+They turned the handle and inside rocks of various shapes and sizes, arranged to get progressively smaller and sharper, tumbled through a coil of strong, tensioned mycelial wire. A small conveyor shelf moved at the same time, into the body of the machine, and out the other side.
+
+Elanqo placed a handful of leaves on the conveyor and continued to turn the handle. A few moments later, the leaves emerged, shredded and crushed. Elanqo swept them into the barrow, then stepped back to contemplate the modifications needed. They had been figuring out how they would implement this for a long time.
+
+Using a couple of the strange parts from their hideaway, they constructed a kind of fanned wheel that could be turned by the gently churning fountain. They rigged this to the handle of the machine and waited with baited breath. Slowly, it began to turn. Then it stopped. Elanqo scowled. Perhaps they'd need to get into the innards of the fountain after all. They glanced around, then brazenly and confidently began removing the carved panels from the base. Soon they had access to the pump. It was a straightforward tweak to increase the strength of the flow. Soon they had the handle turning consistently. Simple.
+
+They moved the barrow to be in line with the end of the conveyor, so crushed leaves could fall into it directly. Then they just needed something to feed the leaves onto it.
+
+Elanqo sidled around the corner of a nearby mound house, and into a slightly busier area. They saw what they needed almost at once.
+
+"Zheni-Simbaya," Elanqo greeted the tall Germinated politely. "Are you well?"
+
+"I am well, little E'lo," Zheni-Simbaya replied. "Though I am still burdened by the wants and needs of Bishi-Tumalo-Aranthi-Qaba, which are in conflict. What they need is to root and join the Old Ones. What they want is to go to the stars. Meanwhile, I must help them in and out of the brytosphere each day just to keep going."
+
+Zheni-Simbaya was softly spoken, with a broad chest and large sad eyes. They gave an impression somehow of towering and diminishing at the same time. They were also genetically empowered to camouflage, their skin changing to blend in with their surroundings. The effectiveness of this was rather ruined by the heavy grey cloak which covered most of their body.
+
+"If only there was a way for Bishi-Tumalo-Aranthi-Qaba to be in two places at once," said Elanqo, with a glance at the sky.
+
+"I sense you need help with something yourself, little E'lo."
+
+"I do," Elanqo kept their voice sincere. "These tall reed baskets you use to arrange the walking poles," they pointed into the den beyond. "Could I use one for... the work I'm doing with oacanout? They're the perfect dimensions. I'll return it, of course."
+
+"You can, little E'lo." Zheni-Simbaya consolidated the contents of two of the tall narrow baskets into one, and brought the other back to Elanqo. "And with my warm wishes. But tell me: will you be fermenting the oacanout?"
+
+"That's the plan," said Elanqo. "Would you like some?"
+
+"If you can spare it, it's a great favourite of Bishi-Tumalo-Aranthi-Qaba. Perhaps you could take some to them directly when it is ready."
+
+"I'd be more than happy to, Zheni-Simbaya. It would be my pleasure."
+
+Zheni-Simbaya almost smiled - almost - and Elanqo walked slowly away, breaking into a sprint as soon as they rounded the corner. _Take fermented oacanout to one who should have long since rooted,_ they added to their mental task list for the next few days. _But I don't think the timing matters too much on that one_.
+
+Elanqo ripped the bottom out of the basket, relegating the problem of repairing it to some future version of themself as well, and positioned it over one end of the conveyor. They stuffed it full of the oacanout leaves, and placed a weighty rock on top. The textured sides of the basket were perfect to stagger the leaves' release, and the rock slowly forced them down to land on the conveyor in a neat stream.
+
+Elanqo took a moment to admire their handiwork. _Who says you can't be in two places at once_.
+
+As they walked through the den, weaving between closely packed newtrees with narrow straight trunks no thicker than an arm, Elanqo scanned the overstory and found a direct connection to Bianqo. They'd been waiting to hear from them. Elanqo summarised their idea about dried mzemelnee and Bianqo agreed enthusiastically to come along.
+
+On the way, Elanqo spotted the plumule Serina climbing a tree off to their left, and swerved into a detour with a quiet _aha_. Serina was a full five seasons older than Saba, but hadn't yet begun their germination. They had always been at home in trees, with long, strong arms and shorter crabbed legs. On the ground, they could usually be seen dashing about on four limbs instead of two. Here was a rare one who enjoyed the suspension bridge as much as Elanqo.
+
+"Hey!" Elanqo called up. "The newtree trunk was smooth and white with no branches or knots, but Serina had scaled it with ease. They were at the top, where the bark splayed out into a chaotic many-point star, as if it had suddenly hit the sky and not been able to stop growing in time.
+
+"Catch!" Serina's face appeared briefly, and Elanqo held out their hands. Large blue flower heads began to drift down. Elanqo plucked them gently from the air and placed them in a neat row on the ground.
+
+The flowers wer enot a part of the newtree, but grew in symbiosis with it. They were rootless plants which clung to the spread upper limbs of the tree, catching sunlight with enormous round leaves and exchanging it for the nutrients the newtree brought up from the ground in their own private wide net.
+
+"Can you come down? Just quick."
+
+Serina descended in a controlled slide down the straight trunk, stopping above Elanqo's head and looking down on them.
+
+"So Saba's back, eh."
+
+"Yeah. Two days. I wanted to ask about your Collection."
+
+Serina cocked their head. It was bald, with no fronds or appendages or foliage, but framed on each side with two large, fan-like ears. "Go on."
+
+"I need ball bearings for some of Derria-Esto's machines. Smooth and round." Elanqo got right to the point. "You have some."
+
+"What size?"
+
+Elanqo made a circle, touching the tips of two fingers.
+
+"What for? Will they get damaged?"
+
+"They'd get worn down over many seasons, but I just need them for today. You can have them back before there's any damage."
+
+Serina nodded. "How many?"
+
+"Eight."
+
+"Okay. If you can help me with hanging flowers?"
+
+"Sure, when-"
+
+"Come to my Collection place after cacophony, okay?"
+
+Elanqo nodded, and Serina disappeared back up the trunk, seemingly without moving their limbs at all.
+
+Elanqo had to run the rest of the way to meet Bianqo outside of Elia-Amna's place in time.
+
+Bianqo was already in conversation with Elia-Amno when Elanqo raced around the corner. Elia-Amna was as dark as night and wore a black baggy tunic, so at a quick glance they looked like an ill-matched shadow beside Bianqo. Elia-Amna had a lot of senses, with constantly twitching finger-like nodules covering their head and cheeks and running in quivering rows down their spine, arms and legs; but none of them could process sound. Bianqo and Elia-Amna, despite their close proximity, communicated via a private link in the overstory. Elanqo could sense their chatter as they walked over, but could not hear what they were saying. Bianqo heard Elanqo's approach, and looped them in at once. They were communicating not in words, but in sensations.
+
+At once, Elanqo could tell that Elia-Amna was sharing information with the plumules that they didn't ought to be. There had been widespread concern about the glitch in the wide net earlier - so it hadn't just been localised - and a fear that Saba's germination journey had something to do with it. But Elanqo couldn't grasp how that conclusion could be reached. Saba had found something that might change the nature of the brytosphere? Exciting. Elanqo always knew Saba would change the world.
+
+Elanqo observed passively for a while longer, then invoked a sense of tradition, a calling to their shared heritage, a connection with their cultural past. Bianqo weaved in their yearning for the stars, and together they laid the foundation of their request.
+
+They were met with wry amusement from Elia-Amna. _These kids tell a good story._ But Elia-Amna did concede that the traditional dish was only really worthwhile to make with all of the correct ingredients. They agreed to discuss the matter with Melia-Adonde-Samamba in the third quarter.
+
+And then Elia-Amna had a request to make of the plumules. They had detected a small surge in some kind of unusual exotic particles out by the Harshness. They had been planning to go there to investigate in person later that day. Perhaps Elanqo and Bianqo would do it instead?
+
+Elia-Amna painted pictures in their minds of what they ought to be looking for, implaning sensations into their consciousness that they had no organs to detect in the herenow. It was confusing to start with, but Elanqo quickly adjusted and began to revel in the newness. Was this connected with the glitch in the wide net? It would be interesting to find out.
+
+Bianqo went to resume their search for the more easily sourced ingredients for their ancient pudding, and they agreed to meet up with Elanqo at the start of third quarter.
+
+Elanqo made haste back to Rainer Corner.
+
+The machine was still running. A small crowd of very young plumules had gathered to watch. Elanqo took advantage of the opportunity at once.
+
+"Come here," they beckoned three of the smaller young ones, barely knee-height, stubby little legs, blob-like bodies. They squeaked with delight as Elanqo taught them how to climb on top of one another and balance beside the tall basket. The others gathered around and soon got the hang of grabbing bundles of leaves from the pile in their short fingers, passing them along the line and up the teetering trio, the topmost of whom could just reach to drop them in the basket.
+
+"Keep doing that," said Elanqo. "Careful, don't touch the conveyor. We can take the rock out if you're adding them at that speed. No that's perfect, keep it steady. I'm going to get more leaves. Practice, yes just like that until I get back."
+
+When Elanqo returned the plumules had formed a more stable pyramid, and had run out of leaves, having figured out their peak operating efficiency already. _Wow_, thought Elanqo. _What a stroke of luck._
+
+"Don't worry, the rest of you," they said to the disappointed few who hadn't managed to find a place in the operations. I'm going to get four more of them. Just... take it in turns now if you can? So you all get a practice. Careful! Don't push, you'll knock it over."
+
+Elanqo set off to Serina's place, with just a couple of anxious glances back over their shoulder as they left.
+
+Serina's place was at the top of an ancient torrent tree. The tree was as broad as a mound house, and the center of the trunk was hollow. It still lived, widening by the tinest of fractions every monsoon. Thin branches burst from its sides, all the way from almost the ground to its top, arcing out and drooping down covered year-round in small squiggly pale green leaves. Elanqo pushed a curtain of them aside and felt their way towards the triangular slit that was the only person-sized entrance to the interior of the tree. They climbed deftly up a staggered series of small hand and foot holds. Above their head hung woven hammocks, bags and pouches in all sizes, much like in the machine shed. These contained Serina's Collection. Unlike the machine shed, Serina's storage was arranged neatly in rows, ordered by size, meticulously sorted by function.
 
 * * *
 
