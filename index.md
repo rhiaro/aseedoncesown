@@ -472,6 +472,12 @@ When Elanqo returned the plumules had formed a more stable pyramid, and had run 
 
 Elanqo set off to Serina's place, with just a couple of anxious glances back over their shoulder as they left.
 
+The cacophony came, marking the beginning of second quarter. The neighbouring planet of Rannouckouch was rising, though Elanqo couldn't see it from where they were. The many creatures of the jungle voiced their surprise and delight at this every single day, the air filled with howls and screams, trills and caws. Birds took flight in huge masses, and insects that were usually silent found their clicking, shrieking, grating songs. Most of the plumules joined in too of course, and no small number of older people did as well. This lasted for as long as it took Rannouckouch to show its whole face in the sky. This was a particularly long time at the moment; the two planets were at the closest point to each other in their orbits.
+
+Elanqo glanced up to see it emerging over the treetops nearby. The planet's face filled half of the sky, all rippling hazy streaks of oranges and reds. It's distant surface churned with immense cosmic storms, thrashing endlessly in a poison atmosphere.
+
+Rannoukouch was almost completely overhead by the time the wild noises died down, but Elanqo was sure they could hear Serina yodeling in the distance from the high vantage point they doubtless occupied.
+
 Serina's place was at the top of an ancient torrent tree. The tree was as broad as a mound house, and the center of the trunk was hollow. It still lived, widening by the tinest of fractions every monsoon. Thin branches burst from its sides, all the way from almost the ground to its top, arcing out and drooping down covered year-round in small squiggly pale green leaves. Elanqo pushed a curtain of them aside and felt their way towards the triangular slit that was the only person-sized entrance to the interior of the tree. They climbed deftly up a staggered series of small hand and foot holds. Above their head hung woven hammocks, bags and pouches in all sizes, much like in the machine shed. These contained Serina's Collection. Unlike the machine shed, Serina's storage was arranged neatly in rows, ordered by size, meticulously sorted by function.
 
 * * *
