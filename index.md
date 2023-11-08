@@ -326,7 +326,7 @@ Elanqo helped Derria-Esto take the components down from packed and cluttered sto
 
 In the end it didn't really take long to fix up four of the six machines into working order. One was a complete write-off. A crucial cable had degraded so much that the whole thing would need to be disassembled to replace it.
 
-"This one needs new bearings here and here," Derria-Esto pointed. "And those will need them soon. If you're planning to use them all quarter we had better replace them now or they'll surely break down.|
+"This one needs new bearings here and here," Derria-Esto pointed. "And those will need them soon. If you're planning to use them all quarter we had better replace them now or they'll surely break down.
 
 "Okay," said Elanqo. "How do we fix it?" They did a quick mental calculation. They'd really need to have made a good start on crushing leaves by half way through second quarter if they stood any chance of getting the fermentation started in time. Derria-Esto turned to a small contraption suspended nearby, opened a hatch, and extracted some parts with a click.
 
@@ -404,11 +404,11 @@ As they walked through the den, weaving between closely packed newtrees with nar
 
 On the way, Elanqo spotted the plumule Serina climbing a tree off to their left, and swerved into a detour with a quiet _aha_. Serina was a full five seasons older than Saba, but hadn't yet begun their germination. They had always been at home in trees, with long, strong arms and shorter crabbed legs. On the ground, they could usually be seen dashing about on four limbs instead of two. Here was a rare one who enjoyed the suspension bridge as much as Elanqo.
 
-"Hey!" Elanqo called up. "The newtree trunk was smooth and white with no branches or knots, but Serina had scaled it with ease. They were at the top, where the bark splayed out into a chaotic many-point star, as if it had suddenly hit the sky and not been able to stop growing in time.
+"Hey!" Elanqo called up. The newtree trunk was smooth and white with no branches or knots, but Serina had scaled it with ease. They were at the top, where the bark splayed out into a chaotic many-point star, as if it had suddenly hit the sky and not been able to stop growing in time.
 
 "Catch!" Serina's face appeared briefly, and Elanqo held out their hands. Large blue flower heads began to drift down. Elanqo plucked them gently from the air and placed them in a neat row on the ground.
 
-The flowers wer enot a part of the newtree, but grew in symbiosis with it. They were rootless plants which clung to the spread upper limbs of the tree, catching sunlight with enormous round leaves and exchanging it for the nutrients the newtree brought up from the ground in their own private wide net.
+The flowers were not a part of the newtree, but grew in symbiosis with it. They were rootless plants which clung to the spread upper limbs of the tree, catching sunlight with enormous round leaves and exchanging it for the nutrients the newtree brought up from the ground in their own private wide net.
 
 "Can you come down? Just quick."
 
@@ -454,7 +454,7 @@ They were met with wry amusement from Elia-Amna. _These kids tell a good story._
 
 And then Elia-Amna had a request to make of the plumules. They had detected a small surge in some kind of unusual exotic particles out by the Harshness. They had been planning to go there to investigate in person later that day. Perhaps Elanqo and Bianqo would do it instead?
 
-Elia-Amna painted pictures in their minds of what they ought to be looking for, implaning sensations into their consciousness that they had no organs to detect in the herenow. It was confusing to start with, but Elanqo quickly adjusted and began to revel in the newness. Was this connected with the glitch in the wide net? It would be interesting to find out.
+Elia-Amna painted pictures in their minds of what they ought to be looking for, implanting sensations into their consciousness that they had no organs to detect in the herenow. It was confusing to start with, but Elanqo quickly adjusted and began to revel in the newness. Was this connected with the glitch in the wide net? It would be interesting to find out.
 
 Bianqo went to resume their search for the more easily sourced ingredients for their ancient pudding, and they agreed to meet up with Elanqo at the start of third quarter.
 
@@ -478,7 +478,7 @@ Elanqo glanced up to see it emerging over the treetops nearby. The planet's face
 
 Rannoukouch was almost completely overhead by the time the wild noises died down, but Elanqo was sure they could hear Serina yodeling in the distance from the high vantage point they doubtless occupied.
 
-Serina's place was at the top of an ancient torrent tree. The tree was as broad as a mound house, and the center of the trunk was hollow. It still lived, widening by the tinest of fractions every monsoon. Thin branches burst from its sides, all the way from almost the ground to its top, arcing out and drooping down covered year-round in small squiggly pale green leaves. Elanqo pushed a curtain of them aside and felt their way towards the triangular slit that was the only person-sized entrance to the interior of the tree. They climbed deftly up a staggered series of small hand and foot holds. Above their head hung woven hammocks, bags and pouches in all sizes, much like in the machine shed. These contained Serina's Collection. Unlike the machine shed, Serina's storage was arranged neatly in rows, ordered by size, meticulously sorted by function.
+Serina's place was at the top of an ancient torrent tree. The tree was as broad as a mound house, and the center of the trunk was hollow. It still lived, widening by the tinest of fractions every monsoon. Thin branches burst from its sides, all the way from almost the ground to its top, arcing out and drooping down covered year-round in small squiggly pale green leaves. Elanqo pushed a curtain of them aside and felt their way towards the triangular slit that was the only person-sized entrance to the interior of the tree. They climbed deftly up a staggered series of small hand and foot holds that lined the inside of the trunk. Above their head hung woven hammocks, bags and pouches in all sizes, much like in the machine shed. These contained Serina's Collection. Unlike the machine shed, Serina's storage was arranged neatly in rows, ordered by size, meticulously sorted by function.
 
 Elanqo scanned their surroundings and quickly deduced where they would find the ball bearings. But they weren't about to just help themself. Elanqo whistled. Serina must be in here somewhere.
 
@@ -520,7 +520,7 @@ By the time Elanqo was back at Rainer Corner, four new machines in tow on a low 
 
 "Please tell me you haven't all escaped from somewhere else you're supposed to be."
 
-There was a non-too-reassuring babble of sounds from the group, some laughtedr, some partly formed words, and a series of rapid excited emotes aimed at Elanqo across the overstory from the handful of older ones who knew how to broadcast on the high net. The group who were currently operating the pulveriser were fixated on their task, and another cluster stood nearby, clearly expecting to take the next shift.
+There was a non-too-reassuring babble of sounds from the group, some laughter, some partly formed words, and a series of rapid excited emotes aimed at Elanqo across the overstory from the handful of older ones who knew how to broadcast on the high net. The group who were currently operating the pulveriser were fixated on their task, and another cluster stood nearby, clearly expecting to take the next shift.
 
 Elanqo decided they'd just let this play out. They would have time to check back here over the course of the day, and hopefully anyone who was supposed to be supervising the plumules would find them doing something apparently useful and leave them to it.
 
@@ -532,7 +532,101 @@ Just in case something went wrong with their makeshift water wheel, Elanqo taugh
 
 That all took a bit longer than expected. Elanqo raced off to the creeper field to meet Serina.
 
-The creeper field was on the crest of a broad gentle slope that descended ultimately into a dense wetland which was inaccessible to all but those specialised for that terrain. It was an open area of ground like somebody had drawn a rough, messy circle on a map of the jungle and simply disappeared all of the trees and larger flora inside the line. Instead, the whole area was hung with trailing plants of all kinds. Several especially thick vines provided the core, strung across the clearing between trees on either side, and everything else hung from those. Elanqo could reach the lowest of them from the wet, mossy ground if they stood on tiptoe and stretched, and they crisscrossed upwards in a complicated tangle to the height of the tallest trees.
+The creeper field was on the crest of a broad gentle slope that descended ultimately into a dense wetland which was inaccessible to all but those specialised for that terrain. It was an open area of ground like somebody had drawn a rough, messy circle on a map of the jungle and simply disappeared all of the trees and larger flora inside the line. Instead, the whole area was hung with trailing plants of all kinds. Several especially thick vines provided the core, strung across the clearing between trees on either side, and everything else hung from those. Elanqo could reach the lowest of them from the wet, mossy ground if they stood on tiptoe and stretched, and they crisscrossed upwards in a complicated tangle to the height of the tallest trees, keeping most of the sunlight out and casting dappled moving shadows over everything.
+
+The made their way across the cold lumpy ground, wishing they had thought to grab some books on the way. Serina was pulling a section of vines lower so that they hung in rows and were reachable from the ground. An enormous sack of blue flowers from the newtrees hung from a sturdy branch at the edge of the clearing.
+
+"I think that should be enough," Serina panted, lowering another chunk of creeper with a tug. "Have you drained arraressa before?"
+
+Elanqo shook their head. Arraressa pollen contained a catalyst, a crucial component for many types of 'duction. It was also a hallucinogen.
+
+"Like this," Serina brought one of the flower heads over and showed Elanqo how to prise it apart. Beneath a tightly bunched nest of petals was a pair of long, fibrous tendrils with a tensile strength to rival mycelial wire. Serina uncoiled the tendrils and used them to tie the flower head to a vine. Then they poked a hole in the back, where the flower head had been detached from its stem. "You've gotta get right in until you feel this squishy sack bit. Feel that? Yeah. Make a little hole. You can use a sharp stick if you want. Then hang one of these underneath it." Serina produced a gauze pouch with pegged handles that attached neatly to the vine on either side of the flower head and hung beneath as if to catch it were the knot to come undone. Elanqo watched as a syrupy blob appeared in the hole Serina had made, and slowly dripped onto the waiting fabric.
+
+"The cloth has a special lining. It holds onto the pollen and the rest of it gradually soaks through and out the other side."
+
+"How long does it take to get all of it?"
+
+"We'll probably leave these here for the rest of the damp season. There's only maybe one or two harvests left."
+
+They worked in silence for a while. Elanqo let their body go into autopilot while they checked into the synctium to see what the next stage of processing the arraessa would be before it oculd be used in 'duction. It involved heating and distilling and a reaction with another plant extract, another complicated looking filter, and more distillations.
+
+"Hey, watch what you're doing."
+
+Elanqo snapped back to the herenow. They had only intended to make a shallow connection to the synctium, but it was easy to get called in deeper. They had let go of the last of their physical control for a moment, and dropped the flowers they had been holding onto the ground.
+
+"Oops," Elanqo picked them up quickly before they absorbed too much moisture from the moss underfoot. "I'm concentrating," they grinned.
+
+"When will you go for your germination journey?" Elanqo asked all of a sudden.
+
+"Huh?"
+
+"You must have thought about it. What's your plan?"
+
+"Oh. I don't think I'm going to do one."
+
+Elanqo almost dropped the flower again.
+
+"What do you mean? But you _have_ to do one."
+
+"Who says?"
+
+"Well, i'ts just. Everone does. How will you, you know, grow up?"
+
+"Can't stop me from growing up," said Serina. "And can't stop me from getting 'ductions too, if I need them. I don't mind missing out on all those Germinated special meetings and consultations you know. Gives me more time for my Collection, and other things."
+
+Elanqo was aghast. They had thought that Serina's body was just running a big behind the average schedule, not that they were _choosing_ not to... "But how is it possible? I mean if you're going to flower you need to be Germinated. Don't you?"
+
+Serina shrugged. "I guess I'll find out in a few dozen seasons. Maybe I can just be a plumule forever."
+
+Elanqo tried to imagine this, but they couldn't really make sense of the idea. To germinate and flower was the pattern of life. You only got a choice about things after that. They all needed the flowered to put things back into the brytosphere, instead of only taking out. It kept the balance. Elanqo decided that to choose not to germinate, and by implication not to flower, must be a truly selfish behaviour.
+
+"Serina..." Elanqo ventured. "Are you happy only to consume, and never to create anything for others?"
+
+"What are you talking about? I create plenty. I'm doing this work that only older plumules or Germinated can really do, and most plumules don't have the attention span and Germinated are too busy busy busy. I do this for days at a time, you know. I look after my Collection. I always have things that people need. And anyway, I know what you're really talking about. And I already know how to feed into the brytosphere. You don't have to be flowered to do it. I figured it out myself."
+
+"How-"
+
+"But that' snot really my point. All this is valuable in the herenow. All this is _real_. We existed without the wide net once, you know."
+
+"That's not true." Elanqo frowned. Could it be?
+
+Serina shrugged. "You'll figure it out your way. Do your journey across the desert. See if you find... or lose... the same thing as Saba at the other end."
+
+They were both silent for a while.
+
+"Okay, so I have a couple of other errands to run. You'r eokay to finish this for me, right?"
+
+Elanqo looked at the massive pile of flowers still to hang, their heart sinking. But Serina _had_ lent them part of their Collection. And plenty to think about. And they didn't want them to think they were suddenly unwilling because of the germination thing.
+
+"Sure," Elanqo croaked. "I'll finish it."
+
+As soon as Serina was out of sight, Elanqo slumped down into the wet ground. Water quickly seeped into their tunic but they paid no attention. They sunk at once into the synctium.
+
+_Did People exist before the brytosphere?_
+
+But the memories they found were fuzzy and confused. They seemed to contain people who weren't quite People, who looked and moved similarly but were fundamentally strange, isolated beings. Short lives. Always in conflict with their surroundings. Trying to change everything except themselves.
+
+Elanqo couldn't wait to talk about this with Saba. There _were_ people on separate networks on the other side of the desert. Perhaps Saba had spoken to them. Perhaps that was who the distorted past dreams of the synctium were about. Saba wasn't supposed to make contact with any other societies on their germination journey. It was supposed to be about isolation and reflection. But maybe they had anyway. Maybe they'd had no choice.
+
+Elanqo's heart raced with the possibilities.
+
+They couldn't stand here hanging flowers all day.
+
+Every so often, the upper canopy of the creepers shook or twitched. Some part of the vineway was connected into here, and sometimes there was a surge that reached this place. It wasn't usually strong enough to shake the lower vies so Elanqo was taken aback when a trembling rush threw a couple of flowers loose and to the ground.
+
+"Oh my gosh, I'm so sorry."
+
+Elanqo jumped at the voice. The plants above their head rustled again, and a pair of dark green legs appeared. After some wriggling, these were followed by a fuzz-covered body, arms and head; a Germinated appeared who could have passed for a fern growing from a mossy mound if they sat still long enough. Elanqo couldn't even tell if they were naked or clothed. Nor did Elanqo recognise them.
+
+"Who are you?"
+
+The stranger picked up another flower they had knocked loose, and retied it. It looked like they had done that before.
+
+"I'm called Belline-Tamaa. I'm really sorry, I didn't realise there was someone working here, or I would have gone around. Wow, this all looks like a very relaxing job."
+
+"I'm Elanqo. Would you... Like to help?"
+
+"You know, I'd really love to. I don't have enough time for things like this in my life. But
 
 * * *
 
