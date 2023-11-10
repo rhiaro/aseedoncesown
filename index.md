@@ -682,7 +682,83 @@ They waded out until the water reached their chest. THey held their arms aloft, 
 
 Half the distance to the object and they could feel the silt underfoot tapering sharply downwards. Another step and they cracked their knee against a hidden rock and winced. Something grazed their thigh. They stretched their arms forward and lifted their feet from the mud. Immediately they felt the Harshness try to carry them downstream, not with force but softly, tuggingly, a suggestion more than a demand. Elanqo resisted and pushed themself forward, perpendicular to the current, using rocks and roots as holdfasts and launching off points.
 
-The object - the shape of a bird with wings outstretched was clear now in spite of being upside down - was caught amongst a tangle of foliage dead and alive, an accumulation of fallen leaves and bits of stick that had built up between a boulder that formed a miniature island in the middle of the flow , and a huge, arcing tree trunk that extended from the opposite bank like a giant muddy claw.
+The object - the shape of a bird with wings outstretched was clear now in spite of being upside down - was caught amongst a tangle of foliage dead and alive, an accumulation of fallen leaves and bits of stick that had built up between a boulder that formed a miniature island in the middle of the flow, and a huge, arcing tree root that extended from the opposite bank like a giant muddy claw.
+
+Elanqo sized the tree root up as they approached it. It would probably be easier to get back out that way, though it would put them on the wrong side of the river for Eliya-Amna's errand, and mean going the long way back to the main den.
+
+_At least it's not at the bottom._
+
+The bird was about the size of Elanqo's torso. They grabbed for it with one hand, stretching over the mud and twigs, and hooked a finger around enough of the frame to tug at it, but it was lodged fast. Elanqo sighed and tried to climb on the boulder island. It wa sslick with algae, with enough texture to be sharply painful but not enough to get a grip on. They scrambled around the other side of it and got a hold on an offshoot of the giant tree root. This was pretty slimy too, but much easier to grip, and Elanqo pulled themself out of the water and climbed around the root until they were looking down on the bird from above. The only way to reach it was for Elanqo to wrap their legs tight around part of the root, and swing upside down. They locked their ankles together, twisting them around each other ina  way that made them look broken, and stretched out their arms to grasp the bird in both hands. THey pulled hard and it lifted free of the mood with a slurping sound that was audible even over the rush of the water. For its size, the piece didn't weigh very much. Elanqo couldn't tell what it was made of, even after they righted themself and examined it more closely, legs still wrapped tight around the root.
+
+Elanqo made their way carefully along the top of the root. It was wide enough to put one foot in front of the other, but not by much. They held the bird out in front of them to help with balance, and wished they had a tail as well. They glanced back once with regret at their tunic, hanging limp on the other side of the river like a little yellow flag with no wind to lift it.
+
+Mostly Elanqo wondered if there was anything in the pocket it would be worth retrieving it for, and decided it could all wait until later.
+
+They found a message from Bianqo on the high net. They were delayed on their way to the Harshness, but would catch up with Elanqo as soon as possible.
+
+Elanqo reflected on the location that Eliya-Amna had shared with them both and walked upriver, pushing through undergrowth as they tried to work out exactly where they should go. The bird model kept getting caught on leaves and branches and Elanqo was starting to run out of patience for wrestling it free. Sharp scratchy plants and stinging leaves attacked the parts of Elanqo's body normally at least somewhat protected by clothes. By the time they reached a proper track, they were feeling distinctly miserable. _Should have just stuck to hanging flowers._
+
+Bianqo didn't seem to be anywhere close yet, and Elanqo wasn't all that far from their hideaway. It would be a welcome detour to have a chance to wash the mud and blood and algae off their body, and perhaps check on the progress of their lichen as well.
+
+"Good day, Elanqo," the Voice greeted them as usual. "What do you have there?"
+
+Elanqo slammed the mud-crusted leaf-spattered bird on a work bench a little harder than they intended. "It's art."
+
+Having washed themself in the little basin in the corner and dried themself on a sheet they found in a storage draw, Elanqo was starting to feel better.
+
+"What do you know about _proximian_ particles?" They asked the Voice while they carefully cleaned off the spindly frame of the bird under the tap. To Elanqo's surprise, the Voice answered at once.
+
+"Proximian particle is a colloquial term for a class of molecules which includes repron-3-5, repron-3-6 and allendite. These are waste products of several common energy generation methods, though I'd have to read around a bit if you wanted to know the details. They're harmless to the natural environment."
+
+Elanqo frowned. None of that made much sense. "Energy comes from the sun," they said. "Why would there be proximian particles near here? Can you detect them?"
+
+There was a pause. "You're right, I'm detecting repron-3-5 about one and a half kilostomps west of here. That's unusual."
+
+"I think Eliya-Amna thought so too. Wait, did I leave a change of clothes here a while back?"
+
+"In the fourth cupboard from the right."
+
+"Thanks!" Elanqo dropped the bird in the sink and went to look. They found a brown tunic crumpled up at the bottom of the cupboard where it had fallen from a hook. It had a dark green stain down the front. "Oh right. I remember why I left this here." But it was better than nothin.
+
+When Elanqo had cleaned the bird off completely, they examined it more closely. Its form was shaped from a single continuous strand about as thick as Elanqo's finger, but flat. The strand had been bent and twisted and curved around itself in a way that reminded Elanqo of basket weaving, though this was far more intricate than any basket they had ever seen. They couldn't figure out how the material could have been flexible enough to form into the shape, yet so immovably rigid now. The strand was carved with tiny letters in an elaborate script that Elanqo didn't recognise. They followed the weave around, turning the bird over in their hands, looking for an end or a break in the markings, but it was continuous.
+
+"What is art?" Elanqo asked the Voice.
+
+"That is art," said the voice. Elanqo imagined a smirk behind the neutral tones.
+
+"How do _you_ define art, I mean."
+
+"Art is an activity that involves the creation of objects, sounds or combinations of words that bring pleasure to an audience, but serves no practical function. It is a process of creative invention based on emotion or instinct."
+
+"Hmm." That didn't quite seem right.
+
+The ramapid and ilyarid lichens were developing as Elanqo had hoped, which was a relief. The semaphid hadn't done a lot, but it wasn't dead. Maybe it would get a growth spurt later. They decided not to mess with any of them further for now.
+
+--------
+
+Elanqo met Bianqo by a grove of sruba trees. The location the Voice had described, and that Eliya-Amna had conveyed were more or less identical.
+
+Bianqo gesticulated at the air. _There's nothing here._
+
+Elanqo remembered the sensations that Eliya-Amna had shared with them. "I think Eliya-Amna would 'see' something if they were here. let's just look for anything out of the ordinary."
+
+Bianqo pointed at the bird model in Elanqo's hand. "Oh, this is for someone else. Errand trade. I pulled it from the river." The two of them searched around for a while but came up with nothing. No growths, no weird smells, no unusual air currents, no strange pieces of mysterious machines. Then Elanqo had an idea.
+
+They sat down and connected with the wide net. The presence of the brytosphere differed depending on where you were in the herenow; they could tell at once that something was off. They were walking through a tunnel - a very normal and common experience - with indistinct sides and dome overhead; they seemed close in, but Elanqo couldn't touch them if they reached out their arms. It was like being surrounded by a thick insubstantial fog, but more defined, more bounded. The path to walk through the tunnel was clear, there was no need for a guide in this manifestation. Wisps of mist curled around Elanqo's ankles and rose unbidden up to their body, healing scrapes and bruises. The ground, which looked like rock with a thin layer of haze covering it, rose and fell under each footstep.
+
+What was wrong was the smell.
+
+There should be no smell in the brytosphere. There was no air to carry one, no physicality at all. Any such sensations one thought they felt were illusions, tricks the brain played on itself as it searched for the familiarity of the herenow. Usually this took the form of touch, of the texture and solidity of the ground underfoot.
+
+But the smell was sharp and real, bitter and acrid, not like any plant Elanqo had every encountered. They fell to a crawl, still shuffling forwards, but curled up as tightly in on themself as they could, and the brytosphere let them go.
+
+Bianqo had followed suit, and was standing very still, resting lightly against the trunk of a tree. Bianqo always connected to the wide net standing up; Elanqo thought this was quite weird.
+
+It wasn't long before they re-emerged too. They went from uncanny stillness, looking for all the world like a part of the tree they stood beside, to animated gesturing with astonishing rapidity. Elanqo had never seen them move so much all at once.
+
+"Yes, I smelled that too. What could it be? Do you think we should be worried?"
+
+They speculateda bout the possible causes as they walked along a well-used trail back to the main den. They both connected to the wide net again in different places for comparison, and found everything normal. At leaset they had something to report to Eliya-Amna.
 
 * * *
 
