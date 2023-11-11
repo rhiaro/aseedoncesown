@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<novelWriterXML appVersion="1.6.6" fileVersion="1.3" hexVersion="0x010606f0" timeStamp="2023-11-10 23:21:35">
+<novelWriterXML appVersion="1.6.6" fileVersion="1.3" hexVersion="0x010606f0" timeStamp="2023-11-11 10:22:42">
   <project>
     <name>A Seed, Once Sown</name>
     <title></title>
     <author>Rhia Ro</author>
     <saveCount>3</saveCount>
-    <autoCount>35</autoCount>
-    <editTime>803387</editTime>
+    <autoCount>37</autoCount>
+    <editTime>843054</editTime>
   </project>
   <settings>
     <doBackup>True</doBackup>
@@ -16,8 +16,8 @@
     <autoOutline>True</autoOutline>
     <lastEdited>4a74ab1a502d8</lastEdited>
     <lastViewed>None</lastViewed>
-    <lastWordCount>13915</lastWordCount>
-    <novelWordCount>13565</novelWordCount>
+    <lastWordCount>14811</lastWordCount>
+    <novelWordCount>14461</novelWordCount>
     <notesWordCount>350</notesWordCount>
     <autoReplace/>
     <titleFormat>
@@ -74,10 +74,10 @@
       <status>New</status>
       <exported>True</exported>
       <layout>DOCUMENT</layout>
-      <charCount>76901</charCount>
-      <wordCount>13554</wordCount>
-      <paraCount>378</paraCount>
-      <cursorPos>68767</cursorPos>
+      <charCount>82079</charCount>
+      <wordCount>14450</wordCount>
+      <paraCount>410</paraCount>
+      <cursorPos>82798</cursorPos>
     </item>
     <item handle="4355e81313d39" order="1" parent="e41308854709e">
       <name>Map of the Ages</name>

@@ -74,7 +74,7 @@ Elanqo shuddered and turned away, pretending to be preoccupied with a pattern of
 
 "Perfect. Bianqo?"
 
-Bianqo emoted and mimed: a dip in the synctium to retrieve the knowledge of how to prepare a sweet delicacy associated traditionally with the constellations that were overhead when Saba [was born]. None of the three had ever eaten it, it was a truly archaic recipe, but Ipti-Ominno-Emiana had agreed that this was a worthwhile occasion for all to rediscover it.
+Bianqo emoted and mimed: a dip in the synctium to retrieve the knowledge of how to prepare a sweet delicacy associated traditionally with the constellations that were overhead when Saba was sown. None of the three had ever eaten it, it was a truly archaic recipe, but Ipti-Ominno-Emiana had agreed that this was a worthwhile occasion for all to rediscover it.
 
 "Great. And I'll spend first half crushing oacanout leaves, or at least I can find someone else to take over. Because we're going to need so much of that."
 
@@ -532,7 +532,7 @@ Just in case something went wrong with their makeshift water wheel, Elanqo taugh
 
 That all took a bit longer than expected. Elanqo raced off to the creeper field to meet Serina.
 
-The creeper field was on the crest of a broad gentle slope that descended ultimately into a dense wetland which was inaccessible to all but those specialised for that terrain. It was an open area of ground like somebody had drawn a rough, messy circle on a map of the jungle and simply disappeared all of the trees and larger flora inside the line. Instead, the whole area was hung with trailing plants of all kinds. Several especially thick vines provided the core, strung across the clearing between trees on either side, and everything else hung from those. Elanqo could reach the lowest of them from the wet, mossy ground if they stood on tiptoe and stretched, and they crisscrossed upwards in a complicated tangle to the height of the tallest trees, keeping most of the sunlight out and casting dappled moving shadows over everything.
+The creeper field was on the side of a broad gentle slope that descended ultimately into a dense wetland which was inaccessible to all but those specialised for that terrain. It was an open area of ground like somebody had drawn a rough, messy circle on a map of the jungle and simply disappeared all of the trees and larger flora inside the line. Instead, the whole area was hung with trailing plants of all kinds. Several especially thick vines provided the core, strung across the clearing between trees on either side, and everything else hung from those. Elanqo could reach the lowest of them from the wet, mossy ground if they stood on tiptoe and stretched, and they crisscrossed upwards in a complicated tangle to the height of the tallest trees, keeping most of the sunlight out and casting dappled moving shadows over everything.
 
 The made their way across the cold lumpy ground, wishing they had thought to grab some books on the way. Serina was pulling a section of vines lower so that they hung in rows and were reachable from the ground. An enormous sack of blue flowers from the newtrees hung from a sturdy branch at the edge of the clearing.
 
@@ -718,7 +718,7 @@ There was a pause. "You're right, I'm detecting repron-3-5 about one and a half 
 
 "In the fourth cupboard from the right."
 
-"Thanks!" Elanqo dropped the bird in the sink and went to look. They found a brown tunic crumpled up at the bottom of the cupboard where it had fallen from a hook. It had a dark green stain down the front. "Oh right. I remember why I left this here." But it was better than nothin.
+"Thanks!" Elanqo dropped the bird in the sink and went to look. They found a brown tunic crumpled up at the bottom of the cupboard where it had fallen from a hook. It had a dark green stain down the front. "Oh right. I remember why I left this here." But it was better than nothing.
 
 When Elanqo had cleaned the bird off completely, they examined it more closely. Its form was shaped from a single continuous strand about as thick as Elanqo's finger, but flat. The strand had been bent and twisted and curved around itself in a way that reminded Elanqo of basket weaving, though this was far more intricate than any basket they had ever seen. They couldn't figure out how the material could have been flexible enough to form into the shape, yet so immovably rigid now. The strand was carved with tiny letters in an elaborate script that Elanqo didn't recognise. They followed the weave around, turning the bird over in their hands, looking for an end or a break in the markings, but it was continuous.
 
@@ -731,6 +731,12 @@ When Elanqo had cleaned the bird off completely, they examined it more closely. 
 "Art is an activity that involves the creation of objects, sounds or combinations of words that bring pleasure to an audience, but serves no practical function. It is a process of creative invention based on emotion or instinct."
 
 "Hmm." That didn't quite seem right.
+
+"Okay, fine, tell me about the eastern mountains?"
+
+"The eastern mountains are unexplored. Nothing is known about them. Some people speculate that they're inhospitable to most life."
+
+Elanqo rolled their eyes. "Well obviously not, as people live there. And make art, even."
 
 The ramapid and ilyarid lichens were developing as Elanqo had hoped, which was a relief. The semaphid hadn't done a lot, but it wasn't dead. Maybe it would get a growth spurt later. They decided not to mess with any of them further for now.
 
@@ -758,7 +764,65 @@ It wasn't long before they re-emerged too. They went from uncanny stillness, loo
 
 "Yes, I smelled that too. What could it be? Do you think we should be worried?"
 
-They speculateda bout the possible causes as they walked along a well-used trail back to the main den. They both connected to the wide net again in different places for comparison, and found everything normal. At leaset they had something to report to Eliya-Amna.
+They speculateda bout the possible causes as they walked along a well-used trail back to the main den. They both connected to the wide net again in different places for comparison, and found everything normal. At least they had something to report to Eliya-Amna.
+
+-------
+
+Rainer corner was deserted when Elanqo finally got back. A small mountain range of shredded oacanout leaves formed a semicircle around the pulverisors, with the innocently burbling fountain at the center of it all. The baskets had been picked clean of any trace of green, and neatly stacked; bits and pieces of their ripped-out bottom piled carefully into the top one. The waterwheels had all been removed, so the machines were still and quiet.
+
+Elanqo gawped for a moment. Never had a plan of theirs been executed so well.
+
+The main den was in full shadow now, and Rannockouch was starting to dip below the opposite horizon. Elanqo had left Bianqo to give their report to Eliya-Amna, and still did'nt know whether or not they had procured the mzemelnee. But they had crossed paths with Dimiti on the way to Rainer Corner, who had been running around consulting and collecting, cooking and testing, and was confident that they could make the dish - bish hon nee - the name of which they had finally uncovered from the synctium as well.
+
+Elanqo still carried the bird art, which seemed to be getting heavier and more unwieldy by the moment. Several people had stopped them to ask about it on the way here.
+
+They put it down on the edge of the fountain, in the middle of the circle of pulverisors, where it should be mostly out of sight of overly curious passers-by, and loaded up Derria-Esto's barrow with shredded leaves. Before trundling them off in the direction of the preserving lodge, Elanqo opened up each pulversior in turn and removed the coloured spheres that had been serving as ball bearings. They dropped them into the stained pocket of their tunic, where they clinked dully against each other as Elanqo walked.
+
+Dimiti met them at the preserving lodge.
+
+"We got it! Melia-Adonde-Samamba has given us enough mzemelnee for sixty four portions, if they're small. I've already taken it and the rest of th ingredients to Maker Sonde-Ullinera. The only thing is, Melia-Adonde-Samamba wants us to collect something for them."
+
+Elanqo and Dimiti were joined by another of Saba's sibfriends, Usumara, at the preserving lodge, and the three of them spent the rest of third quarter packing the oacanout leaves into large ceramic jars. These would be lidded and buried for a longnight and a day, while the yeasts that lived naturally on them did their work. They would come out transformed, the pungent smell sweetened and the dark bitterness made salty, light and crisp. Everyone loved fermented oacanout leaves, even Bianqo. There wasn't an occasion in existence that didn't call for it.
+
+------------
+
+Elanqo stood in the creeper field with their mouth open and eyes wide. They clutched the bird to their chest, lost for words entirely.
+
+"What do you think?" Belline-Tamaa called from a tangle of vines overhead. "It looks good, right?"
+
+The vines that Serina had strung in careful rows, aligned to be equal distances apart, taking up exactly the amount of space needed for the flower heads and no more, had been completely rearranged. They were crisscrossed into a gigantic web in three dimensions, with the flowers scattered throughout like flies caught in a spider's trap. As far as Elanqo could tell, all of the flowers were hanging, correctly slung with the gauze pouches, but getting them all back down would be a nightmare.
+
+Belline-Tamaa dropped to the ground beside Elanqo with a soft squelch.
+
+"Thank you!" They said brightly, taking the bird. "I hope it wasn't too much trouble to get. You've changed your clothes."
+
+"Why did you-"
+
+"Come over here, look at it from this direction."
+
+Elanqo allowed themself to be lead a little way around the edge of the clearing, back to the beginning of the track that went to the main den. This put them on slightly higher ground, so they could see more of the depth to the... arrangement.
+
+"Look," Belline-Tamaa pointed. "Can you see it?"
+
+Elanqo's perception adjusted suddenly, and instead of a chaotic tangle of creepers and blue petals they saw one giant flower head, with its filaments pointing straight up to the sky, curling at the ends, as if suspended from an invisible vine. Elanqo laughed.
+
+Belline-Tamaa grabbed their wrist and pulled them into the very center of the clearing, then lay down on the soggy moss. "Come, come, looks straight up at the middle."
+
+Elanqo did as they were bid, soaking the back of their tunic in the process. The view from below was like...
+
+"It's a newtree?" They asked in awe. "As if we were in the center of the trunk, looking up at the branches spread all around?"
+
+"That's right!"
+
+"But... I mean, you know it can't stay like this. It's going to be so much extra work to collect the arraressa. I don't know what Serina is going to say."
+
+"I know," Belline-Tamaa laughed. "It's just for fun. Nothing lasts forever. Or even all the way from sunrise to sunset."
+
+"Is this art?"
+
+"Yes, Elanqo, it certainly is."
+
+"How do you know? What is art and what isn't, I mean?"
 
 * * *
 
