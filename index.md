@@ -852,7 +852,8 @@ For the first time that day, Elanqo walked without knowing where they were going
 
 Elanqo shook them all away. They realised they had been walking away from the main den rather than towards it. Their feet were taking them automatically back to the hideaway. They let them.
 
-The lichen hadn't changed much since they were last there. Nor had the Voice; Elanqo ignored its greeting, crossed the room where the lichen map was, and went through a doorway at the far end.
+The lichen hadn't changed much since they were last there.  
+They waited for the usual banal greeting from the Voice, fully prepared to ignore it completely, but the Voice must somehow have sensed this, because it remained silent. Elanqo crossed the room where the lichen map was, and went through a doorway at the far end.
 
 They hadn't realised there was a door here for a full season. They only found it eventually because of an offhand comment from the Voice at one point. It had been a slit in the wall, barely visible. The Voice hadn't been able to open it for them - its ability to control the various mechanisms in the place seemed to be patchy - but had directed Elanqo eventually to a thin but strong bar, and Elanqo had prised the opening just wide enough to squeeze through. It had stayed open.
 
@@ -917,6 +918,76 @@ They each had a small pouch, and worked until they were full, careful not to cru
 Hamasha-Vini greeted the pair with gratitude and relief when they returned to their workshop in the main den. The pair watched as Hamasha-Vini filled the various sections of the pot with dried flowers, closing and opening compartments in a very particular order. They clicked the final one into place and handed the bot to Bianqo.
 
 "Thank you both so much," Hamasha-Vini said to Elanqo in a soft, raspy voice. "It would have been so hard for me to find the time to go to the gully tonight, and waiting for the next longnight really would have been too long."
+
+------
+
+Elanqo and Bianqo spent the rest of the longnight with a group of young plumules, teaching them to weave garlands from strands of bright rainbow vines. Stubby plumule fingers with less developed hand-eye coordination were not well-suited to the task, but it was traditional that people of every generation, all who had interacted with Saba at any time, took part. The result was invariably a chaotic tangle of colour that made the germination platform, when they strung up their decorations, look like some kind of floral explosion.
+
+Elanqo heard familiar voices behind them, and turned.
+
+Serina and Belline-Tamaa approached, in animated conversation.
+
+"...a completely arbitrary point in someone's life! So many people have to make these decisions about their name, their bodies, before they're really ready," argued Serina.
+
+"The germination journey is supposed to make us ready, isn't it? And that can take as much or as little time as you need. Saba, for example," Belline-Tamaa gave a node and a little wave to Elanqo, "perhaps - now I don't know of course, I never met them and I don't know what happened out there," (Elanqo thought the seemed to stress that point a little too much, for some reason) "- perhaps they weren't quite ready to leave when they did, and that's why they've taken a bit longer to return."
+
+"But nobody should have to _leave_ before they're ready either. It's synchronised with the seasons, which has no actual connection with individual development. And there's this pressure when you reach a particular age. If you miss damp season you have to wait a whole monsoon before you can go, and then you're suddenly too old, you're late, you're weird."
+
+"You're right, that pressure is not good. That's something we can work on. But I thought you are arguing that the germination ceremony itself is a problem."
+
+Serina shrugged. "That's just a party. But all the ritual around it, the declaration of name, the discoveries, this idea that you have a plan, a path. I find it all a bit... obscene."
+
+"You argue like a Germinated, Serina," said Belline-Tamaa with a wink. "Hey look, Elanqo, you're making art."
+
+"Obscene, ritualistic art," Elanqo grinned back.
+
+"Oh, you two have met?"
+
+"Yeah, they-"
+
+"Serina showed me your handiwork in the creeper field," Belline-Tamaa interrupted. "That was a lot of work. Well done."
+
+"Uh. Thanks." Weird. "Hey, Serina," Elanqo scrambled up from their squat. "Here are your balls." They scooped them out of their tunic pocket and offered them to Serina in cupped hands. Serina pocketed them themself.
+
+"Thanks. I hope they were useful."
+
+"They were. You're going to love what I rigged up. But I do need to find a permanent solution soon."
+
+Serina and Belline-Tamaa joined the circle of garland makers, Serina grumbling about ceremony and ritual all the while they twisted their knots and loops with nimble practised fingers. Belline-Tamaa was a little more clumsy, like they hadn't done it before.
+
+As the longnight wore on, the circle grew and grew. As well as more Germinated, including Palemilia-Kimini and Derria-Esto, elder Flowered came along too, and the younger plumules were gradually untangled and taken away to bed.
+
+To everyone's surprise, the ancient Bishi-Tumalo-Aranthi-Qaba hobbled forth to join them, leaning heavily on the arm of Zheni-Simbaya. They sat beside Elanqo.
+
+After an appropriately polite and reverent greeting, Elanqo said, "I have some fermented oacanout leaves for you. Passed on in gratitude by Zheni-Simbaya, who so kindly lent me what I needed today."
+
+The elder squinted out from under the great sagging scaly dome that grew out from their head like the cap of a mushroom.
+
+"What you needed, hm?" Their voice was high and reedy. "What you needed, or what you wanted?"
+
+"I-"
+
+"Leave them be," Zheni-Simbaya nudged Bishi-Tumalo-Aranthi-Qaba gently. "They're working so hard for their sibfriend's germination."
+
+"Nothing to be ashamed of, your wants, you know, little E'lo," Bishi-Tumalo-Aranthi-Qaba continued unperturbed.  "What we want is a function of our environment, as much as our needs are, as much as our capacities and capabilities are. You were designed to fit into the world that existed when you were sown, but the world is always changing, and you with it. Your place is not fixed. Change can be passive, or change can be active."
+
+Almost everyone in the circle had fallen quite, and was listening carefully to Bishi-Tumalo-Aranthi-Qaba's speech.
+
+"You plumules - all of us, but plumules most of all - have an instinct, a natural wisdom that is valuable. Inside, you can sense what you need to become. Listen to your wants - not your needs! That's what tells you. Probe them. See if you can work out where they come from."
+
+Serina and Belline-Tamaa were both nodding although, Elanqo suspected, at different points.
+
+"Make sure they're truly your own wants. Other peoples' needs and wants can creep in. From the networks, all of them. That's right, even from the synctium! But also from the herenow. From your interactions every day. Don't fight this. We are all parts of the same whole in the end. But be aware. Then your instinct can do its best work."
+
+Bishi-Tumalo-Aranthi-Qaba looked around sharply, seeming to meet every eye in the group. Then they nodded, as if to themself, and set to threading the rainbow vines, slowly but accurately.
+
+Elanqo stayed with the group all night. They had thought to go back to the hideaway and make sure the lichen map was still growing right. But something told them they wanted - or perhaps needed - the presence of their sibfriends, the ecosystem of their family, more than they wanted to be alone, in that final time of waiting.
+
+-------
+
+As the sun pushed its first auburn rays over the treetops that made up the horizon, Elanqo squinted in the direction of the vineway. It seemed as though something unusual hovered overhead, following the distant moving foliage, like a flock of birds. Then they felt a familiar tug at the corner of their mind.
+
+"Good morning, little E'lo," said Saba across the overstory. "I'm home."
 
 * * *
 
