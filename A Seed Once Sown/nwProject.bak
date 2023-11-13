@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<novelWriterXML appVersion="1.6.6" fileVersion="1.3" hexVersion="0x010606f0" timeStamp="2023-11-12 22:21:52">
+<novelWriterXML appVersion="1.6.6" fileVersion="1.3" hexVersion="0x010606f0" timeStamp="2023-11-12 22:29:52">
   <project>
     <name>A Seed, Once Sown</name>
     <title></title>
     <author>Rhia Ro</author>
     <saveCount>3</saveCount>
-    <autoCount>40</autoCount>
-    <editTime>972604</editTime>
+    <autoCount>42</autoCount>
+    <editTime>973084</editTime>
   </project>
   <settings>
     <doBackup>True</doBackup>
@@ -14,10 +14,10 @@
     <spellCheck>False</spellCheck>
     <spellLang>None</spellLang>
     <autoOutline>True</autoOutline>
-    <lastEdited>4a74ab1a502d8</lastEdited>
+    <lastEdited>4355e81313d39</lastEdited>
     <lastViewed>None</lastViewed>
-    <lastWordCount>17947</lastWordCount>
-    <novelWordCount>17597</novelWordCount>
+    <lastWordCount>17986</lastWordCount>
+    <novelWordCount>17636</novelWordCount>
     <notesWordCount>350</notesWordCount>
     <autoReplace/>
     <titleFormat>
@@ -74,10 +74,10 @@
       <status>New</status>
       <exported>True</exported>
       <layout>DOCUMENT</layout>
-      <charCount>100148</charCount>
-      <wordCount>17586</wordCount>
-      <paraCount>493</paraCount>
-      <cursorPos>85345</cursorPos>
+      <charCount>99972</charCount>
+      <wordCount>17557</wordCount>
+      <paraCount>492</paraCount>
+      <cursorPos>0</cursorPos>
     </item>
     <item handle="4355e81313d39" order="1" parent="e41308854709e">
       <name>Map of the Ages</name>
@@ -86,10 +86,10 @@
       <status>New</status>
       <exported>True</exported>
       <layout>DOCUMENT</layout>
-      <charCount>8</charCount>
-      <wordCount>2</wordCount>
-      <paraCount>0</paraCount>
-      <cursorPos>0</cursorPos>
+      <charCount>378</charCount>
+      <wordCount>70</wordCount>
+      <paraCount>2</paraCount>
+      <cursorPos>385</cursorPos>
     </item>
     <item handle="9a6ad89320d23" order="2" parent="e41308854709e">
       <name>A Story, Retold</name>
