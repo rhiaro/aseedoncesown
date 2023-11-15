@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<novelWriterXML appVersion="1.6.6" fileVersion="1.3" hexVersion="0x010606f0" timeStamp="2023-11-15 01:17:33">
+<novelWriterXML appVersion="1.6.6" fileVersion="1.3" hexVersion="0x010606f0" timeStamp="2023-11-15 21:58:33">
   <project>
     <name>A Seed, Once Sown</name>
     <title></title>
     <author>Rhia Ro</author>
     <saveCount>3</saveCount>
-    <autoCount>80</autoCount>
-    <editTime>1155944</editTime>
+    <autoCount>84</autoCount>
+    <editTime>1230404</editTime>
   </project>
   <settings>
     <doBackup>True</doBackup>
@@ -16,8 +16,8 @@
     <autoOutline>True</autoOutline>
     <lastEdited>4355e81313d39</lastEdited>
     <lastViewed>None</lastViewed>
-    <lastWordCount>20084</lastWordCount>
-    <novelWordCount>19734</novelWordCount>
+    <lastWordCount>21128</lastWordCount>
+    <novelWordCount>20778</novelWordCount>
     <notesWordCount>350</notesWordCount>
     <autoReplace/>
     <titleFormat>
@@ -61,10 +61,10 @@
       <cursorPos>0</cursorPos>
     </item>
     <item handle="e41308854709e" order="1" parent="c0c1a952c675b">
-      <name>New Chapter</name>
+      <name>A Seed, Once Sown</name>
       <type>FOLDER</type>
       <class>NOVEL</class>
-      <status>New</status>
+      <status>Draft</status>
       <expanded>True</expanded>
     </item>
     <item handle="4a74ab1a502d8" order="0" parent="e41308854709e">
@@ -86,10 +86,10 @@
       <status>New</status>
       <exported>True</exported>
       <layout>DOCUMENT</layout>
-      <charCount>12600</charCount>
-      <wordCount>2168</wordCount>
-      <paraCount>44</paraCount>
-      <cursorPos>12691</cursorPos>
+      <charCount>18737</charCount>
+      <wordCount>3212</wordCount>
+      <paraCount>62</paraCount>
+      <cursorPos>12708</cursorPos>
     </item>
     <item handle="9a6ad89320d23" order="2" parent="e41308854709e">
       <name>A Story, Retold</name>
@@ -130,7 +130,7 @@
       <expanded>True</expanded>
     </item>
     <item handle="46b2c67a6cb7b" order="0" parent="ef4754f3e2e54">
-      <name>Elanquo</name>
+      <name>Elanqo</name>
       <type>FILE</type>
       <class>CHARACTER</class>
       <status>Main</status>
