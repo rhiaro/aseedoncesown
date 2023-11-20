@@ -1419,5 +1419,99 @@ Yuno-Bimhai turned to Urmra-Calscinthi. "So are you going to stick around to mee
 
 "Tempting... But I think I have to keep moving."
 
+It was sort of the truth. Urmra-Calscinthi was as naturally curious about the Visitors as everyone else seemed to be, but at the same time recoiled at the thought of meeting them face to face. It was quite foolish really. They couldn't avoid them forever and surely there was much to learn from them about travel between the stars> They had come on a generation ship after all. Those who had arrived on Nem had been sown in space. No-one could know it better.
+
+Now wasn't the time, but Urmra-Calscinthi quietly resolved to seek some of them out when they got to the main den.
+
+"I want to get to Lullamall in time for the networks festival. Will you come?"
+
+Yuno-Bimhai shook their head. "I think I'm going to be needed here."
+
+---
+
+Lullamall was a two day climb into the mountains, or a shortnight's ride on the trellis wheel. Normally, the motion of the trellis wheel made Urmra-Calscinthi feel sick enough to spend the time and energy walking, but they didn't have that luxury on this occasion. They had asked around after air-riders, but none were planning to pass near by for several days.
+
+The trellis wheel comprised small pods, suspended stomach-churningly from an enormous length of cable that led up and over the nearest mountain, down the other side, and three quarters of the way up the next one. The whole thing was kept in motion by a series of wheels turned by the water of falls high up in the mountains. As far as anyone knew, it had been running continuously for nearly three thousand years. The swinging compartments had changed over time, become more comfortable, safer, made from lighter materials, but the bulk of the structure was generations old.
+
+Urmra-Calscinthi retreated to the brytosphere for the duration of the journey, missing the views across the mountains, which from here looked like gigantic version of the petrified stumps of Nshimava. Their steep sides flowed, rounded and sweeping towards the earth in segments like the base of the stumps did before they split into roots and vanished underground.
+
+They arrived at dawn, the sun hidden behind the mountains of Marcin's Carn, but painting everything inland in a cheerful yellow light. This time nobody met Urmra-Calscinthi on the trellis wheel platform, and they walked alone along the sparsely wooded track that led to the saddle which was home to Lullamall.
+
+The place wa smuch as they remembered it. Like Nshimava, there were no structures which marked out the area as somewhere people resided. Sporadic groups of people were visible, sitting or walking, talking or doing things, and the paraphernalia of everyday life lay about. Urmra-Calscinthi had studied the patterns of the _stuff_ in Lullamall once, and then started subtly moving things around to create new patterns, either visual ones or leaving messages of meaning in the arrangements of objects. You could get away with that sort of thing in Lullamall; they had a culture and appreciation of more obscure forms of art that went back millennia.
+
+There were shallow caves at the highest point above the saddle. They were at the base of a steep and challenging climb that led ultimately to the summit of Marcin's Carn. No trees grew beyond them. Urmra-Calscinthi hiked up there. They greeted a few people on the way, who all seemed happy to see Urmra-Calscinthi back, but were busy with something else. Urmra-Calscinthi knew they would have a chance to reconnect properly with old friends at the first quarter Germinated gathering.
+
+The caves were used for storage. Urmra-Calscinthi walked past walls lined with containers made from empty oacanout shells stacked with cloth and fastenings for clothes, through barrels of leaves fermenting or pickling; around buckets of inks and paint; beneath the hanging bulbs which held seeds in suspension in case they were needed.
+
+Years before, they had requisitioned a small corner for safe storage of the maps they had been gathering, or making.
+
+They reached back into a pouch on the inside of their cloak and pulled out a small flat stone, about the size of their palm. On it, in intricate fine detail, a pattern had been etched. It looked a lot, to Urmra-Calscinthi's practiced eye, like a map, though not of any place they recognised. They had no success in tracing its origin in the sky tower where they found it, but the stone itself seemed to be the same kind of shale found widely in the upper reaches of the eastern mountains. Later, they could try connecting to the synctium through the object from here, a place that might be closer to its roots. It wasn't The Map of course, but it was a fascinating mystery to uncover nonetheless. They placed it in a nook besides the collection of scrolls and painted leaves and etched bark and various other creative ways people had translated their interpretations of the herenow onto materials over the centuries.
+
+* * *
+
+The networks festival was celebrated all over Nem. Every community had their own interpretation of it, and nowhere did it quite like Lullamall. The people there had stripped the ceremony down to its barest essentials, never forgetting that it was a ritual with a purpose. The energy they brought to it somehow continued to make it both a functional and beautiful occasion.
+
+* * *
+
+Urmra-Calscinthi went from being one of many to a part of a whole. The transition was more like remembering than becoming. It was a return to the true and proper state of being. The energy of the networks and of every living thing connected with them flowed freely through and around them, and they flowed with it. This was the only time they could experience all three networks at once; when they let go of themself and saw through the minds of others. When they _became_ the network.
+
+Their awareness was so dispersed and fragmented that they didn't realise when they became a triply connecting node, a nexus between the high, wide and deep nets.
+
+The overstory stretched out above, a sea of faces peering down, eyes wide, minds open, patiently awaiting, listening for knowledge, primed for connection, and projecting the sensations of their bodies. Here was where the line between the networks and the herenow was the thinnest; a membrane through which information flooded.
+
+The brytosphere surrounded them, endless boundless space where the balance was kept. A swirling, humming, constant thriving, a continuous chain of reactions and interactions, nudging and compensating, weighing up, shifting, realigning, preempting, filling in, smoothing out.
+
+The synctium was beneath them, a foundation; a root system that reached through the ages. Connection across time, the dense, entangled un-navigable ancestral memory of Nem.
+
+Urmra Calscinthi was back in their body, aware of their own mind, but no longer a spectator flowing with the currents of the collective. They were a participant, active, a being with a role to play and doing so came as naturally as breathing. They were enormous, as big as the world, with their feet in the synctium, entrenched and grounded. Their arms held wide, encircling Nem and everything in it. Their head in the overstory, seeing, hearing, tasting; knowing all that happened, all at once. If they had voice they would have gasped at the sense it all made.
+
+The brytosphere was fed by the herenow and the synctium simultanously. The overstory provided the bridge, and the brytosphere took the present of the herenow and the past of the synctium and used them to do its work of generating the future. Urmra-Calscinthi saw every link, every connection in the web of cause and effect that had ever been, the web of needs that encompassed - no that _was_ - the world, and the delicate threads of change that kept the equilibrium.
+
+The feeling lasted a moment, but it as a moment the length of a lifetime.
+
+And there was something else in that moment. A voice. A whisper, tiny against the backdrop of eternity. Urmra-Calscinthi didn't so much as hear it, but felt it like a tremor in their nerve endings.
+
+And then Urmra-Calscinthi flowered.
+
+The voice was the mapmaker, and it confirmed everything Urmra-Calscinthi had just discovered. And then it welcomed them to the next part of their life.
+
+The moment, which had been the merest fraction of time in the herenow, and indefinite aeons in the networks, came to an end, and Urmra-Calscinthi dissolved back into the gliding multitudes.
+
+-------
+
+"Flowering _during_ the networks festival."
+
+"In the middle of it all!"
+
+"I can't believe it."
+
+"So dramatic."
+
+"I don't know the the last time that's happened, I'd have to look back in the deep net."
+
+"Maybe it's a first."
+
+"No I heard a story, a legend maybe, that it happened before..."
+
+"That was a germination, not a flowering..."
+
+"Wasn't it both at once?"
+
+"That seems unlikely, two stories muddled."
+
+_It was both,_ thought the newly Flowered one, though how they could be sure of that they couldn't quite place. They sat in silence, letting the chatter of their companions wash over them.
+
+They had decisions to make now, though they were in no mood to make them. Would they have their flowering celebration in Lullamall, or return to the main den? They didn't feel like celebrating. It wasn't mandatory to have one, but everyone expected it. A formal declaration of their Flowered name and discoveries. The public closing of one door and opening of the next.
+
+And they couldn't decide if their question, such that it was, was over or not. They had never expected to feel uncertainty about this. On one hand, they had met the mapmaker. The details of that moment when they were the nexus were a blur, too big to hold onto, but a profound sense of confidence in the workings of the universe had settled in them that they knew had not been there before. Yet they did not have the Map. They had more of an idea of what it represented - that it was a blueprint, the layout of the networks and their composition of part of the herenow - but it floated as an idea, a vague sense, and Saba-Urmra-Calscinthi wanted a solid thing. Something they could look over and reflect on, and point at in explanation to other people.
+
+"Excuse me," they stood up abruptly and walked away from the group.
+
+They found themself drifting down the hillside, towards the edge of an old growth forest. It was dense, and dark between the trees, but Saba-Urmra-Calscinthi navigated the undergrowth as if they knew every clutch of fallen branches, every tangle of roots, with fluent grace. They walked for some time.
+
+They turned their mind outwards and noted the scents of the woodland, the sounds of twigs crunching underfoot and birds fluttering overhead. They brushed lightly by a large round bracket growing from the side of a tree and a cloud of spores puffed out. They stopped to marvel at them as they drifted, glimmering bronze in the light that filtered through the canopy, painting the air currents to reveal what had been invisible a moment before. Eerie creaking noises came from distant high places; tall trees finding their balance in a collaboration with the wind. A burrowing creature burst forth, kicked up leaves, vanished again with a flourish, startled by the unexpected footfall. Brambles snagged on their cloak, teasing forth loops of material and interrupting their passage with stuttering pops as they tugged the garment free. Branches and leaves hung low, stroking their arms and torso with cool gentle resistance as they pushed through. Small orange mushrooms practically glowed out from the ever-thickening dark brown leaf litter underfoot. The temperature had dropped; the ground was wetter. Strands of cobweb broke in their face, making them splutter and rub at their eyes, feeling the tickling remnants on their cheeks but not quite able to remove them.
+
+Saba-Urmra-Calscinthi had walked all the way down the mountainside, and was in the valley between Marcin's Carn and Morsefar.
+
 * * *
 
