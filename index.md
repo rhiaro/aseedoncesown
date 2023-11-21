@@ -1511,9 +1511,7 @@ They found themself drifting down the hillside, towards the edge of an old growt
 
 They turned their mind outwards and noted the scents of the woodland, the sounds of twigs crunching underfoot and birds fluttering overhead. They brushed lightly by a large round bracket growing from the side of a tree and a cloud of spores puffed out. They stopped to marvel at them as they drifted, glimmering bronze in the light that filtered through the canopy, painting the air currents to reveal what had been invisible a moment before. Eerie creaking noises came from distant high places; tall trees finding their balance in a collaboration with the wind. A burrowing creature burst forth, kicked up leaves, vanished again with a flourish, startled by the unexpected footfall. Brambles snagged on their cloak, teasing forth loops of material and interrupting their passage with stuttering pops as they tugged the garment free. Branches and leaves hung low, stroking their arms and torso with cool gentle resistance as they pushed through. Small orange mushrooms practically glowed out from the ever-thickening dark brown leaf litter underfoot. The temperature had dropped; the ground was wetter. Strands of cobweb broke in their face, making them splutter and rub at their eyes, feeling the tickling remnants on their cheeks but not quite able to remove them.
 
-Saba-Urmra-Calscinthi had walked all the way down the mountainside, and was in the valley between Marcin's Carn and Morsefar.
-
-Here were the Rooted of the eastern mountains; the Old Ones.
+Saba-Urmra-Calscinthi had walked all the way down the mountainside, and was in the valley between Marcin's Carn and Morsefar. Here were the Rooted of the eastern mountains; the Old Ones.
 
 There was no grove or grotto or thicket where people came together to take root here. They were scattered throughout the forest along the valley floor, indistinguishable from ordinary trees.
 
@@ -1571,5 +1569,39 @@ The trio were heading towards the same shuttle that Saba-Urmra-Calscinthi had be
 
 Saba-Urmra-Calscinthi braced themself, consciously relaxed, and then followed the Visitors up the boarding ramp and into the shuttle.
 
-* * *
+## A Story, Retold
+
+Cryptum Effingis Daracrin a-Teprem sent his assistant away for the third time that morning. Or perhaps it had been three different assistants, he couldn't keep track any more. He knew they were only trying to help, but their constant hovering was just so bothersome. And he could manage unpacking his office just fine by himself.
+
+There was a knock at the door, light and hesitant, like the knocker would prefer not to be heard. Effingis slammed the stack of note sheaves he had just lifted from a box onto the desk, hard, making assorted bits of equipment rattle.
+
+"No, _thank you_," he boomed. "I can manage!"
+
+The door opened gently a couple of inches.
+
+"Um, Cryptum, Sir, I'm sorry to bother you it's just that-"
+
+"What?" Effingis demanded, snatching the edge of the door and sliding it all the way open. He squinted down at the short-haired, mousy, white-coated lab assistant across the threshold. The assistant seemed to be attempting to disappear behind a palm-sized digital pad clutched in both hands.
+
+"Well Cryptum, there's the department meeting just down the hall, and Cryptum Merrik seemed to think that, well, I think they all want, I mean, they asked me to come and fetch you."
+
+"Ah." Effingis sighed, and stopped trying to loom intimidatingly. "Right. Very good."
+
+_Was it really that time already?_ It hardly seemed five minutes since the last department meeting. Or was that a cohort meeting? There were so many meetings now the voyage was at an end, and everyone seemed to think he should be in all of them.
+
+"Will I tell them...?"
+
+"I'll be along in a few minutes. No need to wait for me." The assistant scurried off with a look of relief. "I won't forget," muttered Effingis under his breath.
+
+He finished shuffling the sheaves he had been moving around, undecided about where to file them. Everything was related to everything else somehow, and each generation of assistants seemed to come up with a new and innovative way of organising things. This didn't matter so much when all of the data was in the computers, but Effingis needed to be able to touch and stack and turn pages. The sheaves synchronised automatically with the central databases, but that did nothing to help him find the particular sheaf when he needed it in the physical world.
+
+Cryptum Effingis sat down for a moment in the stark and uncomfortable metal chair that had come with the new office. It was cold, and the edges of the seat seemed dangerously sharp. The gravity planetside was definitely taking some getting used to. It was about double what they had been able to manufacture on the Daracrin. He would have preferred to stay in orbit, had done so for as long as possible, but the planetside research committee had insisted he join them in person and he had conceded in the end. He _was_ the most knowledgeable about Nemta after all.
+
+It was strange to finally be here. Effingis had spent eighty years of his life studying the place, bringing together historical records, myths and legends, and matching them with the advanced probe data and the ever-increasing volume of live readings coming into the sensors of the ship itself as they drew closer. The fact that he was there - could breathe the air and touch the soil (he _hadn't_ touched the soil, but he _could_ if he wanted to. He didn't) - still hadn't quite solidified in his mind. Every time he made the window in his sleeping pod transparent he was surprised to be greeted with a view of leafy green foliage instead of the black emptiness of space. His brain translated the rush of the river that flowed under Newland Outpost Three into the deep engine hum of the Daracrin he was used to. He supposed he would get used to it all eventually.
+
+Finally he sighed and hauled himself to his feet. He shuffled off down the corridor to the large conference room where the various institute heads would be waiting for him. They were, he suspected, struggling to prioritise projects to focus on, and running out of students and researchers to process data, what with all of the extra input that was coming in from the autonomous nanoprobes that had been sent out into the environment some weeks back. He was bleakly sure that they would all much prefer that he got on and died, so they could get his knowledge directly from the Volt instead of having to ask him for it.
+
+-------
+
+Newland Outpost Three had a domed observatory built into the top. It was strictly off-limits for leisure use, but of course the rules didn't apply to Cryptum Effingis.
 
