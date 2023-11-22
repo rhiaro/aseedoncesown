@@ -1605,3 +1605,49 @@ Finally he sighed and hauled himself to his feet. He shuffled off down the corri
 
 Newland Outpost Three had a domed observatory built into the top. It was strictly off-limits for leisure use, but of course the rules didn't apply to Cryptum Effingis.
 
+There was a moderately comfortable grey padded bench in the center of the room. It could have done with some armrests or cushions, but Effingis made the best of it. He was not particularly tall, and could lay back comfortably across the surface with his knees bent and legs tented, and stare up at the cosmos.
+
+He missed the Daracrin.
+
+Soon the distantly orbiting base station would come into view. When they had arrived, the four remaining of the six ships that had set out on their five hundred year journey had connected themselves together in an X formation, and then been quickly extended outwards to form a space station that now looked more like a wheel with four spokes. They would not be coming apart again. Although Effingis and many others still thought of the individual ships that made up the station, essentially the Daracrin was no more.
+
+The extra bright star that was the station appeared at the edge of the dome for a moment, then promptly vanished behind a tuft of cloud almost as dark as the night sky behind it. The station was named Ripnorth, after the two ships that didn't make it: Ripisude and Sobenorth. Effingis hadn't known anyone on board either; they had been lost long before he was born.
+
+He hadn't been sleeping well these past few weeks. While in terms of space and amenities, Newland Outpost Three was practically luxurious compared to the Daracrin, he felt stifled and trapped. He never opened his window or went out onto the balconies because the air was too humid and smelled funny, and highly irritating insects were liable to land on him. Besides, windows weren't supposed to open. That just wasn't something they should do.
+
+Over to the south, he knew, was one of the more densely populated local settlements, but there was not a single light to be seen, even from the highest vantage point in the outpost. Two of this assistants had returned from a field trip there a couple of days ago, and come back gushing about the welcome they had received from the locals, and thoroughly exhilarated from their first experience of camping in the jungle. Or, indeed, camping anywhere. They had, Effingis gathered from their scattered and messy reports, been housed with babies in a nursery of some kind.
+
+He had arranged that the next group to go out would take a telepresence drone with them, so he could see and hear what they were doing in near enough real time, and save him having to plough through their tedious written summaries. He didn't know who had been tutoring this Breatsch generation, but their supposed official reports read like rambling diaries. There was no scientific rigour whatsoever.
+
+By the time Ripnorth had passed back into view, Effingis had nodded off, still flat on his back, a slurred growling coming from the back of his throat.
+
+------
+
+"I tell you, there's no electricity, no power source of any kind, anywhere in the village!"
+
+"I'd hardly call it a village, there are two hundred thou-"
+
+"Look they must have something, they have a colony on the moon for goodness sake. How did they get there without a way to make energy?"
+
+"It must be something we've never seen, that our sensors can't pick up. Some particle..."
+
+"A _lost_ colony don't forget..."
+
+"Well have you tried just asking them?"
+
+"We're still having some trouble with the language when it comes to talking about technology..."
+
+"No, no, they found it again..."
+
+"Did they? I must have missed that."
+
+"Not recently, a hundred odd years ago local. Look it's all in Ancht Marus et al's paper from the Last Year. I'll send it over."
+
+Cryptum Effingis let the muddle of voices wash over him. There were twelve students around the conference table, and his assistant for the week, the polite Breatsch T'Lin, who was dutifully trying to take minutes into the surface pad in front of her.
+
+"Let's get back on track, please!" Br. Manty, the de-facto leader of the little rabble knocked on the table with his knuckles. It didn't have any effect.
+
+Cryptum Effingis pushed his chair back, making a gut-wrenching scraping sound against the metal floor. This didn't do anything to stop the cross talk either. Effingis left the room and walked down the corridor to the small communal kitchen. Br. T'Lin looked after him wide-eyed, torn between her attempts to document the meeting and her self-imposed duty to diligently attend the Cryptum at all times. The latter won out, and she scurried out behind him.
+
+Effingis contemplated the various buttons on the drink dispensor.
+
