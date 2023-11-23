@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<novelWriterXML appVersion="1.6.6" fileVersion="1.3" hexVersion="0x010606f0" timeStamp="2023-11-21 21:10:55">
+<novelWriterXML appVersion="1.6.6" fileVersion="1.3" hexVersion="0x010606f0" timeStamp="2023-11-22 20:18:53">
   <project>
     <name>A Seed, Once Sown</name>
     <title></title>
     <author>Rhia Ro</author>
     <saveCount>3</saveCount>
-    <autoCount>97</autoCount>
-    <editTime>1745946</editTime>
+    <autoCount>99</autoCount>
+    <editTime>1778914</editTime>
   </project>
   <settings>
     <doBackup>True</doBackup>
@@ -14,10 +14,10 @@
     <spellCheck>False</spellCheck>
     <spellLang>None</spellLang>
     <autoOutline>True</autoOutline>
-    <lastEdited>9a6ad89320d23</lastEdited>
+    <lastEdited>4a74ab1a502d8</lastEdited>
     <lastViewed>None</lastViewed>
-    <lastWordCount>30379</lastWordCount>
-    <novelWordCount>30029</novelWordCount>
+    <lastWordCount>31152</lastWordCount>
+    <novelWordCount>30802</novelWordCount>
     <notesWordCount>350</notesWordCount>
     <autoReplace/>
     <titleFormat>
@@ -98,10 +98,10 @@
       <status>New</status>
       <exported>True</exported>
       <layout>DOCUMENT</layout>
-      <charCount>4482</charCount>
-      <wordCount>791</wordCount>
-      <paraCount>17</paraCount>
-      <cursorPos>4519</cursorPos>
+      <charCount>8924</charCount>
+      <wordCount>1564</wordCount>
+      <paraCount>40</paraCount>
+      <cursorPos>9007</cursorPos>
     </item>
     <item handle="21bf8fe10139c" order="1" parent="None">
       <name>Plot</name>
