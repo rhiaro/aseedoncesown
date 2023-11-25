@@ -1821,9 +1821,225 @@ But Effingis hadn't been considering the weather when he was choosing his base. 
 
 So here he was. As it happened, he was perfectly comfortable and dry and blissfully insect free as he peered into the wraparound screen that provided a multi-sensory replication of the telepresence drone's environment, from the safety of his office.
 
+The boats were narrow and long; two people sitting side-by-side would be a tight fit. There were three of the boats with four students in each, plus satchels and boxes of equipment and consoles. Cryptum Effingis's telepresence drone was wedged in the middle of the final boat, strapped down but also carefully balanced between the knees of the two students on opposite sides. There had been no room for Breatsch T'Lin - and besides, Effingis needed her at the Outpost - so Breatsch Amba had offered to serve as his assistant for the field trip.
+
 The group had left the Outpost that morning, launched boats from a little jetty, and were drifting down stream at a fairly leisurely pace. The boats had engines of course, but they kept them running slow and quiet so as not to disturb the wildlife or alarm the locals.
 
 Effingis watched the curved spire of Newland Outpost Three disappear finally around a bend in the river. The structure seemed to rise from the river like a twisting claw, or a particularly focussed and neat wave. The main body of the Outpost sat, mostly suspended, over the center of the river. The water flowed underneath, and it was connected to each sheer bank like a bridge. Invisibly from the surface, the two ends of the bridge extended underground as well and joined up with each other on the riverbed.
 
 A leaf, perhaps, not a claw, thought Effingis as he took in the huge variety of shapes and colours of foliage either side of the river. The drone's sight let him zoom, focus and even rewind and replay the view. And the Outpost tower reflected its surroundings reasonably well. It wasn't made from a completely mirrored material, but it was flat and reflective, if matt, so blended fairly well with its surroundings, from some angles at least. The more Effingis thought about it, the more Newland Outpost Three seemed to belong here after all.
+
+The most direct route between the Outpost and the Nemtans' settlement had been impassible when the first cohort had arrived. The jungle was ruggedly hilly, with sharp drops and steep climbs, mostly concealed by the tangle of leafy bushes and trees and vines. The first arrivals had attempted to clear a path that their land vehicles could pass through, but had faced barrier after barrier; the jungle seemed to be fighting back. Eventually some of the locals came to see what was going on and offered their assistance. Effingis didn't know how they had done it - he had read the report, but it was vague and confusing - but now there was a narrow passage through the undergrowth that seemed natural, like it had always been there, with no signs of destruction whatsoever.
+
+The boats crawled out of the river at a point where the bank was shallow enough to access. They rolled up the bank on a set of two revolving treads to join the path.
+
+It took about two hours to reach the settlement this way. One of the other major impediments that the first cohort had faced was a wide gorge, edged by completely vertical overgrown sides. The drop looked less intimidating than it was, softened by a carpet of brightly blooming plants. But it was certainly a fall that would kill. To route around the gorge would more than double the length of the journey, and some sharp-eyed engineer had seen the remnants of a structure of some kind deep in the foliage on one side. It had looked natural at first, like an ancient tree stump, but it was strangely regular in shape, with evenly spaced slots around the edge. Uncovering its totality had been a hard-won victory. The place was covered in the tiny wasp-flowers, as they had become known. Before the team clearing the area had realised the danger, one of their number had been brought close to death by the poison they contained. After that, nobody went anywhere near the area without robust protective gear covering all of their skin.
+
+After a matching structure had been unearthed on the opposite side of the gorge, exactly in line with its counterpart, it didn't take long for them to construct a bridge all the way across. None of the engineers had ever had a need to build a bridge during their time in deep space, and were all excited to test the theories they had studied so intensively and to try out the computer simulations they had run in the physical.
+
+It was the third attempt that stayed up and seemed, finally, safe for regular use. They named it Elsom Bridge, after Feilum Elsom K'Bel an-Imtux, an engineer who had plummeted into the gorge along with a large chunk of attempt number two.
+
+Elsom Bridge was a little wider than the land boats, and they glided one at a time across it without incident. The route continued in a relatively straight line, running more or less parallel with the edge of the gorge for a while.
+
+The novelty of the ride started to wear off when Cryptum Effingis wasn't identifying a plant he had never seen before every couple of minutes, and he took the headset off and got up to make himself a drink.
+
+When he sat back down, the view through the  wraparound screen was slanted diagonally, and not moving. Effingis shook the device, then realised that was unlikely to make any difference. He fiddled with the settings, trying to correct the image for a couple of minutes, before realising he hadn't put the earbuds back in. As soon as he did it became apparent that whatever was happening was not a failure of the telepresence drone.
+
+There were sounds of scuffling and banging, and distant shouts.
+
+"What's going on?" He bellowed through the drone, but either the drone had been muted or nobody was paying attention. He triggered the emergency light that should draw someone's attention, but no-one came.
+
+Effingis sent written messages to three of the students, one from each boat, and waited anxiously for a response. He buzzed Breatsch T'Lin, who appeared in seconds.
+
+"Breatsch, something is wrong with the field group," he handed her the wraparound screen so she could see for herself. "What can we do?"
+
+"I'll alert the faculty Planning and Rescue," she said, tapping into her palm screen, "but if there's any damage to the land boats they will already have heard."
+
+"So there's nothing else we can do?"
+
+"I can't think of anything. Try not to worry, Cryptum. I"m sure they'll be fine. WE're all used to getting ourselves out of scrapes, and they're not far away, and we know exactly where they are. They probably just lost control and hit a tree or something."
+
+For all her assurances, T'Lin sounded more like she was trying to convince herself, than Effingis. The Cryptum was not reassured.
+
+"It's wild out there! What if the Nemtans have turned on us. Or the _others_ are here."
+
+"That's statistically unlikely, Cryptum. They have been nothing but helpful to us since-"
+
+He cut her off with a wave of his hand and pressed an earbud as a new sound caught his attention. He snatched the headset back from T'Lin.
+
+The view hadn't changed, but Effingis could hear two or three voices close by, just out of sight.
+
+"-that's it, lift..."
+
+"Three, two, one..."
+
+"Uuuuunnnngghh!"
+
+"Ow, watch my foot-"
+
+"Shit it's slippery..."
+
+"Be careful!"
+
+"Mind that-" A yelp and a crash. "-root."
+
+Then a cacophony of voices all talking over each other. Effingis flashed the emergency light insistently. T'Lin tapped him on the shoulder. "Have you run the diagnostics for the drone?"
+
+"How do I do that?"
+
+T'Lin showed him. "It all looks fine..." he said.
+
+"No, see here," Breatsch T'Lin had (somehow) mirrored the output that was overlaid onto the video feed in the wraparound onto her own palm screen. "The emergency light is out. The bulb is broken."
+
+"How do you deduce that from... Never mind. Can we fix it?"
+
+T'Lin looked at Cryptum Effingis blankly for a second. "No. It's a hardware issue."
+
+"I know that! Doesn't this drone have arms?"
+
+"Cryptum, it does, but the light is tiny and embedded in the body, and the drone just has primitive grabbers, nothing that can handle anything delicate..."
+
+"Alright, alright, I get the picture." Effingis sat back and crossed his arms. "We're useless to them."
+
+THen his palm screen on the table beside him flashed an incoming message from Breatsch Jacqain: _don't worry, slight mishap, under control._
+
+Effingis was still focussed on the wraparound so T'Lin - who got a copy of all of his messages anyway, for assistanting purposes - read it out to him.
+
+"See. They're fine."
+
+"Well. Good. But I want to know what's _happening_."
+
+Just then Breatsch Amba's face appeared in the wraparound. Her auburn hair looked damp and messy and she had a smear of mud on one cheek, but she waved cheerily and wrenched the drone upright.
+
+It wasn't a big piece of equipment - smaller than the average person's upper body - but it weighed more than most people expected. The reason was the experimental independent power source that took up a large portion of the drone's lower chassis. A sleek bit of panelling around the outside could covert sunlight into enough energy to power the thing indefinitely. And it could store enough to keep going through a shortnight, or longer. The physicists from Elmneth had come up with that one, and data from the drone would be streaming back to them for the duration of the outing. Apart from that, most of the rest of the drone's roughly cylindrical form was hollow, divided into useful weatherproof storage compartments.
+
+Breatsch Amba righted the drone and unclipped the straps that had held it in place in the land boat. She turned to beckon someone else whom Effingis couldn't see. He heard her say: "-if we take the drone out it'll be easier to move the boat. The Cryptum can fire it up and it can move under its own steam..."
+
+"Why do we need to lift it? Hey Cryptum, can you hover it out?"
+
+"No, don't," interrupted Breatsch Amba. "There isn't room for the air cushion, it needs a clear space or it will trash the inside of the boat. Help me lift it."
+
+The other voice, which Effingis recognised as Breatsch T'Mala when it came closer, was grumbling. They both passed out of sight, but Effingis could hear them groaning with exertion as the image he was seeing moved. The view jerked around until the pair had a decent grip, then shifted in a blurred arc as they, presumably, lifted the drone over the side of the land boat. Effingis heard a wet thunk as they set it heavily down onto the ground.
+
+"Okay, you're clear," said Amba.
+
+Cryptum Effingis floundered for the briefest moment, then remembered how to activate the drone's lift. It propelled itself sharply upwards in a short hop then filled the gap beneath itself with a bubble of air. Fallen leaves, moss and mud sprayed outwards and splattered up the sides of the drone as they were displaced. Amba and T'Mala jumped back with yelps.
+
+"Thank you both," said Cryptum Effingis. He couldn't hear his own voice back, but the others had told him it sounded metallic and strange through the telepresence drone's speaker. "You're welcome Cryptum," said Amba. "If you just wait there, we'll..."
+
+Cryptum Effingis expanded the air cushion vertically to raise the drone up to face height of the two students.
+
+"I'll just get some practice in," he said, "it's bound to be different outside the lab!" He zoomed the machine away before either of them could argue. Breatsch T'Lin had reappeared at his side, looking mildly concerned, but said nothing.
+
+Cryptum Effingis almost immediately collided with the land boat, but stopped just in time, a split second before Breatsch T'Lin might have intervened using her (somehow) backup set of controls. She seemed to be streaming his video feed onto a surface screen now, which Effingis added to the list of things he hadn't realised were possible. He was having too much fun to be annoyed than he didn't seem to be able to have anything to himself these days, but he shelved that emotion to come back to and brood on later.
+
+Effingis lifted the drone higher into the air and rotated slowly to take stock of the situation.
+
+It looked like the path had caved in underneath the middle land boat. Some kind of large, round sinkhole had opened up. The land boats had been travelling close together, end to end, so the stern of the front one and the prow of the rear had slipped promptly into the hole as well. It must have all happened exceptionally fast.
+
+Four students at the front had unloaded all of their cargo and were pulling and pushing on the boat to shift it out of the hole. It finally started to slide in the right direction. Mud and leafy debris clung to the treads, which weren't moving.
+
+"Hit the engine!" Yelled one of the students at the front. One of those at the rear hopped into the boat to start the motor, but their weight and momentum sent the whole thing lurching back into the hole, colliding with the middle land boat with a crash. Curses and howls of frustration echoed through the jungle canopy.
+
+The seven students working on the back land boat were having better luck. Instead of sliding it, between them they had managed to lift it free from the sucking mud and carried it out of the hole. They all looked very pleased with themselves as they stretched and flexed the parts of their bodies that hurt from the effort.
+
+Cryptum Effingis hovered between them, greeting them,occasionally colliding with arms or behinds, enjoying getting the hang of maneuvering, getting the feel for the controls. It was starting to feel quite natural.
+
+The rear land boat loaded back up, the students went to help their colleagues at the front. With most of them lifting, together they made short work of rescuing it from the hole. Breatsch Manty didn't seem to be doing much lifting, but was marching around barking advice that sounded like orders which, if followed at all, was likely only because it was what the people they were directed at were doing anyway.
+
+Now he knew nobody was hurt, Cryptum Effingis found it all quite entertaining.
+
+Breatsch T'Lin was worried about the schedule. If this took much longer, the group would have hardly any time at the settlement before they would need to turn around and come back. And she was concerned about their ability to pass back this way, with the giant hole in the path. Effingis didn't know why Breatsch T'Lin worried so much.
+
+He took the drone around the edge of the chaos and down the path a little way. He thought it was probably worth scouting ahead to see if there were likely to be any more sinkholes, or other surprises. Effingis played with the different sensors on the drone, overlaying heat imaging data, ultraviolet, radiation levels, on top of the visuals he had.
+
+He passed along a slight bend in the path so the students and their land boats were out of sight, hidden by trees when he looked back. He flicked the heat imaging on, and saw them moving around, although there seemed to be plenty in the trees in between that generated as much heat as a human body, as well. The noise they were making had become immediately muffled, as well.
+
+He had decided, based on the fact that no other beings, Nemtan or otherwise, had shown up to claim their victims, that this wasn't a trap after all.
+
+Effingis paused for a moment, hovering at roughly what his own head height would be if he had been standing there in person, and just took everything in.
+
+The jungle on either side of the path seemed to be both still and in constant agitation simultaneously. It radiated peace and harmony in a way that nothing on the Daracrin ever had. But there was always something moving. Leaves rustled in a breeze that Effingis could measure but not feel. Strange fruit detached themselves from branches and tumbled into the undergrowth. Fluttering or buzzing creatures darted around between flower heads. Water which had accumulated in the canopy became suddenly too much and spilled to the ground. Unseen birds twitted and cooed, stirring leaves in their wake.
+
+Effingis watched in delight and awe as a cluster of leaves or petals - he couldn't tell which - moved ever so slowly on their stem, turning the head of the plant to point in a different direction, pulled by some invisible force.
+
+"It's the gas giant," said Breatsch T'Lin, noticing on her own screen that Effingis had been staring at the plant for several minutes, then replaying the footage on triple speed to confirm he had just seen what the thought he had.
+
+"Huh? What?"
+
+"The plant is tracking the other planet in the system, look," she did something on her own screen that activated a visualisation of the bodies that would have been visible in the sky if it had been dark enough. It was enhanced with a line between the marker for the gas giant, and the plant, and some equation hovered by it to demonstrate, Effingis supposed, that the trajectory between them was consistent.
+
+"I wonder why," T'Lin mused. THen she started. "Did you hear that?"
+
+"Hear what?" Effingis played back the audio from the last few seconds.
+
+"There," she said, replaying again. "That sounded like speech."
+
+Cryptum Effingis listened, squinting as if that would help. He heard only the jungle sounds.
+
+"Probably just the students behind-"
+
+"No, not our speech, _their_ speech. Nemtan speech."
+
+Effingis replayed again. There was a low trilling sound he could just make out over everything else, that he had taken for a bird before, that could have been...
+
+"It was, uh, a question. Expressing curiosity." T'Lin switched them back to the realtime feed.
+
+"I didn't realise you had been learning how to-"
+
+"Hang on, there's a weight warning," she spun an alert dialogue into the corner of Effingis's view. "There's something sitting on top of the drone."
+
+The view wobbled as the drone bobbed slightly, but it quickly corrected for whatever had landed on top.
+
+"Don't these things have some sort of self-defense built in?"
+
+"They're not exactly built for combat, Cryptum," said T'Lin, who had only ever read about combat. "Try spinning around."
+
+He did.
+
+"Faster?"
+
+There were more sounds now, close to the microphone on the drone. A squealing, and then something a lot like laughter? Effingis stopped spinning.
+
+A shape appeared in the middle of Effingis's view, taking up most of it. He refocused and it took both of them a minute of adjusting their perspective to realise they were looking at a face. An upside down one.
+
+Effingis lowered the drone gently down, as low as possible to get it to the ground, without making contact. The owner of the face hopped down and stood, upright, on two legs, with two arms by its sides, looking the drone up and down thoughtfully. Effingis zoomed in.
+
+It had dark brown skin, a perfectly ordinary shade, but its face seemed to be covered in - or made up of - something across between leaves and scales. They shimmered ever so slightly when it moved. What Effingis had initially taken for hair in a series of little bunches all over the top of its head seemed on closer inspection to be some kind of stubby wooden nodules. It had ears, eyes - dark and penetrating - nose and mouth, all in the normal proportions. Its nose was a little upturned, and it had a small dimple in its chin. Its limbs were the same proportions as a normal human toddler. It twiddled its pudgy fingers, sometimes putting them into its mouth or hooking them into the little pocket on the front of the soft beige dungarees like thing it was wearing.
+
+The creature giggled - unmistakably - and clapped its little hands together.
+
+T'Lin laughed as well. "Quite cute, aren't they?"
+
+Effingis scowled. He had never had much to do with any of the young children raised on the Daracrin. They were enough of a handful when they came to him as assistants or students.
+
+Without warning, the baby Nemtan launched itself at the drone, reaching most of the way up in one hop, then clambering the rest of the way up with hands and bare feet. Effingis was surprised it could get enough of a grip on the slick metal casing.
+
+"Now what?" He turned to Breatsch T'Lin.
+
+"Listen," she said, cocking her head. "It's saying something."
+
+Effingis didn't have much of an aptitude for language, so he hadn't made any effort to study the Nemtan dialect when they arrived. Ostensibly it had the same roots as Teprime, and some people claimed they could clearly hear its resemblance to Old Neme, from which Teprime had developed, base don the ancient records that had survived the exodus. But it was totally unfamiliar to Cryptum Effingis. They might as well be making animal sounds.
+
+T'Lin laughed again. "They're saying 'go'," she grinned. "I think they want a ride."
+
+"Is that a good idea?"
+
+Breatsch T'Lin shrugged. "I don't see the harm. Go slow."
+
+Effingis rolled his eyes. He was not out here to be come a play thing. He drifted the drone slowly forwards.
+
+The child slapped the sides of the drone a few times and jiggled, repeating the sound that T'Lin said meant 'go'. Effingis refused to speed up, and before long the child seemed to just vanish. T'Lin deduced that it had hopped vertically and caught a low-hanging tree branch, disappearing back into the jungle.
+
+Moments later Cryptum Effingis and Breatsch T'Lin both received messages on their palm screens.
+
+"Better head back," said T'Lin, and Effingis spun the drone around.
+
+--------
+
+The Nemtans' settlement, or _maurauna_ as everybody seemed to be calling it, was barely distinguishable from the surrounding jungle. There were more open spaces, but any sorts of dwelling places or structures appeared at first glance to be fallen trees, hollow stumps, large bushes, or piles of leaves. The Nemtans were everywhere, though, in all their shapes and sizes and colours.
+
+The remainder of the journey by land boat had passed without incident, though they had incurred a significant time delay.
+
+The students split off into their three groups to pursue their chosen investigations. Effingis shadowed Breatsch Amba, listening carefully with T'Lin to do occasional interpretation by his side, and looking out for signs that anyone other than the Nemtans might be present.
 
