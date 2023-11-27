@@ -1603,6 +1603,8 @@ Finally he sighed and hauled himself to his feet. He shuffled off down the corri
 
 -------
 
+* * *
+
 Newland Outpost Three had a domed observatory built into the top. It was strictly off-limits for leisure use, but of course the rules didn't apply to Cryptum Effingis.
 
 There was a moderately comfortable grey padded bench in the center of the room. It could have done with some armrests or cushions, but Effingis made the best of it. He was not particularly tall, and could lay back comfortably across the surface with his knees bent and legs tented, and stare up at the cosmos.
@@ -1622,6 +1624,8 @@ He had arranged that the next group to go out would take a telepresence drone wi
 By the time Ripnorth had passed back into view, Effingis had nodded off, still flat on his back, a slurred growling coming from the back of his throat.
 
 ------
+
+* * *
 
 "I tell you, there's no electricity, no power source of any kind, anywhere in the village!"
 
@@ -1661,7 +1665,7 @@ When he returned to the conference room, Cryptum Effingis remained standing unti
 
 "One at a time, going around spinwise, starting with you," he pointed with his mug, "number one priority for further study, and why. Two sentences max. If someone else says yours, pick another or pass. If someone else says one you wish you'd thought of, remember it (silently). Breatsch T'Lin, write them down. You, Breatsch Talub, go."
 
-They went around .Ten of the twelve students came up with something original. Br. T'Lin projected her surface screen upwards, so the list hovered over the middle of the table where they could all read it. The suggestions ranged from the practicalities of how Nemtans (local Nemtans, Effingus had to remind himself) reproduce, to whether or not the locals actually originated on Rannouckouch and migrated over millennia ago. Breatsch Vissingis thought it was imperative they forgot about their jungle settlement and focus on the moon colony instead. Breatsch Elanim  was convinced they were on the cusp of a medical breakthrough based on the locals' apparent ability to heal themselves.
+They went around. Ten of the twelve students came up with something original. Br. T'Lin projected her surface screen upwards, so the list hovered over the middle of the table where they could all read it. The suggestions ranged from the practicalities of how Nemtans (local Nemtans, Effingus had to remind himself) reproduce, to whether or not the locals actually originated on Rannouckouch and migrated over millennia ago. Breatsch Vissingis thought it was imperative they forgot about their jungle settlement and focus on the moon colony instead. Breatsch Elanim  was convinced they were on the cusp of a medical breakthrough based on the locals' apparent ability to heal themselves.
 
 Cryptum Effingis was disappointed. None of them had suggested the one thing he _really_ wanted to study. Well, if none of them were interested, he could make it his own project.
 
@@ -1709,63 +1713,19 @@ Cryptum Effingis stood up, suddenly perturbed. "Your working time is over, you s
 
 "-and then go and find something else to do. You might like to read about the southern poles, for example."
 
-Effingish marched towards the door. "I'll see you after lunch." It wasn't long before it would be light again, judging from the gradual brightening beyond the corridor windows. But enough time for a nap, perhaps.
+Effingis marched towards the door. "I'll see you after lunch." It wasn't long before it would be light again, judging from the gradual brightening beyond the corridor windows. But enough time for a nap, perhaps.
 
 ------
 
-Cryptum Effingis was with Breatsch Amba, Breatsch Demron and Freilum Kiv testing the telepresecne robot they would send out with the next the field expedition when the news came that Cryptum Merrik had died.
-
-Effingis grunted, like he was still preoccupied with something else. The others stopped what they were doing and looked at him.
-
-"If you need a break-"
-
-"We can finish-"
-
-"Are you okay?"
-
-"Huh?" Effingish looked from one to the other of the faces in front of him. They wore very concerned expressions. "Yes, of course I'm okay. He was very old, this is not unexpected. Life goes on."
-
-"Cryptum, if you'll excuse me," said Freilum Lungis, the messenger who had brought the unfortunate news. "We'll need to discuss the send off, and ah, redistributing some of Cryptum Merrik's more urgent responsibilities. It's all planned in of course, but we'll need to formally transfer access..."
-
-Gradually it dawned on Effingis that he was now the only Cryptum from Daracrin left. Merrik had been older than him, but not by much. Merrik had had his responsibilities as department head and director of research not due to his age, but because he was good at managing people. Except there had to be at least one representative from each generation and each ship on several of the oversight committees. And regardless of his abilities, that left Cryptum Effingis as the only qualified candidate.
-
-It also left him as a kind of figurehead for the Breatsch students of Daracrin. They already admired him more than he was comfortable with, despite his best efforts to keep them at arms length.
-
-"You know what," he interrupted Feilum Lingis. "I will take a break. Fr. Lingis, please send the list of thing I'm needed for to my assistant. I'll be in my pod."
-
----------
-
-They had to adapt the Ceremony for the Departed a little for life planetside, compared to how it had been on Daracrin. Everyone at Newland Outpust Three attended, and all of the other outposts, as well as Newland itself and the Ripnorth, received broadcast audio. Cryptum Merrik was far from the first planetside death, but it was the first of an elder, and the arrangements reflected the pomp and circumstance befitting of such a senior member of the faculty and community.
-
-The core of the ceremony was the committment of Cryptum Merrik's knowledge to the Volt. It was in some sense a promise of eternal life, as a digital image. All of Merrik's memories, experiences, opinions, emotions, would be extracted from his crani-state snapshots and streamed into the Volt. While the architecture of the Volt was much more complex than that of the ordinary data storage systems, including the central databases, there were interfaces in daily use which let people access knowledge and insight from the Volt in much the same way.
-
-But beyond that, nobody was really sure what life was like for those inside. Cryptum Effingis was quite convinced that the personality was so thoroughly disintegrated as part of the transfer process that no self-aware entity could possibly remain at the end of it. Others believed that life in the Volt went on, that their friends and ancestors whose physical bodies gave up continued to live on in a virtual reality in the depths of the Volt, on hardware so complex that other computer programs written with today's technology stood no chance of accessing it.
-
-The Volt was old technology. Cryptum Effingis secretly hoped that the answer to how it worked might lay here, on the planet of their origin.
-
-The Volt Fragment loomed above him. Effingis didn't normally attribute intent to objects, but the black slab, twice as tall as he was, seemed menacing all of a sudden. Its surface was perfectly smooth to the touch, but close inspection revealed miniscule veins running all over it in a maze of scribble. The lines appeared to be etched into the surface in intricate relief but couldn't be felt by anyone's skin. Either they were too fine to detect, or they existed a micron between a transparent surface layer; no-one knew for sure. The substance of the Volt hardware remained stubbornly impenetrable to any scans that had yet been devised.
-
-Effingis had found out after they arrived that research teams on K'Bel had been dedicated to this problem for some hundreds of years, and besides coming up with yet more ways to interface with the data in the thing, had got essentially nowhere.
-
-His hand hovered over the digital pad held out by Freilum Evni. She looked at him with sympathetic grey eyes, wide and watery, and waited.
-
-Effingis' stomach churned. The pad had been configured and all he needed to do was press the button. Could he condemn his oldest colleague to this irreversible fate? But Merrik was already gone, there was nothing to be lost. Unless a discovery was made that allowed access to the crani-state without the Volt. Unless Merrik really would be preserved and his whole self would pass into the screaming chaotic void of the computer system, never able to escape. What if the Volt was endless torment? Some believed it might be. Cryptum Merrik hadn't, but...
-
-Evni cleared her throat, softly. Probably only Effingis would have heard it.
-
-He lowered his hand a little, and then faltered again. He wondered who would be committing _his_ mind to the Volt when the time came.
-
-It was everyone's duty to join the Volt. To share their lifetime of experiences with the future generations.
-
-He pressed the button.
-
--------
+* * *
 
 Most of the Volt hardware was up on Ripnorth, running through the hulls of all four ships. When the ships had been assembled into the station, it had begun to extend itself through the connecting infrastructure, and into the central hub as well. There were a handful of Volt Fragments - each outpost had one, and Newland had four - which worked as if they were still part of the primary, instantaneously mirroring any data that was uploaded to any part of it.
 
 The Volt was also their link back to Tepremen, up to a point. They had discovered the limit to which separate parts could communicate with each other during the Crash of the two hundred and eleventh year of the voyage. Whatever the malfunction was that occurred in the Volt, it had cascaded into the central database and from there to some parts of the ships' systems. The five vessels had lost their already intermittent connection with each other, and when order was finally restored - or the chaos, at least, subdued - the Sobenorth had never reappeared. On the Daracrin, the whole Nulas generation of embryos awaiting but not yet committed to long term storage were lost as well.
 
 -----------------
+
+* * *
 
 "Cryptum, Breatsch Dneel is here to see you." Effingis's office door slid open noiselessly and a dark-skinned, dark-haired young woman stood, framed by the door's arch, looking eager.
 
@@ -1785,31 +1745,39 @@ Effingis held up one hand. "What is your end goal?"
 
 Dneel paused for a moment. "To learn what they think of us."
 
-Cryptum Effingis exhaled a long breath. He almost liked this girl and for a moment had thought she was bringing him something really interesting. He looked at the items she held. One was a semi-spherical transparent dome containing a three dimensional internal sculpture of two faces laughing together; probably an image of people this Breatsch knew, rendered in plex. The other looked like a folded piece of cloth, thick and tough-looking, purplish in colour; it had some markings scratched or painted on, but Effingis couldn't make them out from where he was, and it appeared to be full of small holes as well.
+Cryptum Effingis tried not to smile. This was a route to finding out more about their own past on this planet that even he hadn't thought of. He pretended to think for a minute, but his mind was screaming at him to recruit this student. He looked at the items she held. One was a semi-spherical transparent dome containing a three dimensional internal sculpture of two faces laughing together; probably an image of people this Breatsch knew, rendered in plex. The other looked like a folded piece of cloth, thick and tough-looking, purplish in colour; it had some markings scratched or painted on, but Effingis couldn't make them out from where he was, and it appeared to be full of small holes as well.
 
-"I don't think so," he said. "No."
+"Which group are you in, currently?"
 
-Breatsch Dneel sagged. "Cryptum, it's a basis for strengthening our-"
+Breatsch Dneel looked guiltily at the floor.
 
-"No, Breatsch. Try someone else. Who is your group supervisor?"
-
-Dneel looked at the floor.
-
-"Are you a student?" Effingis growled.
+"Are you a student?"
 
 "Level one, Cryptum."
 
-He blew out another exasperated sigh, but resolved to be patient. "Your enthusiasm does you credit. Save your idea for next year, when you can join a research group."
+Effingis sighed. "Your enthusiasm does you credit. Under what auspices did you think you would be able to run this project?"
 
-Dneel, found out, knew better than to argue further.
+"Well, I thought perhaps, I could shadow a student in your group, or…" Dneel trailed off.
 
-"Yes Cryptum," she said, putting her artefacts back into the box and stooping to pick it back up. "Thank you for your time, Cryptum."
+Cryptum Effingis waved his hand. "You know what, let me worry about the sheafwork. Write your proposal up, formally please, and concisely, including how you will gather the data and get results - you should already have covered that in your classes - and make another appointment and we'll take it from there."
 
-She left.
+Breatsch Dneel's eyes brightened.
 
-T'Lin appeared to be sulking with him for the next several days.
+"Yes Cryptum! Thank you Cryptum! Right away!"
+
+She put the artefacts back into the box and stooped to pick it up. "Thank you again Cryptum. I'm looking forward to the chance to learn from you."
+
+"Don't overdo it," he said, and tempered it with a smile when she looked scolded.
+
+Dneel reversed out of the door, sliding it open just enough with one elbow.
+
+T'Lin closed it from the other side, and he heard the two of them chattering excitedly for a few minutes before Dneel left.
+
+Effingis sat back in his chair with his feet on the desk, and thought for a while. As far as he'd been able to tell from the reports that had come in about interactions with the locals so far, nobody had thought to communicate that they were descended from people who had lived on this land three millennia ago. The Nemtans presumably thought they were dealing with aliens from another place, especially given how different they were from each other. They were very relaxed about it all, the Nemtans, which was another reason Effingis was sure they must have had dealings with such visitors before. He would need to decide whether or not Dneel should disclose their origins in her work.
 
 --------------
+
+* * *
 
 Cryptum Effingis realised he was looking at Newland Outpost Three from the outside for the first time. When he had first arrived it had been mostly dark, and the transport had come in along the river, then docked partially submerged and released its passengers through an airlock-type connecting passageway, so he hadn't had a chance to get a good look at the structure. It was quite elegant and impressive, he thought, with a glimmer of undeserved pride. But it also looked starkly alien against the backdrop of the jungle.
 
@@ -2141,11 +2109,69 @@ The locals didn't seem to eat much, but they ate with relish. The meal took plac
 
 Effingis had finished his soup and was chewing on a protein bar, thinking he might ask them just to let him know when they were back at work, when he spotted a creature on the edge of the clearing. He zoomed in.
 
-It was over a head taller than most of the Nemtans and its skin was  shade of deep read like Effingis had never seen before. It had four arms and a tail. Surely this was it! The outsider he'd been waiting for. He put the wraparound headset back on, and watched carefully.
+It was over a head taller than most of the Nemtans and its skin was a shade of deep read like Effingis had never seen before. It had four arms and a tail. Surely this was it! The outsider he'd been waiting for. He put the wraparound headset back on, and watched carefully.
 
 The creature interacted with the Nemtans as if it was one of them, seating itself and taking a few pieces of food. _Politeness_, thought Effingis. _It isn't eating much._ He thought for a moment, then sent a message to Breatsch Amba. He didn't want to alarm the newcomer by taking the drone straight over, especially if it was a more technologically advanced alien, but sending a student in for a chat shouldn't raise any suspicions.
 
 ----------
+
+* * *
+
+Cryptum Effingis was with Breatsch Amba, Breatsch Demron and Freilum Kiv testing the telepresecne robot they would send out with the next the field expedition when the news came that Cryptum Merrik had died.
+
+Effingis grunted, like he was still preoccupied with something else. The others stopped what they were doing and looked at him.
+
+"If you need a break-"
+
+"We can finish-"
+
+"Are you okay?"
+
+"Huh?" Effingis looked from one to the other of the faces in front of him. They wore very concerned expressions. "Yes, of course I'm okay. He was very old, this is not unexpected. Life goes on."
+
+"Cryptum, if you'll excuse me," said Freilum Lungis, the messenger who had brought the unfortunate news. "We'll need to discuss the send off, and ah, redistributing some of Cryptum Merrik's more urgent responsibilities. It's all planned in of course, but we'll need to formally transfer access..."
+
+Gradually it dawned on Effingis that he was now the only Cryptum from Daracrin left. Merrik had been older than him, but not by much. Merrik had had his responsibilities as department head and director of research not due to his age, but because he was good at managing people. Except there had to be at least one representative from each generation and each ship on several of the oversight committees. And regardless of his abilities, that left Cryptum Effingis as the only qualified candidate.
+
+It also left him as a kind of figurehead for the Breatsch students of Daracrin. They already admired him more than he was comfortable with, despite his best efforts to keep them at arms length.
+
+"You know what," he interrupted Feilum Lingis. "I will take a break. Fr. Lingis, please send the list of thing I'm needed for to my assistant. I'll be in my pod."
+
+---------
+
+* * *
+
+They had to adapt the Ceremony for the Departed a little for life planetside, compared to how it had been on Daracrin. Everyone at Newland Outpust Three attended, and all of the other outposts, as well as Newland itself and the Ripnorth, received broadcast audio. Cryptum Merrik was far from the first planetside death, but it was the first of an elder, and the arrangements reflected the pomp and circumstance befitting of such a senior member of the faculty and community.
+
+The core of the ceremony was the committment of Cryptum Merrik's knowledge to the Volt. It was in some sense a promise of eternal life, as a digital image. All of Merrik's memories, experiences, opinions, emotions, would be extracted from his crani-state snapshots and streamed into the Volt. While the architecture of the Volt was much more complex than that of the ordinary data storage systems, including the central databases, there were interfaces in daily use which let people access knowledge and insight from the Volt in much the same way.
+
+But beyond that, nobody was really sure what life was like for those inside. Cryptum Effingis was quite convinced that the personality was so thoroughly disintegrated as part of the transfer process that no self-aware entity could possibly remain at the end of it. Others believed that life in the Volt went on, that their friends and ancestors whose physical bodies gave up continued to live on in a virtual reality in the depths of the Volt, on hardware so complex that other computer programs written with today's technology stood no chance of accessing it.
+
+The Volt was old technology. Cryptum Effingis secretly hoped that the answer to how it worked might lay here, on the planet of their origin.
+
+The Volt Fragment loomed above him. Effingis didn't normally attribute intent to objects, but the black slab, twice as tall as he was, seemed menacing all of a sudden. Its surface was perfectly smooth to the touch, but close inspection revealed miniscule veins running all over it in a maze of scribble. The lines appeared to be etched into the surface in intricate relief but couldn't be felt by anyone's skin. Either they were too fine to detect, or they existed a micron between a transparent surface layer; no-one knew for sure. The substance of the Volt hardware remained stubbornly impenetrable to any scans that had yet been devised.
+
+Effingis had found out after they arrived that research teams on K'Bel had been dedicated to this problem for some hundreds of years, and besides coming up with yet more ways to interface with the data in the thing, had got essentially nowhere.
+
+His hand hovered over the digital pad held out by Freilum Evni. She looked at him with sympathetic grey eyes, wide and watery, and waited.
+
+Effingis' stomach churned. The pad had been configured and all he needed to do was press the button. Could he condemn his oldest colleague to this irreversible fate? But Merrik was already gone, there was nothing to be lost. Unless a discovery was made that allowed access to the crani-state without the Volt. Unless Merrik really would be preserved and his whole self would pass into the screaming chaotic void of the computer system, never able to escape. What if the Volt was endless torment? Some believed it might be. Cryptum Merrik hadn't, but...
+
+Evni cleared her throat, softly. Probably only Effingis would have heard it.
+
+He lowered his hand a little, and then faltered again. He wondered who would be committing _his_ mind to the Volt when the time came.
+
+It was everyone's duty to join the Volt. To share their lifetime of experiences with the future generations.
+
+He pressed the button.
+
+-------
+
+* * *
+
+* * *
+
+* * *
 
 * * *
 
