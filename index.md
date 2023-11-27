@@ -2055,3 +2055,107 @@ Effingis wondered how far they were from the settlement. It seemed like they had
 
 He muted the drone, and asked the question to T'Lin.
 
+"We walked for three quarters of an hour from _maurauna_. We're about five and a half kloms from there, line of sight, but we followed a fairly winding and indirect route. We were walking slowly though; I think we could return in less than half an hour if we needed to."
+
+"Thanks. Breatsch, you know your rotation is over if you want to leave? Breatsch Arauga should be due to take over from you."
+
+T'Lin blushed a little. "I'm very interested, Cryptum... If it's alirght with you of course, I'd like to stay."
+
+Cryptum Effingis shrugged and tried to look indifferent, but he was glad. He enjoyed T'Lin's academic interest in his work. And Breatsch Arauga talked too much.
+
+"Thank you Cryptum. I'll let Breatsch Arauga know and we can arrange to swap a rotation on another day." She had already done that half an hour prior, of course.
+
+Some time later, Breatsch Mevvin broke the silence.
+
+"Do you think they're coming back?" She spoke in a high pitched voice that sounded perpetually on the verge of panic. Her wide, pale eyes did nothing to dispel that, either.
+
+"Maybe they had to go all the way back to _maurauna_ to get the elders?"
+
+"Even if not all the way, perhaps they have to travel more slowly."
+
+"I wonder why we couldn't just go with them."
+
+"Yeah I assumed they were around the corner or something."
+
+"Maybe they just wanted us out of the way for a bit."
+
+"That was a very convincing explanation if so."
+
+Effingis noticed that T'Lin was scanning the area for signs of people nearby. She found none.
+
+Effingis's palm screen buzzed. A note from Breatsch Manty to say that due to the earlier delay, he had taken it upon himself to make arrangements for them all to stay in the settlement until the next day. By the looks of things, the students in the circle had all received the message too. Their reactions ranged from excited to disgruntled.
+
+"I might want to be in my own _pod_ tonight," grumbled Breatsch Jacqain. "Could at least have asked us."
+
+"Oh don't be ridiculous," said Breatsch Ilucia. "You know we either all have to go, or we all stay. If it came to a vote we're certainly all staying."
+
+"Let's just make the most of it," said Amba. "It just means we can wait longer here without worrying about getting back."
+
+Two and a half hours later, Mevvin and Ilucia had fallen asleep, Amba and Jacqain were meditating, and Effingis was catching up on sheafwork, with half an eye on the view from the drone on a surface pad.
+
+He had insisted that T'Lin take a break - she had her own studies to attend to after all - but she had made him promise to buzz her as soon as anything interesting happened.
+
+The four students' palm screens buzzed.
+
+"They're feeding everyone in _maurauna_," said Amba. "I guess we'll head back. Wake up you two."
+
+The students yawned and stretched and gathered themselves. Effingis put the wraparound screen back on.
+
+"Well, figure anything out?" He asked Amba via the drone.
+
+"Either they're forgetful, or very slow, or I completely misunderstood the situation here," she said. "There's something about this place. It feels like... the veil is thin, you know? We're close to something more."
+
+"Perhaps, Breatsch, they were trying to tell you that they keep their stories in the trees, the jungle holds their memories."
+
+"Hmm," said Amba, giving his comment consideration, even though she knew the Cryptum wasn't being serious. "It's possible they have ancestral memory connected with the land... It's not all that far from the Volt."
+
+"The Volt is a computer," said Ilucia. "It has circuitry. This," he spread his palms wide, "is wilderness."
+
+"Maybe they will tell us some myths later," Mevvin chimed in. "I hope they do."
+
+The Nemtans seemed to delight in the meal. There was a party atmosphere, as a variety of dishes were brought out for the students to sample. They were nothing like what they had been used to eating. A range of textures and tastes and colours that most of them would never have associated with food. Effingis watched, slightly jealously, through the drone while he ate his own bowl of hot reconstituted bean soup.
+
+The hydroponics lab on Newland Outpost Three was doing well, apparently, but it was still some weeks away from producing enough for wide distribution.
+
+Most of the dishes the Nemtans shared were raw, sprouted, or fermented; nothing cooked. The group had brought their own food for the day, and tried to share it with the Nemtans, but only the youngest children seemed interested.
+
+"Well our food isn't nearly as tasty as theirs," said Breatsch Vissingis, happily munching on slices of crisp fruit which he smeared with a different spread or pickle each time. "Have you tried this red paste? It's cosmic."
+
+"Do they have recipes? How do we ask for recipes?"
+
+"What are these crispy things, is it dried fruit? It tastes like the sea."
+
+"How do you know what the sea tastes like? Here, try these red berries..."
+
+"I was at Outpost Two for the first few weeks after we arrived, actually..."
+
+"Put this sauce on these leaves, can you believe it?"
+
+"Oh! This is sweet! It's like eating a cloud!"
+
+"Can you pass me those little mushroom things?"
+
+"That's a great idea, wrapping it up in the leaves. Look the Nemtan kids are copying you."
+
+The locals didn't seem to eat much, but they ate with relish. The meal took place sitting on the floor in a sprawling crowd, with plates and bowls passed around from hand to hand, rarely being put down on the ground for more than a moment. Some Nemtans ate everything by hand, wet and dry, and others had their own personal little scoops which they dipped into anything they liked; heedless of cross-contaminating the different foods. THe students followed suit, as they preferred. There was always fruit juice to drink, and sometimes water. Breatsch Amba related a report she had read from one of the early contact groups to the settlement who had been met with complete confusion when they asked for water the first time. They never saw the Nemtans drink it.
+
+Effingis had finished his soup and was chewing on a protein bar, thinking he might ask them just to let him know when they were back at work, when he spotted a creature on the edge of the clearing. He zoomed in.
+
+It was over a head taller than most of the Nemtans and its skin was  shade of deep read like Effingis had never seen before. It had four arms and a tail. Surely this was it! The outsider he'd been waiting for. He put the wraparound headset back on, and watched carefully.
+
+The creature interacted with the Nemtans as if it was one of them, seating itself and taking a few pieces of food. _Politeness_, thought Effingis. _It isn't eating much._ He thought for a moment, then sent a message to Breatsch Amba. He didn't want to alarm the newcomer by taking the drone straight over, especially if it was a more technologically advanced alien, but sending a student in for a chat shouldn't raise any suspicions.
+
+----------
+
+* * *
+
+The room was dimly lit, flickering in the soft glow of an artificial candle. Effingis tried to recall where he was and why he was here, but could not. It didn't seem to matter. A shape moved at the other end of the room and he knew it was his old friend, Cryptum Elshwynn Daracrin an-Imtux. He tried to stand but realised he was already standing. He moved to take a step, then she was by his side, suddenly, holding his hand. He looked down at their fingers clasped together and almost didn't recognise his own. The skin was smooth, the knuckles unswollen, the hairs soft and dark instead of coarse and grey. Her skin was smooth too, long elegant fingers a shade or two lighter than his own. For some reason he couldn't see her face - it was cast in shadow, or his eyes were closed - but felt her breath on his cheek. She pressed her body against his, and he was sure he should be feeling something, but there was nothing, except a slight and unpleasant flutter of panic in his chest. Her face was even closer now, and he searched in himself for a spark, anything, but came up blank. His mouth was dry, a bad taste. Then her lips on his and loved her of course like he loved all of his friends, and he wanted to make her laugh and support her in hard times but he didn't want _this_, didn't want to touch her like this, didn't want her to use his body this way.
+
+He pushed her gently away, then awoke with a start.
+
+Effingis's heart was pounding. He rolled over in his pod and felt something cold on the pillow. He wiped the tears from his cheeks with the palms of his hands. The dream had been raw, vivid, like a replay of a crani-state log. It wasn't one he'd had before though, and wasn't a memory either. More like a composite of scenes and feelings over the course of years.
+
+Cryptum Elshwynn had died twenty years ago of Regnies Disease, a years-delayed after effect of the radiation leak of year 484. Before then, she had conceived with Cryptum Marabas Daracrin a-Teprem. That was all she had ever wanted: to carry her particular genes on, to send them forward to the new world.
+
+Effingis didn't think Elshwynn's child had been birthed even yet. It would likely be one of the first generation to start their lives on the planet. The a-Nemta generation. The generation that his measly selfish clinging to life was preventing from coming into existence at all.
+
