@@ -1551,6 +1551,72 @@ Saba-Urmra-Calscinthi slipped slowly back to the herenow. They felt even more be
 
 * * *
 
+* * *
+
+Saba-Urmra-Calscinthi arrived at the main den to an air of general festivity. It was like they had just had a germination feast, but Saba-Urmra-Calscinthi would have heard something about this on the high net if so.
+
+Eventually they found their sibfriend, Ussi-Ullumi.
+
+"There were Visitors here," they didn't seem impressed. "And they need to eat. As much as a germination feast, but they eat this every day."
+
+"Why? Their bodies don't make what they need? Are they sick? How many were there?"
+
+They walked together in the dappled shade beneath billoway trees, under the lowering orange sun of fourth quarter. It felt good to be back here, in the environment Calscinthi had been sown to, despite how much they had changed.
+
+"More than we've seen at once before. During the shortnight they made their own light to play at daytime, and during the longnight they slept."
+
+"I heard they do that. It's not very... efficient. Do they live a very long time?"
+
+"I don't know. I haven't had much to do with them. You can ask Tenna-Yhe-Cala though! They got back a few days ago. They've been up at Rusterluck and the Visitors have this enormous... thing... out to see, like they've made their own island. Tenna-Yhe-Cala went there, stepped foot on it."
+
+"I haven't seen Tenna-Yhe-Cala for so long. Not really since after their germination. Can you believe it?"
+
+"I can hardly believe you're both Flowered. I feel like I have some work to do."
+
+Saba-Urmra-Calscinthi smiled and squeezed their sibfriend. "It's not a competition!"
+
+The pair arrived at a wide burbling stream. It flowed down a small hill, tumbling over rocks, cascading in miniature waterfalls. The jungle intruded everywhere into the water, the place was thick with broad leafy ferns and overhanging moss-draped vines. Round flat leaves floated in the pools of water that accumulated between falls, and soft, big-petalled flowers dotted the place, pale yellows, pinks, and whites. Large, fat mushrooms with white stems and glossy brown caps stood proud in a small group on one mossy bank.
+
+A little way up the hill, an enormous ancient tree straddled the stream, as if standing tall to look down over everything below. It filled the view, each side disappearing into the surrounding foliage, and its top ascending beyond the canopy of the surrounding trees. Its trunk was pale, almost white, and bunched in gnarly complicated patterns. The uppermost branches which were visible were spindly, and carried a few three-pronged leaves, which fluttered in what little breeze there must be high up there; the tree appeared to be clinging to them with all its strength while the leaves tried desperately to break free.
+
+Saba-Urmra-Calscinthi and Ussi-Ullumi climbed the hill alongside the stream, pulling each other up the steepest parts, stepping on rocks that were nestled amongst the undergrowth like steps, or wedging their feet behind strong saplings for leverage.
+
+At the base of the tree, beside a root thicker than Saba-Urmra-Calscinthi's torso, Ussi-Ullumi wished them well. "Here I leave you. This is a big choice for you, an important moment. I feel like there should be more ceremony. More of us to see you in."
+
+"I made this choice long ago," Saba-Urmra-Calscinthi smiled, almost sadly. "And I've had plenty of ceremony this past season. Still, I'm glad you were here to walk with me."
+
+"Me too." They embraced, tightly, like they would not see each other again. But Saba-Urmra-Calscinthi would only be gone for a day at most.
+
+"I'll see you tomorrow."
+
+Ussi-Ullumi walked back down the hill, and Saba-Urmra-Calscinthi went into the tree.
+
+"Do you have an appointment?" A voice croaked from the darkness.
+
+"I do," Saba-Urmra-Calscinthi laughed. "Remember me, respected elders?"
+
+Two Seeded emerged, arm in arm, supporting each other. One was tall, wide, unusually massive. The other was skeletal, made smaller by their sibfriend's bulk. Apart from their sizes, they looked almost identical. Pale blueish skin with petals covering their heads, necks and cheeks. Beady, piercing eyes, disproportionately big hands which were covered in thousands of minuscule extra senses, capable of performing the most delicate operations. They wore matching light green barkspun robes.
+
+"You have flowered since we last saw you, young one," Saba-Urmra-Calscinthi embraced each of them in turn. "And the name you have discovered for your Flowered self is of the mapmaker. Yet I don't think your discovery is complete?"
+
+"Oh, it's complete," said Saba-Urmra-Calscinthi, although they weren't entirely sure if that had been a question. "It is complete, and I must ready myself for the samara."
+
+"You must, you must," sang the smaller of the pair, Enlini-Maqa-Allorasa-Enqo. "But no story of needs or wants."
+
+"Both," said Saba-Urmra-Calscinthi. "I need and I want to leave with the samara." That was the plan. It had always been the plan. It was needed, at any rate, and there wasn't room for want in that. Certainly there was no place on Nem that Saba-Urmra-Calscinthi needed to be, or that needed them there. So the answer must lay away from Nem. It always had.
+
+"A grand adventure," hummed Inile-Qama-Allorasa-Semiti. "The journey of a lifetime."
+
+"Of several lifetimes, perhaps," said Saba-Urmra-Calscinthi, feeling a sudden rush at the realness of it all, the closeness.
+
+The two Seeded led Saba-Urmra-Calscinthi into the center of the tree. It was a catacomb of twisting wooden walls, no straight line in sight. Some of the passages were narrow, looked too narrow for Inile-Qama-Allorasa-Semiti; but somehow they squeezed and twisted their body through with ease.
+
+A hot spring from deep in the earth joined the stream beneath the tree. The ground underfoot, where it wasn't a tangle of solid roots, was moist and warm.
+
+The very heart of the tree contained many chambers - Saba-Urmra-Calscinthi didn't know how many - each with a shallow pool of gently steaming, cloudy water, channeled through paths formed by the tree's root system from the underground source.
+
+* * *
+
 The community of Clifface was named descriptively. Saba-Urmra-Calscinthi always enjoyed visiting, though they had trouble getting about most of the place.
 
 It was the quite dramatic dividing line between the jungle and the desert: a severe drop-off at the southern end of the jungle, as tall as a mountain. The Setchnan dry forest was at its base, comprising a thick canopy of spiky, scrubby looking trees and viciously bedaggered cacti that, after coming from the lush rainforest greenery, looked like they were barely clinging on to life. Beyond that was the desert proper, where the Visitors had built another one of their strange habitats. The best route was not through the bush, but under the dry forest.
