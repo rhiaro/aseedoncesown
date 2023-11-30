@@ -1613,9 +1613,21 @@ The two Seeded led Saba-Urmra-Calscinthi into the center of the tree. It was a c
 
 A hot spring from deep in the earth joined the stream beneath the tree. The ground underfoot, where it wasn't a tangle of solid roots, was moist and warm.
 
-The very heart of the tree contained many chambers - Saba-Urmra-Calscinthi didn't know how many - each with a shallow pool of gently steaming, cloudy water, channeled through paths formed by the tree's root system from the underground source.
+The very heart of the tree contained many chambers - Saba-Urmra-Calscinthi didn't know how many - each with a shallow pool of gently steaming, cloudy water, channeled through paths formed by the tree's root system from the underground source. Clouds of steam filled the air, obscuring the inner trunk and silhouetting the figures of Enlini-Maqa-Allorasa-Enqo and Inilne-Qama-Allorasa-Semiti.
 
-their way to the parts of Saba-Urmra-Calscinthi's body that needed something. Their guide was the moon; Saba-Urmra-Calscinthi angled themself to walk towards it.
+Saba-Urmra-Calscinthi followed them along the route they had walked many times before. They remembered their first visit, when they were just a plumule, the fear of the steam,of not seeing what or who was around the corner. Of being alone in this place without their sibfriends. Of wondering if they would come out again. Of who they'd be when they came out again.
+
+It had all been fine of course. Mundane, in the end. Strange, how the most everyday things can loom so threateningly over a young mind.
+
+Saba-Urmra-Calscinthi entered one of the chambers with a pool in the center. There wasn't much space around the edge; the pair of guides waited outside while Saba-Urmra-Calscinthi stepped into the water. It glowed a little, a ghostly greenish white, lit from below by luminescent weeds. It was clouded with tiny bubbles and particles, so Saba-Urmra-Calscinthi's hands and feet disappeared from view as soon as they put them down. The pool was only just enough for them to submerge themself completely when they lay flat on their back, but could have gone on to the center of the planet for all that was visible. Saba-Urmra-Calscinthi lowered themself carefully down, leaned back. The bottom of the pool was silt and sludge; a little gritty, but mostly soft, and moulded itself to Saba-Urmra-Calscinthi's form. They lowered their shoulders, then head, submerged their ears, then finally their whole face.
+
+After their last visit here, they could keep enough oxygen in their body for days without a breath, but even without that, the organisms in the water provided what was needed.
+
+Saba-Urmra-Calscinthi felt the familiar tingle of hyphae on their skin. The organisms in the water caressed their body, folding gently around their limbs. It was comforting; a return home, a familiar place after a long journey.
+
+Before the 'duction could begin, Saba-Urmra-Calscinthi's body eeded to be fully healed. The brytosphere was always different from here. They sank back and emerged in the night sky, surrounded by stars. There was no ground underfoot, and Saba-Urmra-Calscinthi's feet moved to mimic walking, but they were held, suspended.
+
+Farne loomed, enormous, off to one side. Far bigger than if they were seeing it from the ground. It glowed bright with reflected sunlight, but the sun was nowhere in sight. Saba-Urmra-Calscinthi looked down, and beneath their feet the planet of Nem rotated, as if it was turned by their steps. Tendrils of silver light found their way to the parts of Saba-Urmra-Calscinthi's body that needed something. Their guide was the moon; Saba-Urmra-Calscinthi angled themself to walk towards it.
 
 They walked and Nem turned, and they slipped out of time.
 
@@ -2713,5 +2725,59 @@ The Volt Fragments started to look to him like jagged voids, cut out from realit
 
 But it's not lost, he told himself. It's never lost. It's accessible, then, for everyone, for ever more. He reassured himself by searching through the central database interface for information he knew had only been carried in the heads (or, perhaps, hearts) of friends from his youth. What Cryptum Lesjid Daracrin a-Uisir had eaten for breakast on the day of her partner's death, and why it mattered. Why Ancht Byallamora Daracrin a-Teprem had volunteered for the space walk which saved a thousand lives, and cost him his own. What Cryptum Elshwynn Daracrin an-Imtux had seen in him, in Cryptum Effingis Daracrin a-Teprem, in spite of everything. The kinds of things you only search for if you know to look. The kinds of things that are so deep in the Volt, so undiscoverable, that they might as well be lost. Effingis shuddered involuntarily. His friends were gone, all of them. Yet he could still find out their secrets. The things they never expected anyone to know, suddenly exposed. Or if not exposed, then vulnerable.
 
-He closed the interface down. He was torn between whether this would be what they wanted, whether this was the immortality they had envisioned, or if he was violating their memories.
+He closed the interface down. He was torn between whether this would be what they wanted, whether this was the immortality they had envisioned, or if he was violating their memories. What secrets of this world would Breatsch T'Lin be able to look up once he was gone? [5015]
+
+——–
+
+"The journey will be hard on you," said Freilum Anmorth. "And the time on the station even more so. Are you sure about this? Be aware that you're going against my advice."
+
+"Just give me what you can to get me there," said Effingis. "And let me worry about the rest."
+
+Anmorth was loading him up with drugs to shield him from radiation sickness, to strengthen his lungs, to reduce dizziness. Anything he could think of.
+
+"The journey will be hard on you," said Freilum Anmorth. "And the time on the station even more so. Are you sure about this? Be aware that you're going against my advice."
+
+"Just give me what you can to get me there," said Effingis. "And let me worry about the rest."
+
+Anmorth was loading him up with drugs to shield him from radiation sickness, to strengthen his lungs, to reduce dizziness. Anything he could think of. He was the only medical professional who would have dared. Cryptum Effingis thought himself lucky that Anmorth had been around when he had, and that he had chosen to stay on Newland Outpost Three a little longer.
+
+He must have known that the treatments he provided were dangerous in the long term. Or even medium term. But he said: "they'll fix you up on the other end. In some ways the medical tech they have up their is better than what's down here. It's been tried and tested through so much. Just get yourself in a medipod as soon as you arrive. You'll be good to go."
+
+Cryptum Effingis and Breatsch T'Lin took a scooter to Newland Outpost Four. The scooters were almost fun; Effingis had never been in one before. It was like a minuture shuttlecraft, but low flying, squat and streamlined. The designs had been made centuries before, but none had been built until their arrival on the planet. They were good for short distances, and could just about maintain a height enought to shoot over the top of the jungle canopy. They buzzed like a fly, and Effinigs cranked open a window just a little to feel the warm air rushing in, until T'Lin had breathlessly insisted he close it.
+
+At Newland Outpost Four they were met by two keen young assistants. Breatsch Allimby Elmneth a-Gracum welcomed them and talked at length about the facilities and amenities of the Outpost. Effingis was starting to wonder why, but his question was soon answered by Breatsch Malarin Elmneth an-Imtux, who finally interrupted to inform them, with an abrupt and completely unapologetic manner, that they were experiencing some delays with the launch.
+
+Cryptum Effingis and Breatsch T'Lin sat in a waiting room, choosing not to avail themselves of the facilities that had been described, except for some hot allura. The room had tall windows, was one storey above ground level, and looked out onto the launch pads where shuttles were being shunted around on wheeled platforms. Effingis was already starting to miss the jungle. The air was somehow even hotter, and there were no trees to be seen. Everything was coated in a layer of dust or grit, and the smells assaulted him. He couldn't figure out if they were pleasant or not - they were just so different. He remembered that the jungle had been like that when he had first arrived, but he must have got used to it. This place was different again.
+
+The launch pads were in the middle of a broad metal expanse that had been built over the packed sand of the ground. Rails and wireless guidance systems and all kinds of technologies that engineers had been dreaming of and planning but never been able to implement on board the ships had finally been put into place. It had ended up being a bit of a hodge podge, some parts working better than others.
+
+The delays kept coming. Some were to do with local equipment malfunctions. Apparently not unusual. Some were to do with the shuttles themselves, which were reaching the ends of their useful lives anyway. _It's a wonder we ever got anything in the air_, thought Effingis.
+
+Breatsch Allimby and Breatsch Malarin were in and out, bringing updates or snacks or interesting facts about the desert. Eager to please, but not sure what to do. Effingis had no idea who was supposed to have been supervising them. He had the impression this was their first real assignment.
+
+At long last, Breatsch Allimby came trotting down some stairs that apparently led to the place all of the information came from. Her smiles had been becoming increasingly forced, Effingis thought, over the past couple of hours, but the one she wore now seemed real enough.
+
+"It's ready!" She gasped. Cryptum Effingis and Breatsch T'Lin stood up to meet her. "They've fixed your shuttle. Look, it's that one," she pointed out the window to one not too far away. "We can walk to it."
+
+Cryptum Effingis's legs were stiff, and the metal ground outside looked like it was wobbling in the heat.
+
+Breatsch T'Lin frowned. "Isn't the ground hot, out there?"
+
+"Oh, no! I can't believe I didn't mention it. It's a special material that turns the sunlight into energy. Everything around here is made from it. It's safe to walk on. It's very useful for a lot of things."
+
+_Huh_, thought Effingis. _I hadn't realised they had produced so much of it. World is moving fast._
+
+They took a few steps forward, and Effingis faltered. Breatsch T'Lin tapped Allimby on the shoulder.
+
+"Please could you get the Cryptum something to walk with? A cane? It has been a long day."
+
+Allimby scuttled away to comply, and returned within a few minutes with a walking frame.
+
+Allimby left them at the door to the building, pointing out their shuttle in the distance.
+
+"It looks further away now," Effingis grunted.
+
+Breatsch T'Lin walked at Effingis's pace, just behind him, towards the shuttle. "Feel like an old man," he grunted.
+
+Another figure was approaching to their left, someone tall, wearing a strange suit. The haze of the heat made it hard to see, but after a few more minutes Effingis realised it was a Nematan. It seemed to be heading straight for them.
 
