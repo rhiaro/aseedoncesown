@@ -1615,6 +1615,48 @@ A hot spring from deep in the earth joined the stream beneath the tree. The grou
 
 The very heart of the tree contained many chambers - Saba-Urmra-Calscinthi didn't know how many - each with a shallow pool of gently steaming, cloudy water, channeled through paths formed by the tree's root system from the underground source.
 
+their way to the parts of Saba-Urmra-Calscinthi's body that needed something. Their guide was the moon; Saba-Urmra-Calscinthi angled themself to walk towards it.
+
+They walked and Nem turned, and they slipped out of time.
+
+In the herenow, Enlini-Maqa-Allorasa-Enqo and Iniline-Qama-Allorasa-Semiti prepared the carriers for the 'duction, carefully designed and honed over seasons to bring the changes Saba-Urmra-Calscinthi needed. They introduced them one by one to the substrate that fed the mycelium, which in turn delivered them to Saba-Urmra-Calscinthi's body. The right genes, to the right cells, at the right moment.
+
+Some of the stars had become shooting stars. The edges of Farne started to blur. Saba-Urmra-Calscinthi looked at their hands and feet; they were blurring also. A waterfall rushed by, a great torrent close to their head, just the sound of it. The planet below was still crisp and clear, but shrouded in storm clouds, like the monsoon season had arrived everywhere at once.
+
+The roar of the falls got louder. Saba-Urmra-Calscinthi lost track of their feet. They were deep in the swamp, up to their ankles, then their knees. Something was wrong with the brytosphere! Farne, the guide, the destination, disappeared, then reappeared again, smaller, up ahead. The swam was there, underfoot, cold and wet and shrouded in a low hanging mist, but so was Nem, still turning. The mist and the storm clouds were one and the same. Of course, this wasn't the brytosphere. It must be the herenow. They were walking through the swam at night, stars out and Farne overhead, lighting the way, friends and warmth awaiting them at the far side. They knew the way because they had the map. They patted their pocket to make sure it was still there, a bulge of folded cloth. Must be the other pocket. Inside again, no map, no route, no destination. They stopped walking and bent to search in the murky waters, their hands caught among rushes and weeds and thick, clinging algae. They had it a minute ago, it couldn't be far away... They looked up at the sky and Farne was big again. THe map was etched into its surface. Of course, it always had been.
+
+Farne and Rannouckouch took up the whole sky, having no room for stars or space. It was as bright as day. Saba-Urma-Calscinthi was seeing them through a gap in the thick canopy. Vines sung all around, adorned with flowers, draped with mosses. Everything soaked in ethereal planetlight. Saba-Urmra-Calscinthi floated up, out of the swamp, through the vines, ducking and twisting to avoid getting caught. They crested the canopy and reached up towards Farne; finally their ascent was begun. But they slowed, stopped in the air. They could move still, suspended above the treetops, but only forwards or backwards or side to side. Up and down were out of reach. Perhaps they could see the wide net from here, the overstory from the overstory. It would be a special gift, to see the network. To see its presence in the herenow. Nobody could see it, only its effects.
+
+Saba-Urmra-Calscinthi looked around, rotating their body a full turn. The canopy went on form miles in every direction, smooth and even like a grassland. Farne and Rannouckouch were gone from the sky, Nem must have turned away. Only stars remained. Where was everyone? Saba-Urmra-Calscinthi felt like they were supposed to be celebrating something, but they couldn't do it on their own.
+
+Then Farne and Rannouckouch were by their side, in their people forms, taking a hand each. Farne was slick and silver, a strange unnatural surface, like a moonlit pool made solid. They had no face, only craters for eyes.
+
+Rannouckouch was broad but fragile looking, insubstantial somehow. They had a Flowered's bodybut a plumule's face, all curious innocence. They were covered in petals from head to foot, but the colour of them Saba-Urmra-Calscinthi couldn't place, couldn't quite focus on long enough to see what it was.
+
+Farne reached into Saba-Urmra-Calscinthi's pocket and pulled out the map, pressed it into their chest, but Saba-Urmra-Calscinthi couldn't take it because Farne and Rannouckouch held their hands so tightly. The map fell, tumbling to the trees below, slipping between leaves and branches, disappearing into the thick undergrowth. Saba-Urmra-Calscinthi tried to pull their hands free, tried to ask to be released, but the more they struggled the tighter they were held, and their voice didn't work.
+
+Saba-Urmra-Calscinthi opened their eyes to a green haze. They opened their mouth and water poured in. _This_ was the herenow. It had felt so much like the herenow before, but it couldn't have been, because this was. They sat up, head and shoulders out of the pool, spluttering.
+
+Farne, the map, the overstory... It faded into a dream.
+
+Saba-Urmra-Calscinthi coughed up water and rubbed their eyes. Enlini-Maqa-Allorosa-Enqo and Iniline-Qama-Allorosa-Semiti were waiting to take Saba-Urmra-Calscinthi's hands and lift them to their feet.
+
+The rest of the night came in fits and starts. Saa-Urmra-Calscinthi awoke periodically to the inside of a cocoon, suspended from fine, strong threads, like a fly caught in a web. In between that, they were walking across the brytosphere, or dreaming of the flight over the world. Sometimes they found themself in the synctium, wandering among their own memories and those of others, losing track of which was which; losing track of who they were, like that moment of being the nexus.
+
+And once or twice they were surfing the high net, dancing across messages that toured the world, checking in on friends in the sky tower, Rusterluck, the western reefs, the eastern mountains, and then broadcasting their own story for anyone who was listening.
+
+They wouldn't remember much of this when they woke up, but the people whom they had contacted would do. The 'duction muddle, common enough as a side effect, but Saba-Urmra-Calscinthi had never had it before.
+
+When they came around again, it was the longnight again. They were stretched out in a hammock, under the sky, stars obscured by branches and leaves. For a moment they thought it was still a dream, that they were floating again or back in the brytosphere. But the breeze and the fireflies and the sounds of the wold gradually came into focus. The hammock was hanging from one of the branches of the great tree over the stream. The ground was an easy hop away, should they choose to get down. A steaming bowl rested on a broad branch within arms reach, as if someone had placed it there and then left a mere moment before Saba-Urmra-Calscinthi had opened their eyes.
+
+They sat up, and took the bowl in hand. The hammock swung only a little as they moved.
+
+They drained the hot drink in one. It wasn't pleasant. Healing herbs and compounds to ease the integration of the new genes, mixed into some of the water Saba-Urmra-Calscinthi had been treated in.
+
+They sat for a while. The jungle seemed totally still, except for the gentle swaying of the hammock. They listened to their body, trying to find the changes. There was nothing, yet.
+
+After some time, Saba-Urmra-Calscinthi heard a rustle below. Ussi-Ullumi waved from the ground. Tenna-Yhe-Cala raised both arms above their head and flapped their arms enthusiastically.
+
 * * *
 
 The community of Clifface was named descriptively. Saba-Urmra-Calscinthi always enjoyed visiting, though they had trouble getting about most of the place.
@@ -2410,4 +2452,266 @@ Effingis's heart was pounding. He rolled over in his pod and felt something cold
 Cryptum Elshwynn had died twenty years ago of Regnies Disease, a years-delayed after effect of the radiation leak of year 484. Before then, she had conceived with Cryptum Marabas Daracrin a-Teprem. That was all she had ever wanted: to carry her particular genes on, to send them forward to the new world.
 
 Effingis didn't think Elshwynn's child had been birthed even yet. It would likely be one of the first generation to start their lives on the planet. The a-Nemta generation. The generation that his measly selfish clinging to life was preventing from coming into existence at all.
+
+* * *
+
+----------
+
+Cryptum Effingis Daracrin a-Teprem walked around the balcony that circled Newland Outpost Three. He was on his fifth lap. His knees ached, his back ached, his head ached. Sometimes he had to grasp the railing, breathing hard.
+
+The sun had set. He thought it hadn't been long since, but it seemed very dark all of a sudden. Clouds blotted the stars in places. The moon was bright enough to cast shadows until, every now and again, a cloud swallowed it whole. There was a breeze, but it was warm. It licked at the sweat on his head and neck. The river rumbled, eternal, below.
+
+Earlier that day, Effingis had been down to see the Volt Fragment. The one they had brought up for Cryptum Merrik's Departure Ceremony normally lived at the lowest level of Newland Outpost Three, underneath the river.
+
+It had a room of its own, right below the transport dock. Someone disembarking could walk to the center of the bay and look through a transparent section of floor to see the giant black slab right underneath them. When they needed to move the Fragment, that transparent window turned into an open hatch, and the Fragment was raised up with pulleys. From the dock it could be taken anywhere.
+
+Effingis had stood by it for most of the afternoon. He was sure he could hear the whispers of the people stored inside. They got louder when he moved closer, but stopped when he touched it.
+
+Effingis hadn't made a crani-state snapshot for weeks. Not since T'Lin left. The reminders she had set up for him still went off, but they didn't seem to work without her there to nudge. They were easy to ignore.
+
+If he was uploaded to the Volt now, it would be without a record of those weeks. That would be for the best. They had not been good weeks.
+
+Lap six. He was starting to feel dizzy. He couldn't remember when he had eaten last.
+
+He was supposed to have been in a meeting between the Pedagogy Section and the newly formed Institute of Archaeology that afternoon, not staring at the Volt Fragment. He had lied to them, and told them he was not well. Perhaps it wasn't a lie. He had considered just not going, but someone would have come to find him. Nowhere to hide in this place. Better that they think he was asleep in his pod.
+
+His breath was coming short. He stopped and leaned on the railings. The view down was to almost pure darkness. He could hear the river crashing, and his brain filled in images of the churning waves, foaming against the rocks and the struts of the Outpost from the flecks of white or flashed and choppy reflections of the moon on the rippling water. Every so often a beam of yellow light would leak through as the bay doors opened for a departing or returning transport, bringing the distance to the water into brief, vivid focus.
+
+Cryptum Effingis leaned forward over the railing, captivated by the sound of the water. The metal bar pressed cold and hard into his chest. The whispering was down there. He could hear the Volt Fragment, even from up here, even over the river.
+
+_In the way._
+
+The words came to him. From the Volt Fragment, or his own head? Soon they would be the same thing.
+
+_Get out of the way._
+
+He put one foot into the lower bar of the railing and lifted himself off the floor. The upper bar pressed against his groin as he leaned forwards more, trying to make out the words.
+
+_GET OUT OF THE WAY._
+
+He realised with a jolt that these weren't the voices of the past, coming from the Volt Fragment. These were the voices of the future. Coming from where? Who knew. Maybe the jungle. It didn't matter. What mattered was they weren't alive yet because of him. Well, he knew how to fix that, at least.
+
+He closed his eyes and didn't see the water rushing to meet him.
+
+------------------
+
+Cryptum Effingis awoke to the comforting pinkish orange light of a medical pod. He was no stranger to it. He had spent a couple of years in or beside one when the Daracrin had been seriously damaged by high speed debris passing from the Yei to the Trascant regions of space. Their technology had improved a lot since then, but the form was still the same.
+
+He remembered the balcony and the night and the railing and the river quite clearly, and wondered resignedly how they had got him back from that one.
+
+Unless this was what the Volt felt like?
+
+No, had to be the physical, the Volt wouldn't have those memories.
+
+No part of his body hurt, which meant he must be pretty dosed up on painkillers. He didn't feel too terribly upset about the situation, either.
+
+Through the translucent, misted, warm toned- door of the medipod he could see figures moving about. He knew they'd have been alerted straight away to his regaining consciousness and waited in anticipation for the medipod to open.
+
+The first face he saw was Freilum Anmorth Vansage a-Teprem, the Deputy Chief Medical Officer.
+
+"Pod duties are a bit below your station, aren't they?" Effingis chuckled, or at least tried to. He wasn't convinced his lips and tongue had moved quite the way he wanted them to.
+
+"A bit slurred still, Cryptum, but don't worry," said Anmorth. He sounded friendly but looked severe, with a thin, tight face, and dark eyes contrasting his pale skin. Cryptum Effingis had always struggled to tell whether the man was happy or sad; amused or angry. "We'll have you back up and running soon. You're pleased to see me, I take it? I'll bet. You took quite a fall. There are some people here to see you."
+
+Cryptum Effingis tried to set up, but his body didn't seem interested in helping out. Freilum Anmorth stepped out of view, and Effingis's least favourite assistants, Breatsch Arauga and Breatsch Domnal stood timidly to the side of the pod.
+
+"Morning Cryptum," said Aurauga brightly, but his too-high-pitched laugh betrayed his nervousness. "How're you feeling in there?"
+
+Breatsch Donmal twisted her fingers around her long plait and shuffled from one foot to the other.
+
+Someone else stepped into his field of vision. He squinted, not sure if he had started hallucinating from whatever drugs they had filled his system with. It was Breatsch T'Lin.
+
+She raised a hand in the silent greeting of the shy, and looked at the floor.
+
+Breatsch Amba and Breatsch Ilucia jostled in beside her. They were out of breath.
+
+"We just heard you were awake, Cryptum! We were so worried-"
+
+"My friend is on the team investigating the railing stability to make sure this doesn't hap-"
+
+"He doesn't want to hear about that right now, he can hardly sit. I've buzzed the rest of the group, Cryptum, everyone else should be here soon..."
+
+More and more of his students arrived, filling up the room around the medical pod and chattering, to each other or to him, he couldn't tell. There was a tension in the air that he couldn't place. An solemnity that was somehow electric, like everyone was short on sleep and running on adrenaline. He thought he might have got control of his voice at last, but it didn't seem like he would get an opportunity to use it. Effingis lost sight of Breatsch T'Lin.
+
+Before long, Anmorth showed back up and shooed the students out.
+
+"Sorry about that," he spoke to Effingis with his back turned, clattering with something on the side. "The tall one said she was calling for a couple of others, I didn't realise she was bringing a whole cohort down on you. Let me know if there's anyone you want to see in particular, won't you? We should have you out of here in a few days."
+
+Effingis managed to prop himself up on his elbows so he could see over the sides of the medipod, and cleared his throat.
+
+"How long have I been in here?" His voice was a rasp at first. Anmorth held out a small cup of water for him to sip.
+
+"Six days local," said the medical officer. "Not bad, considering."
+
+"And how is it that you're my nurse?"
+
+Anmorth smiled his thin-lipped ambiguous smile. "Not for fun and games, unfortunately. Three days ago there was a chemical explosion at Outpost Two. Something in the sea bed they weren't expecting. We're down to a skeleton crew here as the rest of the medical staff have shipped off to help out. I was here on my tour of the Outposts, so I've been drafted in. I'd just get in the way on the front lines. People worry too much about looking good in front of me."
+
+Cryptum Effingis slumped back down onto his back as his elbows started to go numb with his weight. He had nothing to say to that. The only person he really knew well at Outpost Two had been Breatsch T'Lin, and she was obviously safe back here, so there was nobody to ask after.
+
+"Want me to sit you up? You'll be able to have something to eat tomorrow."
+
+Effingis shook his head. "I'll sleep," he sighed. "But tomorrow - please ask Breatsch T'Lin, my old assistant, if she will come."
+
+-------------
+
+Breatsch T'Lin came. She was sitting by his side when he woke up, reading something on her palm screen. She looked up when she heard him move. She didn't smile.
+
+"Would you like me to sit you up?"
+
+Cryptum Effingis sighed. "Yes, please."
+
+She must have tapped into the medical pod controls from her palm screen, because she didn't move, but the cushioning inside the pod started to shift around to lift his back. She handed him a cup of water, which he drained, and handed back.
+
+"Thank you for coming back," he started, haltingly.
+
+"There was nothing wrong with the railings," she said.
+
+"They uh. The finished the investigation?"
+
+"No, no doubt they'll investigate until they find something to blame. I know there was nothing wrong with them."
+
+Cryptum Effingis was silent. Breatsch T'Lin was still looking at her screen, not up at him. Effingis still held the cup, his arm resting on the side of the pod. Her palm screen rested in her lap, and her hands were balled into fists.
+
+"Coming back to see you saved my life, I think." The words were choked out, like they had to be ripped from her throat. She looked up at him, with tears in her eyes. He felt his own eyes start to burn. He hadn't felt that in many years.
+
+"What happened?" He whispered. "Breatsch Dneel...?"
+
+T'Lin sniffed and took a deep breath. "Dneel is fine. She was lucky too, away on a field trip at the islands when it happened. She's helping with the recovery. Thought she was needed more there than here. I wasn't sure... I wasn't sure that I could say the same."
+
+"What happened?" He asked again. "How many people...?"
+
+"A thousand? More? They're still finding people. I don't know."
+
+Cryptum Effingis gaped.
+
+"Outpost Two is destroyed. It's gone, I think, half sunk at least. They'll rebuild it, but."
+
+"Who have you lost?"
+
+"I don't know!" Breatsch T'Lin sounded angry. "I haven't looked at the lists. I'm not going to. I can't deal with..." she trailed off.
+
+Effingis thought of her, sitting by his medipod, in this place that was no longer her home, hearing snippets of news of the disaster, waiting for him to wake up, not knowing if he would; waiting to find out if she had a home to go back to, not knowing if she did.
+
+"I'm sorry," he said softly.
+
+She shrugged. "It happened. We move forward. It won't be the last disaster."
+
+She sounded like an aging spacer, a hundred year old who had seen it all. Effingis felt for a moment like he was looking in a mirror.
+
+Breatsch Aurauga turned up, to tell Effingis that the investigation into the railings was still ongoing, but they hadn't worked out what went wrong yet. Freilum Anmorth came by to bring him a thin porridge, and stayed to make sure he ate it all. Breatsch Manty and Breatsch Amba visited to update him on the progress of their projects, and Breatsch Vissingis arrived to share a report about how the Nemtans were aiding Newland Outpost Two with their rescue operations. The students seemed to relish having his undivided attention again. Freilum Turmwald from the Planning and Recovery Institute popped in to ask his opinion on forming a new cohort for disaster response. All the while, T'Lin haunted the corners of the room like a ghost. Like she had nowhere else to go.
+
+Effingis answered them on autopilot, listlessly, distractedly.
+
+_There was nothing wrong with the railings._
+
+_Get out of the way._
+
+He went back to sleep. He wasn't sure if T'Lin was still there, or if she had left.
+
+--------------
+
+The Departure Ceremony for the thirteen hundred and forty six people lost as a result of the explosion at Newland Outpost Two took place five days later.
+
+Effingis's legs were slow to recover. There was nothing else the medical pod could do for him; the rest of the healing was up to his body. He wasn't sure he was up for it. Breatsch Domnal had helped him into a wheelchair and pushed him to the central gallery, where everyone had gathered to listen to the audio of the ceremony at Outpost Two.
+
+Breatsch T'Lin had heard or assumed overstated estimates of the amount of damage to the structure of the Outpost. A strut had collapsed, lower levels had flooded, and about a fifth of the building had fallen into the sea, but it was by no means completely destroyed. It had been stabilised, and the survivors and people from other Outposts flown in to help had gathered in the largest docking bay for the Ceremony.
+
+Breatsch T'Lin could have gone back, but she hadn't. She seemed to be waiting for something. She stood beside him during the ceremony, a hand resting on the top of his chair. Cryptum Effingis tried to listen as people took it in turns to read out the names of those who had died, but it started to sound like a rush of water instead of words.
+
+Five Cryptums had been lost, three from Vansage, one from K'Bel and one from Elmneth. There were no more on other outposts, or on Ripnoth, from Vansage or K'Bel. There was a significance to this. A generation concluded. The Vansage and K'Bel ship councils would meet at some point in the next few days, and formally agree to birth a new generation, the first to be born on a planet in over five hundred years. The Population Section would already be preparing. The stored embryos were on Ripnorth, and would be brought to the planet in batches. The Population Section's nurseries had been reconstructed in Newland itself, one of the first permanent buildings to be erected. They would be more than ready by now.
+
+They would need more than two ships worth, to replace those lost, to survive on this planet, Effingis thought. They would need to stop waiting for the previous generation to die out, too.
+
+Some things had changed very quickly since their arrival here. His Breatsch students seemed to have taken to life planetside as if it was natural to them, as if they belonged here. Structures had been erected, theories confirmed or confounded, questions answered and endless new questions asked. The populations of the different ships mixing as if they had known each other their whole lives, as if they were old friends coming back together, not vague rumours of long lost counterparts, blips on a radar, faceless neighbours from lightyears away.
+
+Other things had not evolved, and it wasn't clear they were going to. The Population Section had seen no reason to change its policies or processes to speed up the introduction of new life to their community.
+
+--------------
+
+Cryptum Effingis decided to make a crani-state snapshot. The medical pod had done one automatically when he was placed inside after being rescued from the river, but there was something unconvincing about not being conscious for it.
+
+He was having trouble raising his arms all the way - they were stiff, like his joints were seizing up - so Breatsch T'Lin helped him fit the pads to his temples. The indicator on his palm screen glowed: yellow to say it was scanning, then violet when it had finished.
+
+Breatsch T'Lin hadn't been talking much, these past few days. Mostly Effingis assumed it was because Breatsch Aurauga was around, who rarely let anyone else get a word in edgeways. But they had been alone all morning, and still she said nothing.
+
+"I'm sorry," Cryptum Effingis said. "Breatsch T'Lin. For driving you away. I know it's my fault you left. I'm sorry."
+
+Breatsch T'Lin burst into tears.
+
+Effingis reached out to take her hand. He didn't know what else to do.
+
+"I'm sorry," she spluttered eventually. "I lied. I didn't know how... I didn't believe..."
+
+"Breatsch Dneel?" Effingis's eyes were wide, his heart pounding.
+
+Breatsch T'Lin nodded, pressing her palms into her eyes, trying hard to take deep, calming breaths, not doing very well at it. Her chest shuddered, out of her control.
+
+"She might be... there's still a chance..."
+
+Effingis picked up his palm screen, found the list of names of the Departed. Breatsch Dneel Vansage a-Yei was not on it.
+
+"Still missing," T'Lin managed to choke out. "I don't know when they'll list her. I can't go back. Until I know."
+
+"The explosion?"
+
+"She was out in the islands. Coming back, I guess, or something. There was a tidal wave. Two groups never returned. They thought, maybe, they hadn't checked back in in the chaos. But now. There's still no sign of them. There would be something by now. If they had come back. We'd know."
+
+"The Nemtans?"
+
+"They're looking. Of course they're looking. Those islands, they're chaos, we haven't mapped them. There are reefs and shallows and tiny tiny islands just rocks, we don't know it all, and there are caves, all kinds of places. We've done flyovers, but they can't really spare the shuttles. The Nemtans are looking but I think, I guess, I don't know. They must have their own losses. The tidal wave... They had communities in those islands. They're helping us, but we're not helping them. How can we?"
+
+They sat in silence for a while.
+
+Then Breatsch T'Lin said: "It's not your fault we left. Well mostly not."
+
+"What?"
+
+"So please don't blame yourself, for Dneel I mean. For us being at Outpost Two."
+
+"Then why?"
+
+"Dneel had an opportunity from a colleague from Vansage. They needed more field researchers who could speak the Nemtan language. So they were taking level ones. It was too good a chance to miss."
+
+"And you?"
+
+"There was a rumour that they might open a new genetics research lab. Just a rumour, but Dneel wanted to go for sure, and I. I was so angry with you." T'Lin looked down at her hands. "You just disappeared on us."
+
+"Did you get in? To genetics?"
+
+Breatsch T'Lin nodded. "It's really good," she laughed through a sob. "I just clean up the lab after the students. But I'm learning so much. I get to go to all their meetings, read all their papers."
+
+"I'm glad," said Effingis. "I'm happy for you. I'm _proud_ of you. You weren't meant to be following me around taking notes for your whole life."
+
+Breatsch T'Lin nodded, wiping her eyes and nose on her sleeve.
+
+"Of course, I don't know if the lab is still there now. It wasn't in the part that collapsed. But it might have been repurposed. Or flooded."
+
+"But the work remains," said Effingis. "They need you. We all need you."
+
+--------
+
+The Oversight Committee met to debate birthing new generations for the other ships at the same time as those for Vansage and K'Bel. Cryptum Effingis cast his vote in favour. The result was a tie.
+
+-------
+
+"I want to see Daracrin again," Effingis told T'Lin. "Do you know if it's possible?"
+
+"It might be," she said, turning to a surface screen. "There are shuttles leaving from Outpost Four in a week or two. Oh but they're being decommissioned, actually, it'll be their last launch."
+
+She paused.
+
+"But you're not coming back, are you?"
+
+Cryptum Effingis had realised it in the same moment T'Lin had.
+
+Breatsch T'Lin made the arrangements for their journey to Outpost Four. She would accompany Effingis to the shuttle, but not all the way to the base station. There was still no word about the missing researchers, but the agony of not knowing had reduced to a dull ache. Effingis couldn't tell if T'Lin was still clinging to a molecule of hope, or if she had accepted the situation. She probably didn't know herself. She was taking it one day at a time.
+
+Effingis occupied his time by reading compulsively about the Volt. As if he would find a clue about what happened to peoples' minds in there. It's not like anybody had ever come out to report back.
+
+The Volt Fragments started to look to him like jagged voids, cut out from reality. A hole for consciousness to fall down.
+
+But it's not lost, he told himself. It's never lost. It's accessible, then, for everyone, for ever more. He reassured himself by searching through the central database interface for information he knew had only been carried in the heads (or, perhaps, hearts) of friends from his youth. What Cryptum Lesjid Daracrin a-Uisir had eaten for breakast on the day of her partner's death, and why it mattered. Why Ancht Byallamora Daracrin a-Teprem had volunteered for the space walk which saved a thousand lives, and cost him his own. What Cryptum Elshwynn Daracrin an-Imtux had seen in him, in Cryptum Effingis Daracrin a-Teprem, in spite of everything. The kinds of things you only search for if you know to look. The kinds of things that are so deep in the Volt, so undiscoverable, that they might as well be lost. Effingis shuddered involuntarily. His friends were gone, all of them. Yet he could still find out their secrets. The things they never expected anyone to know, suddenly exposed. Or if not exposed, then vulnerable.
+
+He closed the interface down. He was torn between whether this would be what they wanted, whether this was the immortality they had envisioned, or if he was violating their memories.
 

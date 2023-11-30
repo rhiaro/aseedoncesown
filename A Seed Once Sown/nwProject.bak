@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<novelWriterXML appVersion="1.6.6" fileVersion="1.3" hexVersion="0x010606f0" timeStamp="2023-11-29 10:57:18">
+<novelWriterXML appVersion="1.6.6" fileVersion="1.3" hexVersion="0x010606f0" timeStamp="2023-11-30 22:58:11">
   <project>
     <name>A Seed, Once Sown</name>
     <title></title>
     <author>Rhia Ro</author>
     <saveCount>3</saveCount>
-    <autoCount>128</autoCount>
-    <editTime>2350019</editTime>
+    <autoCount>130</autoCount>
+    <editTime>2479672</editTime>
   </project>
   <settings>
     <doBackup>True</doBackup>
@@ -14,10 +14,10 @@
     <spellCheck>False</spellCheck>
     <spellLang>None</spellLang>
     <autoOutline>True</autoOutline>
-    <lastEdited>4355e81313d39</lastEdited>
+    <lastEdited>9a6ad89320d23</lastEdited>
     <lastViewed>None</lastViewed>
-    <lastWordCount>42942</lastWordCount>
-    <novelWordCount>42592</novelWordCount>
+    <lastWordCount>47726</lastWordCount>
+    <novelWordCount>47376</novelWordCount>
     <notesWordCount>350</notesWordCount>
     <autoReplace/>
     <titleFormat>
@@ -86,10 +86,10 @@
       <status>New</status>
       <exported>True</exported>
       <layout>DOCUMENT</layout>
-      <charCount>78247</charCount>
-      <wordCount>13255</wordCount>
-      <paraCount>326</paraCount>
-      <cursorPos>75556</cursorPos>
+      <charCount>84237</charCount>
+      <wordCount>14239</wordCount>
+      <paraCount>357</paraCount>
+      <cursorPos>83671</cursorPos>
     </item>
     <item handle="9a6ad89320d23" order="2" parent="e41308854709e">
       <name>A Story, Retold</name>
@@ -98,10 +98,10 @@
       <status>New</status>
       <exported>True</exported>
       <layout>DOCUMENT</layout>
-      <charCount>67603</charCount>
-      <wordCount>11773</wordCount>
-      <paraCount>334</paraCount>
-      <cursorPos>65909</cursorPos>
+      <charCount>88762</charCount>
+      <wordCount>15573</wordCount>
+      <paraCount>464</paraCount>
+      <cursorPos>89780</cursorPos>
     </item>
     <item handle="21bf8fe10139c" order="1" parent="None">
       <name>Plot</name>
