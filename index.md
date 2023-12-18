@@ -2467,8 +2467,6 @@ Effingis didn't think Elshwynn's child had been birthed even yet. It would likel
 
 * * *
 
-----------
-
 Cryptum Effingis Daracrin a-Teprem walked around the balcony that circled Newland Outpost Three. He was on his fifth lap. His knees ached, his back ached, his head ached. Sometimes he had to grasp the railing, breathing hard.
 
 The sun had set. He thought it hadn't been long since, but it seemed very dark all of a sudden. Clouds blotted the stars in places. The moon was bright enough to cast shadows until, every now and again, a cloud swallowed it whole. There was a breeze, but it was warm. It licked at the sweat on his head and neck. The river rumbled, eternal, below.
@@ -2505,7 +2503,7 @@ He realised with a jolt that these weren't the voices of the past, coming from t
 
 He closed his eyes and didn't see the water rushing to meet him.
 
-------------------
+* * *
 
 Cryptum Effingis awoke to the comforting pinkish orange light of a medical pod. He was no stranger to it. He had spent a couple of years in or beside one when the Daracrin had been seriously damaged by high speed debris passing from the Yei to the Trascant regions of space. Their technology had improved a lot since then, but the form was still the same.
 
@@ -2569,27 +2567,25 @@ Effingis shook his head. "I'll sleep," he sighed. "But tomorrow - please ask Bre
 
 Breatsch T'Lin came. She was sitting by his side when he woke up, reading something on her palm screen. She looked up when she heard him move. She didn't smile.
 
-"Would you like me to sit you up?"
+Cryptum Effingis sighed. "Please could you sit me up?"
 
-Cryptum Effingis sighed. "Yes, please."
-
-She must have tapped into the medical pod controls from her palm screen, because she didn't move, but the cushioning inside the pod started to shift around to lift his back. She handed him a cup of water, which he drained, and handed back.
+She must have tapped into the medical pod controls from her palm screen, because she didn't move, but the cushioning inside the pod started to shift around to lift his back. There was a cup of water on the side, but T'Lin made no move to hand it to him. When he was upright, Effingis reached for hit himself, and drained it.
 
 "Thank you for coming back," he started, haltingly.
 
-"There was nothing wrong with the railings," she said.
+"There was nothing wrong with the railings," she said, voice barely above a whisper.
 
-"They uh. The finished the investigation?"
+"They uh. They finished the investigation?"
 
-"No, no doubt they'll investigate until they find something to blame. I know there was nothing wrong with them."
+"No, no doubt they'll investigate until they find something to blame. I know there was nothing wrong with them." The words were choked out, like they had to be ripped from her throat.
 
 Cryptum Effingis was silent. Breatsch T'Lin was still looking at her screen, not up at him. Effingis still held the cup, his arm resting on the side of the pod. Her palm screen rested in her lap, and her hands were balled into fists.
 
-"Coming back to see you saved my life, I think." The words were choked out, like they had to be ripped from her throat. She looked up at him, with tears in her eyes. He felt his own eyes start to burn. He hadn't felt that in many years.
+Finally T'Lin raised her head; there were tears in her eyes. Effingis felt his own eyes start to burn. He hadn't felt that in many years.
 
 "What happened?" He whispered. "Breatsch Dneel...?"
 
-T'Lin sniffed and took a deep breath. "Dneel is fine. She was lucky too, away on a field trip at the islands when it happened. She's helping with the recovery. Thought she was needed more there than here. I wasn't sure... I wasn't sure that I could say the same."
+T'Lin sniffed and took a deep breath. "Dneel is fine. She was lucky, away on a field trip at the islands when it happened. She's helping with the recovery. Thought she was needed more there than here."
 
 "What happened?" He asked again. "How many people...?"
 
@@ -2621,7 +2617,7 @@ _Get out of the way._
 
 He went back to sleep. He wasn't sure if T'Lin was still there, or if she had left.
 
---------------
+* * *
 
 The Departure Ceremony for the thirteen hundred and forty six people lost as a result of the explosion at Newland Outpost Two took place five days later.
 
@@ -2637,9 +2633,9 @@ They would need more than two ships worth, to replace those lost, to survive on 
 
 Some things had changed very quickly since their arrival here. His Breatsch students seemed to have taken to life planetside as if it was natural to them, as if they belonged here. Structures had been erected, theories confirmed or confounded, questions answered and endless new questions asked. The populations of the different ships mixing as if they had known each other their whole lives, as if they were old friends coming back together, not vague rumours of long lost counterparts, blips on a radar, faceless neighbours from lightyears away.
 
-Other things had not evolved, and it wasn't clear they were going to. The Population Section had seen no reason to change its policies or processes to speed up the introduction of new life to their community.
+Other things had not evolved, and it wasn't clear they were going to. Despite everything, the Population Section had seen no reason to change its policies or processes to speed up the introduction of new life to their community.
 
---------------
+* * *
 
 Cryptum Effingis decided to make a crani-state snapshot. The medical pod had done one automatically when he was placed inside after being rescued from the river, but there was something unconvincing about not being conscious for it.
 
@@ -2647,39 +2643,19 @@ He was having trouble raising his arms all the way - they were stiff, like his j
 
 Breatsch T'Lin hadn't been talking much, these past few days. Mostly Effingis assumed it was because Breatsch Aurauga was around, who rarely let anyone else get a word in edgeways. But they had been alone all morning, and still she said nothing.
 
-"I'm sorry," Cryptum Effingis said. "Breatsch T'Lin. For driving you away. I know it's my fault you left. I'm sorry."
+"I'm sorry," Cryptum Effingis said. "Breatsch T'Lin. For driving you away. I know it's my fault you left. I'm sorry. And now, you're back. But you should be with Breatsch Dneel. Please don't stay here on my account."
 
 Breatsch T'Lin burst into tears.
 
 Effingis reached out to take her hand. He didn't know what else to do.
 
-"I'm sorry," she spluttered eventually. "I lied. I didn't know how... I didn't believe..."
+Breatsch T'Lin sobbed for a few minutes, muffling the sound with her hands, trying and failing to hold each and every one back. Gradually, they subsided.
 
-"Breatsch Dneel?" Effingis's eyes were wide, his heart pounding.
-
-Breatsch T'Lin nodded, pressing her palms into her eyes, trying hard to take deep, calming breaths, not doing very well at it. Her chest shuddered, out of her control.
-
-"She might be... there's still a chance..."
-
-Effingis picked up his palm screen, found the list of names of the Departed. Breatsch Dneel Vansage a-Yei was not on it.
-
-"Still missing," T'Lin managed to choke out. "I don't know when they'll list her. I can't go back. Until I know."
-
-"The explosion?"
-
-"She was out in the islands. Coming back, I guess, or something. There was a tidal wave. Two groups never returned. They thought, maybe, they hadn't checked back in in the chaos. But now. There's still no sign of them. There would be something by now. If they had come back. We'd know."
-
-"The Nemtans?"
-
-"They're looking. Of course they're looking. Those islands, they're chaos, we haven't mapped them. There are reefs and shallows and tiny tiny islands just rocks, we don't know it all, and there are caves, all kinds of places. We've done flyovers, but they can't really spare the shuttles. The Nemtans are looking but I think, I guess, I don't know. They must have their own losses. The tidal wave... They had communities in those islands. They're helping us, but we're not helping them. How can we?"
-
-They sat in silence for a while.
-
-Then Breatsch T'Lin said: "It's not your fault we left. Well mostly not."
+"It's not your fault we left. Well mostly not."
 
 "What?"
 
-"So please don't blame yourself, for Dneel I mean. For us being at Outpost Two."
+"So please don't blame yourself. For us being at Outpost Two."
 
 "Then why?"
 
@@ -2691,7 +2667,7 @@ Then Breatsch T'Lin said: "It's not your fault we left. Well mostly not."
 
 "Did you get in? To genetics?"
 
-Breatsch T'Lin nodded. "It's really good," she laughed through a sob. "I just clean up the lab after the students. But I'm learning so much. I get to go to all their meetings, read all their papers."
+Breatsch T'Lin nodded. "It was really good," she laughed through a sob. "I just clean up the lab after the students. But I was learning so much. I got to go to all their meetings, read all their papers."
 
 "I'm glad," said Effingis. "I'm happy for you. I'm _proud_ of you. You weren't meant to be following me around taking notes for your whole life."
 
@@ -2717,7 +2693,7 @@ She paused.
 
 Cryptum Effingis had realised it in the same moment T'Lin had.
 
-Breatsch T'Lin made the arrangements for their journey to Outpost Four. She would accompany Effingis to the shuttle, but not all the way to the base station. There was still no word about the missing researchers, but the agony of not knowing had reduced to a dull ache. Effingis couldn't tell if T'Lin was still clinging to a molecule of hope, or if she had accepted the situation. She probably didn't know herself. She was taking it one day at a time.
+Breatsch Araunga came by and Effingis had hiim made the arrangements for the journey to Outpost Four. Araunga and Breatsch Amba tussled over who would accompany the Cryptum to the launch site. Eventually they decided they would both go. Effingis took it as read that T'Lin would travel with them of course, and rolled his eyes across the room at her as the other two argued. He hardly needed an entire entourage.
 
 Effingis occupied his time by reading compulsively about the Volt. As if he would find a clue about what happened to peoples' minds in there. It's not like anybody had ever come out to report back.
 
@@ -2725,15 +2701,9 @@ The Volt Fragments started to look to him like jagged voids, cut out from realit
 
 But it's not lost, he told himself. It's never lost. It's accessible, then, for everyone, for ever more. He reassured himself by searching through the central database interface for information he knew had only been carried in the heads (or, perhaps, hearts) of friends from his youth. What Cryptum Lesjid Daracrin a-Uisir had eaten for breakast on the day of her partner's death, and why it mattered. Why Ancht Byallamora Daracrin a-Teprem had volunteered for the space walk which saved a thousand lives, and cost him his own. What Cryptum Elshwynn Daracrin an-Imtux had seen in him, in Cryptum Effingis Daracrin a-Teprem, in spite of everything. The kinds of things you only search for if you know to look. The kinds of things that are so deep in the Volt, so undiscoverable, that they might as well be lost. Effingis shuddered involuntarily. His friends were gone, all of them. Yet he could still find out their secrets. The things they never expected anyone to know, suddenly exposed. Or if not exposed, then vulnerable.
 
-He closed the interface down. He was torn between whether this would be what they wanted, whether this was the immortality they had envisioned, or if he was violating their memories. What secrets of this world would Breatsch T'Lin be able to look up once he was gone? [5015]
+He closed the interface down. He was torn between whether this would be what they wanted, whether this was the immortality they had envisioned, or if he was violating their memories. What secrets of this world would Breatsch T'Lin be able to look up once he was gone?
 
-——–
-
-"The journey will be hard on you," said Freilum Anmorth. "And the time on the station even more so. Are you sure about this? Be aware that you're going against my advice."
-
-"Just give me what you can to get me there," said Effingis. "And let me worry about the rest."
-
-Anmorth was loading him up with drugs to shield him from radiation sickness, to strengthen his lungs, to reduce dizziness. Anything he could think of.
+* * *
 
 "The journey will be hard on you," said Freilum Anmorth. "And the time on the station even more so. Are you sure about this? Be aware that you're going against my advice."
 
@@ -2743,31 +2713,31 @@ Anmorth was loading him up with drugs to shield him from radiation sickness, to 
 
 He must have known that the treatments he provided were dangerous in the long term. Or even medium term. But he said: "they'll fix you up on the other end. In some ways the medical tech they have up their is better than what's down here. It's been tried and tested through so much. Just get yourself in a medipod as soon as you arrive. You'll be good to go."
 
-Cryptum Effingis and Breatsch T'Lin took a scooter to Newland Outpost Four. The scooters were almost fun; Effingis had never been in one before. It was like a minuture shuttlecraft, but low flying, squat and streamlined. The designs had been made centuries before, but none had been built until their arrival on the planet. They were good for short distances, and could just about maintain a height enought to shoot over the top of the jungle canopy. They buzzed like a fly, and Effinigs cranked open a window just a little to feel the warm air rushing in, until T'Lin had breathlessly insisted he close it.
+Cryptum Effingis, Breatsch T'Lin, Breatsch Araunga and Breatsch Amba took a scooter to Newland Outpost Four. The scooters were almost fun; Effingis had never been in one before. It was like a minuture shuttlecraft, but low flying, squat and streamlined. The designs had been made centuries before, but none had been built until their arrival on the planet. They were good for short distances, and could just about maintain a height enought to shoot over the top of the jungle canopy. They buzzed like a fly, and Effinigs cranked open a window just a little to feel the warm air rushing in, until Amba had breathlessly insisted he close it.
 
 At Newland Outpost Four they were met by two keen young assistants. Breatsch Allimby Elmneth a-Gracum welcomed them and talked at length about the facilities and amenities of the Outpost. Effingis was starting to wonder why, but his question was soon answered by Breatsch Malarin Elmneth an-Imtux, who finally interrupted to inform them, with an abrupt and completely unapologetic manner, that they were experiencing some delays with the launch.
 
-Cryptum Effingis and Breatsch T'Lin sat in a waiting room, choosing not to avail themselves of the facilities that had been described, except for some hot allura. The room had tall windows, was one storey above ground level, and looked out onto the launch pads where shuttles were being shunted around on wheeled platforms. Effingis was already starting to miss the jungle. The air was somehow even hotter, and there were no trees to be seen. Everything was coated in a layer of dust or grit, and the smells assaulted him. He couldn't figure out if they were pleasant or not - they were just so different. He remembered that the jungle had been like that when he had first arrived, but he must have got used to it. This place was different again.
+They sat in a waiting room, choosing not to avail themselves of the facilities that had been described, except Effingis and Amba accepted some hot allura. The room had tall windows, was one storey above ground level, and looked out onto the launch pads where shuttles were being shunted around on wheeled platforms. Effingis was already starting to miss the jungle. The air was somehow even hotter, and there were no trees to be seen. Everything was coated in a layer of dust or grit, and the smells assaulted him. He couldn't figure out if they were pleasant or not - they were just so different. He remembered that the jungle had been like that when he had first arrived, but he must have got used to it. This place was different again.
 
 The launch pads were in the middle of a broad metal expanse that had been built over the packed sand of the ground. Rails and wireless guidance systems and all kinds of technologies that engineers had been dreaming of and planning but never been able to implement on board the ships had finally been put into place. It had ended up being a bit of a hodge podge, some parts working better than others.
 
 The delays kept coming. Some were to do with local equipment malfunctions. Apparently not unusual. Some were to do with the shuttles themselves, which were reaching the ends of their useful lives anyway. _It's a wonder we ever got anything in the air_, thought Effingis.
 
-Breatsch Allimby and Breatsch Malarin were in and out, bringing updates or snacks or interesting facts about the desert. Eager to please, but not sure what to do. Effingis had no idea who was supposed to have been supervising them. He had the impression this was their first real assignment.
+Breatsch Allimby and Breatsch Malarin were in and out, bringing updates or snacks or interesting facts about the desert. Eager to please, but not sure what to do. Araunga was content to chat their ears off, while Amba seemed preoccupied with her palm screen. T'Lin remained silent, staring out of the window at the dusty landscape. Effingis had no idea who was supposed to have been supervising them. He had the impression this was their first real assignment.
 
 At long last, Breatsch Allimby came trotting down some stairs that apparently led to the place all of the information came from. Her smiles had been becoming increasingly forced, Effingis thought, over the past couple of hours, but the one she wore now seemed real enough.
 
-"It's ready!" She gasped. Cryptum Effingis and Breatsch T'Lin stood up to meet her. "They've fixed your shuttle. Look, it's that one," she pointed out the window to one not too far away. "We can walk to it."
+"It's ready!" She gasped. Cryptum Effingis and the others stood up to meet her. "They've fixed your shuttle. Look, it's that one," she pointed out the window to one not too far away. "We can walk to it."
 
 Cryptum Effingis's legs were stiff, and the metal ground outside looked like it was wobbling in the heat.
 
-Breatsch T'Lin frowned. "Isn't the ground hot, out there?"
+Breatsch Araunga frowned. "Isn't the ground hot, out there?"
 
 "Oh, no! I can't believe I didn't mention it. It's a special material that turns the sunlight into energy. Everything around here is made from it. It's safe to walk on. It's very useful for a lot of things."
 
 _Huh_, thought Effingis. _I hadn't realised they had produced so much of it. World is moving fast._
 
-They took a few steps forward, and Effingis faltered. Breatsch T'Lin tapped Allimby on the shoulder.
+They took a few steps forward, and Effingis faltered. Breatsch Amba tapped Allimby on the shoulder.
 
 "Please could you get the Cryptum something to walk with? A cane? It has been a long day."
 
@@ -2777,21 +2747,21 @@ Allimby left them at the door to the building, pointing out their shuttle in the
 
 "It looks further away now," Effingis grunted.
 
-Breatsch T'Lin walked at Effingis's pace, just behind him, towards the shuttle. "Feel like an old man," he grunted.
+Breatsch Araunga walked alongside the Cryptum, looking tense, like he needed to be ready to catch Effingis if he fell. Breatsch Amba walked at Effingis's pace, half a step behind him, towards the shuttle. T'Lin brought up the rear. "Feel like an old man," he grunted.
 
 Another figure was approaching to their left, someone tall, wearing a strange suit. The haze of the heat made it hard to see, but after a few more minutes Effingis realised it was a Nematan. It seemed to be heading straight for them.
 
-They reached the shuttle at about the same time. It waited, a few paces back, for Effingis and T'Lin to board first. Somehow it seemed as uncertain of them as Effingis was of it.
+They reached the shuttle at about the same time. It waited, a few paces back, for Effingis and his companions to board first. Somehow it seemed as uncertain of them as Effingis was of it.
 
 It wore a dark, loose robe, covered in pockets, with a long pointed hood hanging down the back. Its skin was about the same colour as the robe, almost black, but with hints of something else. Greenish, perhaps. From a distance it looked like it had a headful of hair, but as it drew closer Effingis saw that they were some kind of wide, flat, pustules or skin flaps. It's features were delicate, a small nose and mouth, and leaf shaped eyes strangely like T'Lin's.
 
-Effingis paused at the ramp, turning to say his goodbye to T'Lin. His final goodbye.
+Effingis paused at the ramp, turning to say his goodbyes to his assistants. His final goodbye.
 
 A buzzing, crackling voice came out of a speaker panel in the shuttle overhead. Effingis saw the Nemtan visibly jump in surprise.
 
 "Uh hello again folks. I know you've been sitting around a lot already today and I've got some good news and some bad news." Cryptum Effingis rolled his eyes. "This is your pilot speaking, by the way, I'm Freilum Antisch K'Bel an-Imtux, pleasure to meet you. I'll meet you properly later no doubt. Well the bad news is this shuttle is going to have to wait a bit longer before going anywhere, our transport to take us to the launch site has broken down. The good news is, you get to enjoy the interior of the shuttle, which should be much more cool and pleasant and generally nice than the waiting room you've just been in. Load up. Anyone who is not launching with us today can get inside too, come take a look around. I'll let you know when it's time to leave, and you can disembark if you've changed your mind. We'll be doing a quick stop by _the moon_ en route, to drop off our guest."
 
-Breatsch T'Lin shrugged. "I might as well come in then. The pilot is right, it's probably nicer than waiting in the building."
+Breatsch Araunga shrugged. "We might as well come in then. The pilot is right, it's probably nicer than waiting in the building." Amba was nodding vigorously, with a sideways look at the Nemtan.
 
-The three of them boarded.
+All of them boarded.
 
